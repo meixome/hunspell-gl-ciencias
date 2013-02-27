@@ -1,0 +1,725 @@
+##############################################
+##### Sistema Internacional de Unidades ######
+##############################################
+
+
+### Prefixo dos múltiplos e submúltiplos para formar o sistema decimal ###
+
+# Prefixo
+yotta
+zetta
+exa
+peta
+tera
+xiga
+mega
+quilo
+hecto
+deca
+deci
+centi
+mili
+micro
+nano
+pico
+femto
+atto
+zepto
+yocto
+
+# Símbolo
+Y
+Z
+E
+P
+T
+G
+M
+k
+h
+da
+d
+c
+m
+μ
+n
+p
+f
+a
+z
+y
+
+# Escala curta
+septillón
+sextillón
+quintillón
+cuadrillón
+trillón
+billón
+millón
+millar
+centena
+decena
+unidade
+décimo
+centésimo
+milésimo
+millonésimo
+billonésimo
+trillonésimo
+cuadrillonésimo
+quintillonésimo
+sextillonésimo
+septillonésimo
+
+# Escala longa
+cuadrillón
+millar de trillón
+trillón
+millar de billón
+billón
+millar de millón
+millón
+millar
+centena
+decena
+unidade
+décimo
+centésimo
+milésimo
+millonésimo
+milésimo de millonésimo
+billonésimo
+milésimo de billonésimo
+trillonésimo
+milésimo de trillonésimo
+quadrillonésimo
+
+
+##### UNIDADES #####
+
+## Unidades do Sistema Internacional ##
+
+#Magnitude
+
+Lonxitud
+Masa
+Tempo
+Intensidade de corrente eléctrica
+Temperatura
+Intensidade luminosa
+
+#Unidade
+
+metro
+quilogramo
+segundo
+amperio
+kelvin
+mol
+candela
+
+#Símbolo
+m
+kg
+s
+A
+K
+mol
+cd
+
+## Unidades Derivadas do Sistema Internacional ##
+
+# Magnitude física
+
+magnitude física
+frecuencia
+forza
+presión
+enerxía
+traballo
+calor
+potencia
+carga eléctrica
+potencial eléctrico
+forza electromotriz
+resistencia eléctrica
+condutividade eléctrica
+capacitancia eléctrica
+densidade de fluxo magnético
+indutividade magnética
+fluxo magnético
+inductancia
+temperatura
+ángulo plano
+ángulo sólido
+Fluxo luminoso
+iluminancia
+actividade radioactiva
+dose de radiación absorbida
+dose equivalente
+actividade catalítica
+
+
+# Nomes das unidades
+
+hertz
+newton
+pascal
+joule
+watt
+coulombio
+voltio
+ohm
+siemens
+farad
+tesla
+wéber
+henry
+grao Celsius
+radián
+estereorradián
+lumen
+lux
+becquerel
+gray
+Sievert
+katal
+
+
+# Símbolos das unidades
+
+Hz
+N
+Pa
+J
+W
+C
+V
+Ω
+S
+F
+T
+Wb
+H
+°C
+rad
+sr
+lm
+lx
+Bq
+Gy
+Sv
+kat
+
+
+# Expresada en unidades derivadas
+
+s⁻¹
+m·kg·s²
+N·m⁻²
+N·m
+J·s⁻¹
+A·s
+J·C⁻¹
+V·A⁻¹
+A·V⁻¹
+C·V⁻¹
+V·s·m⁻²
+V·s
+V·A⁻¹·s
+K
+cd·sr
+cd·sr·m⁻²
+s⁻¹
+J·kg⁻¹
+J·kg⁻¹
+mol·s⁻¹
+
+
+# Expresada en unidades básicas
+
+m⁻¹·kg·s⁻²
+m2·kg·s⁻²
+m2·kg·s⁻³
+m2·kg·s⁻³·A⁻¹
+m2·kg·s⁻³·A⁻²
+m⁻²·kg⁻¹·s³·A2
+m⁻²·kg⁻¹·s⁴·A2
+kg·s⁻²·A⁻¹
+m2·kg·s⁻²·A⁻¹
+m2·kg·s⁻²·A⁻²
+m·m⁻¹
+m2·m⁻²
+m2·s⁻²
+m2·s⁻²
+
+
+## Outras Unidades
+
+# Magnitude física
+área
+volume
+velocidade
+rapidez
+velocidade angular
+aceleración
+momento
+número de ondas
+densidade
+volume específico
+concentración
+volume molar
+capacidade de calor
+entropía
+capacidade molar de calor
+entropía molar
+capacidade de calor específico
+entropía específica
+enerxía molar
+enerxía específica
+densidade de enerxía
+tensión superficial
+densidade de fluxo de calor
+conductividade térmica
+viscosidade cinemática
+coeficiente de difusión
+viscosidade dinámica
+densidade de carga eléctrica
+densidade de corrente eléctrica
+conductividade eléctrica
+conductividade molar
+permisividade
+permeabilidade
+intensidade de campo eléctrico
+intensidade de campo magnético
+luminancia
+exposición (raios X e gamma)
+taxa de dose absorbida
+
+
+## Outras expresadas en unidades derivadas
+
+m2
+m3
+m·s⁻¹
+s⁻¹, rad·s⁻¹
+m·s⁻²
+N·m
+m⁻¹
+kg·m⁻³
+m3·kg⁻¹
+mol·m⁻³
+m3·mol⁻¹
+J·K⁻¹
+J·K⁻¹·mol⁻¹
+J·K⁻¹·kg⁻¹
+J·mol⁻¹
+J·kg⁻¹
+J·m⁻³
+N·m⁻¹=J·m⁻²
+W·m⁻²
+W·m⁻¹·K⁻¹
+m2·s⁻¹
+N·s·m⁻² = Pa·s
+C·m⁻³
+A·m⁻²
+S·m⁻¹
+S·m2·mol⁻¹
+F·m⁻¹
+H·m⁻¹
+V·m⁻¹
+A·m⁻¹
+cd·m⁻²
+C·kg⁻¹
+Gy·s⁻¹
+
+
+## Outras expresadas en unidades básicas
+
+m²
+m³
+m·s⁻¹
+s⁻¹, rad·s⁻¹
+m·s⁻²
+m2·kg·s⁻²
+m⁻¹
+kg·m⁻³
+m³·kg⁻¹
+mol·m⁻³
+m³·mol⁻¹
+2·kg·s⁻²·K⁻¹
+m2·kg·s⁻²·K⁻¹·mol⁻¹
+m2·s⁻²·K⁻¹
+m2·kg·s⁻²·mol⁻¹
+m2·s⁻²
+m⁻¹·kg·s⁻²
+kg·s⁻²
+kg·s⁻³
+m·kg·s⁻³·K⁻¹
+m²·s⁻¹
+m⁻¹·kg·s⁻¹
+m⁻³·s·A
+A·m⁻²
+m⁻³·kg⁻¹·s³·A²
+kg⁻¹·mol⁻¹·s³·A²
+m⁻³·kg⁻¹·s⁴·A²
+m·kg·s⁻²·A⁻²
+m·kg·s⁻³·A⁻¹
+A·m⁻¹
+cd·m⁻²
+kg⁻¹·s·A
+m2·s⁻³
+
+## Derivados de metro
+
+yottámetros	
+zettámetros	
+exámetros	
+petámetros	
+terámetros	
+gigámetros	
+megámetros	
+miriámetros	
+quilómetros	
+hectómetros	
+decámetros	
+
+decímetros
+centímetros
+milímetros
+micrómetros
+nanómetros
+ångströms
+picómetros
+femtómetros
+attómetros
+zeptómetros
+yoctómetros
+
+##############################################
+##### Outros Sistemas de Unidades ############
+##############################################
+
+##### Medidas tradicionais galegas #####
+
+### Lonxitude
+vara
+varapé
+pé
+tercia
+polgada
+furco
+palmo
+cuarta
+braza
+paso
+zancada
+milla
+
+## Superficie
+ferrado
+vara
+
+## Capacidade
+cuartillo
+neto
+azumbre
+cuartilla
+canada
+cántaro
+ola
+cabazo
+cañado
+moio
+sella
+cunca
+cuarto
+esca
+ferrado
+fanega
+tega
+
+# Peso
+libra
+onza
+quintal
+
+# Contaxe
+manda
+rixelo
+quiñón
+medidas
+ducia
+vareta
+
+# Temporal
+sorte
+
+## Varios
+centiárea
+dunam métrico
+barn
+braza
+
+
+
+#### Sistema inglés de medidas #####
+
+iarda
+polgada cadrada
+pé cadrado
+iarda cadrada
+rod cadrado
+rood
+acre
+homestead
+milla
+milla cadrada
+legua cadrada
+furlongs
+rods
+pés
+
+##### Unidades do sistema ceguesimal ou sistema CGS Magnitude #####
+
+# Unidades
+
+Lonxitude
+Masa
+Tempo
+Aceleración
+Forza
+Enerxía
+Potencia
+Presión
+Viscosidade cinemática
+Carga eléctrica
+Potencial eléctrico
+Campo eléctrico
+Fluxo magnético
+Densidade de fluxo magnético
+Intensidade do campo magnético
+Intensidade de corrente
+Resistencia eléctrica
+Capacitancia
+Indutancia
+Número de onda
+
+# Nome
+
+centímetro
+gramo
+segundo
+gal
+dina
+erguio
+erguio por segundo
+baria
+stokes
+franklin
+statcoulomb
+statvolt
+statvolt por cm
+maxwell
+gauss
+oersted
+statamperio
+statohmio
+statfaradio
+centímetro
+stathenrio
+kayser
+
+# Símbolo 
+
+cm
+g
+s
+Gal
+dyn
+erg
+baria
+St
+Fr
+Mx
+Gs
+G
+Oe
+cm
+
+### Prefixo binario - Byte ###
+
+byte
+octeto
+bits
+nibble
+semiocteto
+
+## Cantidades
+quilo
+mega
+giga
+tera
+oeta
+hexa
+zetta
+yotta
+bronto
+
+## Patrón de prefixos IEC
+quibi
+mebi
+gibi
+tebi
+pebi
+exbi
+
+##### Unidades denominadas co nome de científicos #####
+##### Nota: engádense aquí por respetar ao protocolo científico internacional e empregar o indicado polo SI e a denominación orixinal
+
+ampere
+ångström
+Bark
+Baud
+Baumé
+becquerel
+biot
+brewster
+Celsius
+Celsius
+centimorgan
+clausius
+coulomb
+curie
+dalton
+darcy
+debye
+decibel
+Delisle
+Dobson
+Dobson
+einstein
+eotvos
+Erlang
+Erlang
+Fahrenheit
+Fahrenheit
+farad
+faraday
+fermi
+franklin
+galileo
+gauss
+gilbert
+goeppert-mayer
+gray
+hartley
+henry
+hertz
+Hounsfield
+Hounsfield
+jansky
+joule
+kayser
+kelvin
+langley
+langmuir
+Mach
+magnitude
+maxwell
+Mercalli
+neper
+newton
+Newton
+Öchsle
+Öchsle
+oersted
+ohm
+pascal
+Planck
+poise
+poncelet
+Rankine
+Rankine
+Rayl
+Rayl
+rayleigh
+Rayleigh
+Rayleigh
+Réaumur
+Richter
+Richter
+Rockwell
+Rømer
+röntgen
+Scoville
+Scoville
+siegbahn
+siemens
+sievert
+stokes
+Stoney
+svedberg
+sverdrup
+tesla
+torr
+troland
+volt
+watt
+weber
+
+## Unidade
+°C
+A
+Å
+B
+Bi
+Bq
+C
+Ci
+Cl
+D
+D
+Da
+dB
+E
+F
+Fd
+fm
+Fr
+G
+Gal
+Gb
+GM
+Gy
+H
+Hart
+Hz
+J
+Jy
+K
+kayser
+L
+ly
+Mx
+N
+Np
+Oe
+P
+Pa
+R
+Rayl
+S
+Sv
+T
+Td
+Torr
+V
+W
+Wb
+xu
+Ω
+Gs
+St
+Sv
