@@ -1,8 +1,3 @@
-#################################
-### Termonoloxía da Medicina ####
-### Medical terminology      ####
-#################################
-
 abafar
 abasia
 abásico-a
@@ -11,7 +6,6 @@ abater
 abaxial
 Abbe
 abdome
-abdominal
 abdominocentese
 abdominoscopia
 abducción
@@ -19,7 +13,6 @@ abducir
 abductor
 abductor-a
 aberración
-aberrante
 abertura
 ablación
 ablefaria
@@ -54,7 +47,6 @@ abreviada
 abruptio
 absceso
 absorbencia
-absorbente
 absorber
 absterxer
 abstinencia
@@ -106,7 +98,6 @@ acatarsia
 acatasia
 acatexia
 acatisia
-accesible
 acceso
 accesoria
 accesorias
@@ -114,7 +105,6 @@ accesorio
 accesorio-a
 accesos
 Accesos
-accidental
 accidentalismo
 accidente
 accidentes
@@ -127,7 +117,6 @@ acecolina
 acedar
 acedia
 acedía
-acedo
 acedo-a
 acedos
 acedume
@@ -184,7 +173,6 @@ acetato
 Acetato
 acetazolamida
 acética
-acético
 acético-a
 acetificación
 acetilación
@@ -270,7 +258,6 @@ Acinetobacter
 acinosas
 acinosos
 acintados
-acirrante
 acistia
 acistineúria
 aclaramento
@@ -350,7 +337,6 @@ acrasia
 acrato-a
 acratotermo-a
 acraturese
-acre
 acreción
 acrementición
 acremoniose
@@ -413,7 +399,6 @@ acromatose
 acromaturia
 acromegalia
 Acromegalia
-acromegálico
 acromegaloidismo
 acromegaloxigantismo
 acromelalxia
@@ -516,7 +501,6 @@ Actonia
 actos
 actúa
 Actúa
-actual
 actualidade
 actualmente
 Actualmente
@@ -558,7 +542,6 @@ acuofonía
 acuosa
 acuosas
 acuosidade
-acuoso
 acuoso-a
 acuosos
 acupuntura
@@ -573,7 +556,6 @@ acusma
 acusmatognosi
 acústica
 acústicas
-acústico
 acústico-a
 acusticomáleo
 acusticón
@@ -584,7 +566,6 @@ ad
 adacria
 adactilia
 adactilismo
-adamantino
 adamantino-a
 adamantinoma
 adamantoblasto
@@ -735,7 +716,6 @@ ADH
 adherencia
 Adherencia
 adherencias
-adherente
 adherentes
 adherida
 adheridas
@@ -762,7 +742,6 @@ adiasténico-a
 adiastolia
 adiatermancia
 adicción
-adicional
 adicións
 adictivo-a
 adicto-a
@@ -792,7 +771,6 @@ adiposaxenital
 adipose
 adiposidade
 adiposite
-adiposo
 adiposo-a
 adiposos
 adiposuria
@@ -861,7 +839,6 @@ adquirindo
 adquirir
 adquisición
 adquisividade
-adrenal
 adrenalectomía
 adrenalectomizados
 adrenalina
@@ -924,12 +901,10 @@ adultos
 adurmiñado
 adustión
 adventicia
-adventicio
 adventicio-a
 advírtese
 adx
 adxacencia
-adxacente
 adxacentes
 adxectivo
 adxuvante
@@ -960,7 +935,6 @@ aerobias
 aeróbica
 aeróbicas
 aerobilia
-aerobio
 aerobioloxía
 aerobios
 aerobioscopio
@@ -1067,7 +1041,6 @@ afectiva
 afectivas
 afectividade
 afectivos
-afecto
 afecto-a
 afectomotor-a
 afectos
@@ -1075,7 +1048,6 @@ afefobia
 afeito
 afemestesia
 afemia
-aferente
 aferentes
 aférese
 afermentia
@@ -1189,9 +1161,7 @@ aglosostomía
 aglución
 aglutición
 aglutina
-aglutinable
 aglutinación
-aglutinante
 aglutinar
 aglutinativo-a
 aglutinina
@@ -1250,7 +1220,6 @@ agravando
 agravar
 agraz
 agrazo
-agre
 agregabilidade
 agregación
 agregacións
@@ -1263,12 +1232,10 @@ agresión
 agresións
 agresivas
 agresividade
-agresivo
 agretar
 agreto
 agretoso-a
 agria
-agridoce
 agriotimia
 agripa
 agripado-a
@@ -1279,7 +1246,6 @@ agripnocoma
 agripnodo-a
 agripnótico-a
 agrisada
-agrisado
 agromanía
 agrupación
 Agrupación
@@ -1295,7 +1261,6 @@ agudas
 agudeza
 Agudeza
 agudizacións
-agudo
 agudo-a
 agudos
 agüeira
@@ -1389,7 +1354,6 @@ albuminorreacción
 albuminosa
 albuminoscopio
 albuminose
-albuminoso
 albuminoso-a
 albuminoxenia
 albuminurético-a
@@ -1406,7 +1370,6 @@ alburuxe
 Albutt
 albuxe
 albuxínea
-albuxíneo
 albuxineotomía
 albuxinite
 albuxinoso-a
@@ -1421,7 +1384,6 @@ alcalinidade
 alcalinismo
 alcalinización
 alcalinizar
-alcalino
 alcalino-a
 alcalinofaxia
 alcalinos
@@ -1493,7 +1455,6 @@ aldosterona
 aldosteronismo
 aldoxima
 aleatoria
-aleatorio
 aleatorio-a
 alecia
 alecito-a
@@ -1519,7 +1480,6 @@ alérxeno
 alerxia
 alérxica
 alérxicas
-alérxico
 alérxide
 alerxización
 aletas
@@ -1604,7 +1564,6 @@ alifafe
 alifático-a
 alifaz
 alifazarse
-aliforme
 alilamina
 alilo
 alimenta
@@ -1612,14 +1571,12 @@ alimentación
 alimentados
 alimentan
 alimentaria
-alimentario
 alimentario-a
 alimentarios
 alimentarse
 alimenten
 alimenticia
 alimenticias
-alimenticio
 alimenticio-a
 alimento
 alimentos
@@ -1689,13 +1646,11 @@ alopoliploidía
 alo-Prefixo
 Alotipo
 alotransplante
-alotrópico
 aloxa
 aloxados
 aloxan
 aloxar
 aloxénico-a
-alóxeno
 aloxia
 Alphavirus
 alporca
@@ -1713,11 +1668,9 @@ alterando
 altérase
 alterna
 alternadas
-alternante
 alternantes
 alternas
 alternativa
-alterno
 Althaea
 altitudes
 alto
@@ -1727,11 +1680,9 @@ alucinación
 alucinacións
 alucinatoria
 alucinatorias
-alucinatorio
 alucinose
 alume
 aluminio
-alveolar
 alveolares
 alvéolo
 Alvéolo
@@ -1749,7 +1700,6 @@ alxia
 álxico-a
 álxida
 alxidez
-álxido
 álxido-a
 alxinurese
 alxiometabólico-a
@@ -1760,7 +1710,6 @@ amálgama
 amarela
 amarelada
 amareladas
-amarelado
 amarela-laranxa
 amarelamento
 amarelas
@@ -1768,7 +1717,6 @@ amarelo
 amarelo-verdosa
 amarga
 amargas
-amargo
 amargo-a
 amarrando
 amartrite
@@ -1777,10 +1725,8 @@ amaurose
 ámbalas
 ambas
 ambientais
-ambiental
 ambiente
 ambientes
-ambiguo
 ambivalencia
 ambliopía
 ambofaciens
@@ -1796,7 +1742,6 @@ ameba
 amebiana
 amebíase
 amebicida
-ameboide
 ameboides
 ameburia
 amelia
@@ -1872,14 +1817,11 @@ amnioscopio
 amniota
 amniotas
 amniótica
-amniótico
 amniótico-a
 amolece-los
 amolecemento
 amolecentes
-amoniacal
 amoníaco
-amónico
 amónico-magnésico
 amonio
 amoniólise
@@ -1902,7 +1844,6 @@ amplas
 ampliándoa
 ampliar
 amplitude
-amplo
 amplos
 ampola
 ampolar
@@ -1916,7 +1857,6 @@ amusia
 Amussat
 ana
 anabólica
-anabólico
 anabólicos
 anabolismo
 anabolito
@@ -1946,8 +1886,6 @@ anafilaxe
 anafilaxia
 anaforese
 anaforia
-anal
-analéptico
 analéptico-a
 análise
 Análise
@@ -1957,7 +1895,6 @@ Analiticamente
 analíticos
 analiza-las
 análoga
-análogo
 análogo-a
 análogos
 analoxías
@@ -1992,7 +1929,6 @@ anatómica
 anatomicamente
 Anatomicamente
 anatómicas
-anatómico
 anatómico-a
 anatómicos
 anatomopatolóxica
@@ -2006,7 +1942,6 @@ anáxeno
 ancestrais
 ancha
 ancheando
-ancho
 anchos
 ancián-á
 anciáns
@@ -2050,7 +1985,6 @@ Anestesia
 anestesiar
 anestésica
 anestésicas
-anestésico
 anestésico-a
 anestesiólogo-a
 anestesioloxía
@@ -2083,7 +2017,6 @@ anfotérico-a
 anfótero-a
 angarellas
 Angle
-angular
 ángulo
 Ángulo
 ángulos
@@ -2131,7 +2064,6 @@ anisocoria
 anisocromía
 anisodactilia
 anisodáctilo-a
-anisodonte
 anisofigmia
 anisoforia
 anisogamético-a
@@ -2171,7 +2103,6 @@ anodermo
 anódico-a
 anodinia
 anodinina
-anódino
 anódino-a
 anodmia
 ánodo
@@ -2187,7 +2118,6 @@ anómala
 anomalía
 Anomalía
 anomalías
-anómalo
 anómalo-a
 anomalopía
 anomalopsia
@@ -2211,7 +2141,6 @@ anorexíxeno-a
 anorgánico-a
 anorgasmia
 anormais
-anormal
 anormalidade
 anormalidades
 anormalmente
@@ -2318,7 +2247,6 @@ antecedentes
 antecesor
 antecubital
 antecurvatura
-antedito
 antefebril
 antefiáltico-a
 anteflexión
@@ -2339,7 +2267,6 @@ anteposición
 antepróstata
 anteprostatite
 anterético-a
-anterior
 anteriores
 anteriores:
 anterioridade
@@ -2349,16 +2276,12 @@ anteroclusión
 anteroexterna
 anteroexterno-a
 anterógrado-a
-anteroinferior
 anterointerna
 anterointerno
-anterolateral
 anteromedio
-anteroposterior
 anteroposteriores
 antero-Prefixo
 anteropulsión
-anterosuperior
 anterxia
 antérxico-a
 antes
@@ -2407,7 +2330,6 @@ antiblástico-a
 antiblenorráxico-a
 antibrómico-a
 anticalculoso-a
-anticanceroso
 anticanceroso-a
 anticarioso-a
 anticarióxeno-a
@@ -2529,7 +2451,6 @@ antigonorreico-a
 antigüidade
 anti-H
 antihélice
-antihelmíntico
 antihelmíntico-a
 antihemofílico
 antihemolisina
@@ -2625,7 +2546,6 @@ antioxidase
 antipalúdico
 antipalúdico-a
 antiparalítico-a
-antiparasitario
 antiparasitario-a
 antiparkinsoniano
 antiparkinsoniano-a
@@ -2651,7 +2571,6 @@ antipirálxico-a
 antipirese
 antipirética
 antipiréticas
-antipirético
 antipirético-a
 antipirina
 antipirótico-a
@@ -2682,7 +2601,6 @@ anti-RH
 antirrábico-a
 antirraquítico-a
 antirrenina
-antirreumático
 antirreumático-a
 antisalmonela
 antiscólico-a
@@ -2701,7 +2619,6 @@ antisialagogo-a
 antisiálico-a
 antisidérico-a
 antisifilítico-a
-antisocial
 antisoro
 antistalse
 antistase
@@ -2742,7 +2659,6 @@ antitropo
 antituberculina
 antituberculosa
 antituberculosas
-antituberculoso
 antituberculoso-a
 antituberculosos
 antitularense
@@ -2842,7 +2758,6 @@ antropoide
 antropoides:
 antropólogo-a
 antropoloxía
-antropolóxico
 antropoloxista
 antropometría
 antropométrico-a
@@ -2869,7 +2784,6 @@ antrostomía
 antrotimpanite
 antrotipo
 antrotomía
-anual
 anucleado
 anucleado-a
 anuclear
@@ -2952,7 +2866,6 @@ aortectomía
 aorteurisma
 aórtica
 aórticas
-aórtico
 aórticos
 aortismo
 aortite
@@ -2999,7 +2912,6 @@ Aparello
 aparellos
 aparencia
 Aparencia
-aparente
 apareunia
 apareza
 aparezan
@@ -3033,7 +2945,6 @@ apendicopatía
 apendicose
 apendicostomía
 apendicotomía
-apendicular
 apendiculorradiografía
 apepsia
 apepsinia
@@ -3053,7 +2964,6 @@ apetito
 apetitos
 apexiano-a
 apexígrafo
-apical
 ápice
 apicectomía
 apicite
@@ -3072,7 +2982,6 @@ apiterapia
 apitoxina
 apituitarismo
 aplacentario-a
-aplanado
 aplanamento
 aplanático-a
 aplanatismo
@@ -3080,7 +2989,6 @@ aplasia
 aplásmico-a
 aplestia
 aplica
-aplicable
 aplicación
 Aplicación
 aplicacións
@@ -3154,7 +3062,6 @@ aponeurotomía
 aponia
 aponoia
 apoplasmia
-apopléctico
 apoplectiforme
 apoplectoide
 apoplética
@@ -3198,7 +3105,6 @@ apráctico-a
 apraxia
 Apraxia
 aprecia
-apreciable
 apreciación
 apreciada
 aprecia-lo
@@ -3227,7 +3133,6 @@ apsitiria
 aptas
 aptialia
 aptitude
-apto
 apudoma
 apus
 aqueilia
@@ -3283,7 +3188,6 @@ arañas
 Arancio
 árbore
 árbores
-arborescente
 arborización
 Arbovirus
 Arbustus
@@ -3303,7 +3207,6 @@ arcostenose
 arctación
 ardanestesia
 ardencia
-ardente
 Ardle
 ardor
 area
@@ -3351,7 +3254,6 @@ aro
 aroma
 aromática
 aromáticas
-aromático
 aromático-a
 aromáticos
 aromatiza-la
@@ -3416,11 +3318,9 @@ arroibamento
 arsenal
 arseníase
 arseniato
-arsenical
 arsenicalismo
 arsenicíase
 arsénico
-arsenioso
 arsenioso-a
 arsenito
 arseniuro
@@ -3440,7 +3340,6 @@ Arteria
 arteriactia
 arteriagra
 arteriais
-arterial
 arterialización
 arterias
 Arterias
@@ -3505,12 +3404,10 @@ articulado-a
 articulador
 articúlanse
 Articúlanse
-articular
 articulares
 articúlase
 Articúlase
 artificiais
-artificial
 artistomía
 artraga
 artralxia
@@ -3607,7 +3504,6 @@ asco
 ascomicetos
 ascorbemia
 ascorbicemia
-ascórbico
 ascórbico-a
 ascorburia
 asegura-lo
@@ -3625,7 +3521,6 @@ asepsia
 aséptica
 asepticismo
 asesor
-asexual
 asexualización
 asfalxesia
 asfícticos
@@ -3641,7 +3536,6 @@ asilo
 asimbolia
 Asimbolia
 asimetría
-asimétrico
 asimétricos
 asimetropía
 asimilación
@@ -3696,7 +3590,6 @@ aspecífico-a
 aspecto
 Aspecto
 aspectos
-áspero
 Asperxiloma
 aspiración
 Aspiración
@@ -3705,7 +3598,6 @@ aspirado
 aspirina
 astenia
 asténica
-asténico
 astenobiose
 astenocoria
 astenómetro
@@ -3848,7 +3740,6 @@ atlas
 Atlas
 atleta
 atletas
-atlético
 atlético-a
 atlódimo
 atloide
@@ -3867,13 +3758,11 @@ atmorrinómetro
 atmosfera
 atmosférica
 atmosféricas
-atmosférico
 atmoterapia
 atocia
 atoldamento
 atómica
 atomicidade
-atómico
 atomización
 atomizador
 átomo
@@ -3966,7 +3855,6 @@ atrofia
 Atrofia
 atrofiante
 atrófica
-atrófico
 atrofoderma
 atrofodermatose
 atrombasia
@@ -3978,7 +3866,6 @@ atropismo
 atroscina
 ATS
 audibilidade
-audible
 audición
 audífono
 audimutismo
@@ -3991,7 +3878,6 @@ audiometría
 audiómetro
 auditiva
 auditivas
-auditivo
 auditivo-a
 auditivos
 auditognose
@@ -4108,7 +3994,6 @@ autolisado
 autólise
 autolisina
 automática
-automático
 automáticos
 automatismo
 automatógrafo
@@ -4120,7 +4005,6 @@ autonefrectomía
 autonomamente
 autonomía
 autonómico-a
-autónomo
 autónomo-a
 autónomos
 autonomotrópico-a
@@ -4200,7 +4084,6 @@ Avellis
 avenólito
 aventamento
 avermellada
-avermellado
 avermellamento
 Aversión
 aves
@@ -4237,13 +4120,11 @@ axeroftol
 axeusia
 axeustia
 axiafobia
-axial
 axifoidia
 axífugo-a
 axil
 axila
 Axila
-axilar
 axilas
 axilema
 axioloxía
@@ -4259,7 +4140,6 @@ axitografía
 axitolalia
 axodendrita
 axófugo-a
-axoide
 axolema
 axólise
 axolote
@@ -4290,7 +4170,6 @@ azidotimidina
 azoamilia
 ázoe
 azoemia
-azoico
 azómetro
 azoospermia
 azorrea
@@ -4320,7 +4199,6 @@ Babinski
 Babinski-Nageotle
 bacallao
 baciláceas
-bacilar
 bacilares
 bacilemia
 bacilicida
@@ -4348,7 +4226,6 @@ bacteria
 Bacteria
 bacteriana
 bacterianas
-bacteriano
 bacteriano-a
 bacterianos
 bacterias
@@ -4373,7 +4250,6 @@ bacteriocinóxeno-a
 bacterioclase
 bacterioclorofila
 bacteriodiagnose
-bacteriófago
 bacteriófagos
 bacteriofagoterapia
 bacteriofaxia
@@ -4386,7 +4262,6 @@ bacteriolítica
 bacteriolítico-a
 bacteriólogo-a
 bacterioloxía
-bacteriolóxico
 Bacterionema
 bacteriopexia
 bacterioprecipitina
@@ -4397,7 +4272,6 @@ bacteriose
 bacteriostase
 bacteriostática
 bacteriostáticas
-bacteriostático
 bacteriostático-a
 bacterioterapia
 bacteriotoxemia
@@ -4547,7 +4421,6 @@ Barraquer-Simons
 barreira
 Barreira
 Barrier
-barrigudo
 barro
 barros
 barroso-a
@@ -4563,7 +4436,6 @@ bartonelose
 baruria
 basado
 basais
-basal
 basalioma
 base
 basea
@@ -4585,7 +4457,6 @@ básica
 basicamente
 básicas
 basicidade
-básico
 básico-a
 básicos
 basicranial
@@ -4599,7 +4470,6 @@ basifacial
 basifobia
 basihial
 basihiode
-basilar
 basilateral
 basilema
 basílica
@@ -4658,7 +4528,6 @@ batracotoxina
 batrocefalia
 Battle
 Baumé
-bazo
 bazuncho-a
 bazuqueo
 Be
@@ -4686,7 +4555,6 @@ belfo-a
 belida
 belide
 belio
-belo
 belonefobia
 belonoide
 ben
@@ -4702,7 +4570,6 @@ beneficio
 benestar
 benigna
 benignidade
-benigno
 benigno-a
 benignos
 Bennett
@@ -4717,7 +4584,6 @@ benzocol
 benzodiacepina
 benzofenol
 benzoica
-benzoico
 benzoico-a
 benzoilguaiacol
 benzoílo
@@ -4776,14 +4642,12 @@ Bi
 biacromial
 biarticular
 biastigmatismo
-biauricular
 bibásico-a
 biberón
 bibliocleptomanía
 bibliofobia
 bibliomanía
 biblioterapia
-bicameral
 bicámero
 bicarbonatemia
 bicarbonato
@@ -4800,14 +4664,12 @@ biceptor
 Bichat
 bicigomático-a
 biciliado-a
-bicipital
 bico
 bicóncavo-a
 biconvexas
 biconvexo-a
 bicorne
 bicórneo
-bicúspide
 bid
 bidentado-a
 bidermoma
@@ -4820,9 +4682,7 @@ bifacial
 bífida
 bífido-a
 Bifidobacterium
-bifilar
 biflaxeladas
-bifocal
 biforado-a
 bifurca
 bifurcación
@@ -4832,7 +4692,6 @@ bigornia
 biioduro
 bilabio
 bilabo
-bilateral
 bilateralismo
 bile
 Bile
@@ -4841,7 +4700,6 @@ bilharzia
 bilharzíase
 bilharziose
 biliación
-biliar
 biliares
 bilifacción
 bilifecia
@@ -4877,10 +4735,8 @@ bimastoide
 bimaxilar
 binario-a
 binaural
-binocular
 binóculo-a
 binoftalmoscopio
-binomial
 binómica
 binoscopio
 Binótico
@@ -4907,7 +4763,6 @@ biocitoneuroloxía
 bioclimatoloxía
 biocoloide
 biocompatible
-biodegradable
 biodegradación
 biodinámica
 biodispoñibilidade
@@ -4937,7 +4792,6 @@ Bioloxía
 biolóxica
 biolóxicas
 biolóxicas:
-biolóxico
 biolóxico-a
 biolóxicos
 bioloxista
@@ -4962,7 +4816,6 @@ biopsia
 bioptomo
 bioquímica
 bioquímicas
-bioquímico
 biorbitario-a
 biórgano
 biorreversible
@@ -5008,7 +4861,6 @@ bipennado
 bipennado-a
 bipenniforme
 biperidina
-bipolar
 bi-Prefixo
 birollo-a
 birrefrinxencia
@@ -5017,7 +4869,6 @@ bisacromial
 bisalbuminemia
 bisbada
 bisección
-bisexual
 bisexualidade
 bisilíaco-a
 bisinose
@@ -5036,7 +4887,6 @@ bitonal
 bitrocantéreo-a
 bitrópico-a
 bivalencia
-bivalente
 bivalvo-a
 biventral
 biventricular
@@ -5145,7 +4995,6 @@ blenometrite
 blenorraxia
 Blenorraxia
 blenorráxica
-blenorráxico
 blenorrea
 Blenorrea
 blenorrinia
@@ -5168,7 +5017,6 @@ bloqueantes
 bloqueo
 Bloqueo
 Blumenthal
-bo
 boa
 boca
 Boca
@@ -5225,7 +5073,6 @@ bordos
 bordos:
 bórica
 boricado-a
-bórico
 bórico-a
 borismo
 Borla
@@ -5272,7 +5119,6 @@ Bouveret
 bóveda
 bóvidos
 bovina
-bovino
 bovinoide
 bovinos
 bovinus
@@ -5334,17 +5180,14 @@ brancoagrisada
 brancos
 branda
 brandas
-brando
 brando-a
 brandos
 branquiais
-branquial
 branquioma
 branquiómera
 branquióxeno
 branquióxeno-a
 braqui-
-braquial
 Braquial
 braquialxia
 braquiauquenia
@@ -5388,7 +5231,6 @@ braquitípico-a
 brasileira
 brasiliensis
 Brauer
-bravo
 brazal
 brazalete
 brazo
@@ -5481,7 +5323,6 @@ broncopleuropneumonía
 broncoplexía
 broncopneumonía
 Broncopneumonía
-broncopulmonar
 broncorradiografía
 broncorrafia
 broncorraxia
@@ -5503,7 +5344,6 @@ broncovesicular
 broncoxénico
 broncóxeno-a
 bronquiais
-bronquial
 bronquiarctia
 bronquiectasia
 bronquilectasia
@@ -5554,7 +5394,6 @@ bubónulo
 bubónulos
 buboso-a
 bucais
-bucal
 bucalis
 buccula
 bucelación
@@ -5573,16 +5412,13 @@ buco-Prefixo
 bucoversión
 Buerger
 buffer
-bufo
 bufonina
 bufotenina
 bufotoxina
 buftalmía
 buftalmos
 bugoso-a
-bulbar
 bulbares
-bulbiforme
 bulbiformes
 bulbite
 bulbo
@@ -5591,7 +5427,6 @@ bulbocavernoso
 bulboide
 bulbonuclear
 bulbopontino-a
-bulboso
 bulboso-a
 bulbouretral
 bulese
@@ -5639,7 +5474,6 @@ busto
 busulfanocito
 butesina
 butilo
-butírico
 butírico-a
 butirina
 butirofenona
@@ -5653,12 +5487,10 @@ BW
 by-pass
 Ca++
 cá
-cabalar
 cabalistas
 cabalo
 cabelo
 cabelos
-cabeludo
 cabestro
 cabeza
 Cabeza
@@ -5713,7 +5545,6 @@ cadeira
 cadmio
 cadmiose
 cadrada
-cadrado
 cadrado-a
 cadrante
 cadro
@@ -5722,7 +5553,6 @@ cadros
 caduca
 caduceo
 caducidade
-caduco
 caeca
 caer
 café
@@ -5732,7 +5562,6 @@ cafeísmo
 cafeona
 caída
 Caída
-cairo
 cais
 caixa
 Caixón
@@ -5770,14 +5599,12 @@ calcanodinia
 calcaria
 calcarina
 calcarino-a
-calcario
 calcario-a
 calcarios
 calcariúria
 calcaroide
 calcemia
 calcibilia
-cálcico
 cálcicos
 calcicose
 calcifames
@@ -5868,7 +5695,6 @@ caloría
 caloricidade
 calórico-a
 calorificación
-calorífico
 calorífico-a
 calorimetría
 calorímetro
@@ -5879,7 +5705,6 @@ calosa
 calosidade
 Calosidade
 calosidades
-caloso
 caloso-a
 calosomarxinal
 calostración
@@ -6020,7 +5845,6 @@ capacitada
 caparrosa
 capas
 capas:
-capaz
 capelina
 capilar
 capilarectasia
@@ -6037,7 +5861,6 @@ capistro
 capital
 capitiluvio
 capitonaxe
-capitular
 capnófilo-a
 capnógrafo
 capnograma
@@ -6088,7 +5911,6 @@ característica
 caracteristicamente
 Caracteristicamente
 características
-característico
 característicos
 caracteriza
 caracterizada
@@ -6140,7 +5962,6 @@ carbonato
 Carbonato
 carbonatos
 carbonemia
-carbónico
 carbónico-a
 carbonilo
 carbonización
@@ -6181,12 +6002,10 @@ cardi-
 cardia
 cardíaca
 cardíacas
-cardíaco
 cardíaco-a
 cardíacos
 cardiagra
 cardiais
-cardial
 cardialxia
 cardiámetro
 cardiamorfia
@@ -6278,7 +6097,6 @@ cardiotireose
 cardiotirotoxicose
 cardiotomía
 cardiotónicas
-cardiotónico
 cardiotónico-a
 cardiotóxico-a
 cardiotrofia
@@ -6286,7 +6104,6 @@ cardiotrofoterapia
 cardiovalvulite
 cardiovalvulotomía
 cardiovalvulótomo
-cardiovascular
 cardiovasculares
 cardioversión
 cardiovolumetría
@@ -6302,7 +6119,6 @@ carena
 carenado-a
 carencia
 careniforme
-carente
 carentes
 carfoloxía
 carga
@@ -6357,7 +6173,6 @@ carminativo-a
 carminófilo-a
 carne
 carneiro
-cárnico
 carnificación
 carniforme
 carnisación
@@ -6366,7 +6181,6 @@ carnívoro-a
 carnofobia
 carnosa
 carnosidade
-carnoso
 carnoso-a
 Caroli
 carón
@@ -6387,7 +6201,6 @@ carotinoide
 carotinose
 carpagra
 carpectomía
-carpiano
 carpiano-a
 carpo
 carpoace
@@ -6411,7 +6224,6 @@ cartilaxinificación
 cartilaxiniforme
 cartilaxinoide
 cartilaxinosas
-cartilaxinoso
 cartilaxinosos
 cartón
 caruncho
@@ -6433,7 +6245,6 @@ caseinatos
 caseinóxeno
 caseosa
 caseose
-caseoso
 caseoso-a
 caseum
 caseum
@@ -6448,7 +6259,6 @@ castración
 Castrado
 castrofrenia
 castroide
-casual
 casualidade
 casuística
 casula
@@ -6483,7 +6293,6 @@ catalepsia
 cataleptiforme
 cataleptoide
 catálise
-catalítico
 catalítico-a
 cataliza
 catalizador
@@ -6505,7 +6314,6 @@ Catarata
 cataratas
 catario
 catarrais
-catarral
 catarro
 Catarro
 catarroso-a
@@ -6564,9 +6372,7 @@ catulótico-a
 caucho
 cauda
 caudación
-caudado
 caudado-a
-caudal
 caudolenticular
 Caulobacter
 cauma
@@ -6578,7 +6384,6 @@ causado
 Causado
 causados
 causais
-causal
 causa-la
 causalxia
 causan
@@ -6591,7 +6396,6 @@ causas
 causas:
 cáustica
 cáusticas
-cáustico
 cáustico-a
 cáusticos
 cauterio
@@ -6607,7 +6411,6 @@ cavernite
 cavernoma
 cavernosa
 cavernoscopia
-cavernoso
 cavernoso-a
 cavernosos
 cavernostomía
@@ -6667,7 +6470,6 @@ cefalemia
 cefalexina
 cefálica
 cefálicas
-cefálico
 cefálico-a
 cefalina
 cefalite
@@ -6707,7 +6509,6 @@ cefaloplexía
 cefaloponía
 cefalo-Prefixo
 cefaloridina
-cefalorraquídeo
 cefalorraquídeo-a
 cefaloscopia
 cefalospinal
@@ -6747,10 +6548,8 @@ celectasia
 celéctomo
 celenterio
 celéntero
-celeste
 celi-
 celíaca
-celíaco
 celíaco-a
 celiadelfo
 celiagra
@@ -6806,7 +6605,6 @@ celozoico
 Celsius
 Celso
 célula
-celular
 celularidade
 célula
 celulase
@@ -6823,7 +6621,6 @@ celuloma
 celuloneurite
 celulorradiculoneurite
 celulosa
-celuloso
 celulotóxico-a
 cementación
 cemental
@@ -6855,8 +6652,6 @@ cenotoxina
 cenoxénese
 censura
 centenario-a
-centeo
-centesimal
 centigramo
 centímetros
 centinormal
@@ -6869,9 +6664,7 @@ centrándose
 centrifugación
 centrifugada
 centrifugador
-centrífugo
 centrífugo-a
-centrípeto
 centrípeto-a
 centripicio
 centro
@@ -6929,7 +6722,6 @@ cerebeloso-a
 cerebelosos
 cerebración
 cerebrais
-cerebral
 cerebralidade
 cerebrastenia
 cerebriforme
@@ -6951,7 +6743,6 @@ cerebrose
 cerebrósidos
 cerebrosidose
 cerebrospinais
-cerebrospinal
 cerebrospiñal
 cerebrostomía
 cerebrosuria
@@ -6985,7 +6776,6 @@ ceruminose
 cerusa
 cervexa
 cervicais
-cervical
 cervicartria
 cervicite
 cervicoacromial
@@ -7077,7 +6867,6 @@ cheiralxia
 cheirenta
 cheiro
 cheiroscopio
-cheo
 cheopis
 chiasma
 chi-cadrado
@@ -7104,13 +6893,11 @@ Christian
 Christian-Schüller
 Christmas
 Chrysops
-chumbo
 ciación
 ciais
 cialmente
 cian-
 cianato
-cianhídrico
 ciano-
 cianocobalamina
 cianopía
@@ -7150,7 +6937,6 @@ ciclectomía
 ciclencefalia
 cíclica
 ciclicamente
-cíclico
 cíclico-a
 cíclicos
 ciclite
@@ -7234,7 +7020,6 @@ cigodactilia
 cigolabial
 cigoma
 cigomática
-cigomático
 cigomático-a
 cigomaticoauricular
 cigomaticomaxilar
@@ -7257,14 +7042,12 @@ ciliada
 ciliadas
 ciliado-a
 ciliar
-ciliar
 ciliares
 ciliaroscopio
 ciliarotomía
 ciliectomía
 cilíndrica
 cilíndricas
-cilíndrico
 cilindriforme
 cilindro
 cilindroadenoma
@@ -7332,7 +7115,6 @@ cinaldehido
 cinamato
 cinameína
 cinameno
-cinámico
 cinámico-a
 cinamilo
 cinamol
@@ -7365,7 +7147,6 @@ cinemascopia
 cinemática
 cinematización
 cinematografía
-cinematográfico
 cinematógrafo
 cinematorradiografía
 cinemia
@@ -7408,7 +7189,6 @@ cinetoxénico-a
 cinetóxeno-a
 cíngulo
 cinina
-cinocéfalo
 cinocentro
 cinodon
 cinofobia
@@ -7453,13 +7233,11 @@ circulación
 Circulación
 circulando
 circulante
-circulante
 circulantes
 circular
 circulares
 circulatoria
 circulatorias
-circulatorio
 circulatorios
 círculo
 círculos
@@ -7474,7 +7252,6 @@ circunducción
 circunferencia
 circunferencial
 circunflexas
-circunflexo
 circunflexo-a
 circun
 circunscrita
@@ -7513,7 +7290,6 @@ cirurxián
 cirúrxica
 cirurxicamente
 cirúrxicas
-cirúrxico
 cirúrxicos
 cis-
 cisa
@@ -7539,7 +7315,6 @@ cisticectomía
 cisticerco
 cisticercoide
 cisticercose
-cístico
 cístico-a
 cisticolitectomía
 cisticolitotripsia
@@ -7747,7 +7522,6 @@ citozoo
 citrato
 citrato
 citratos
-cítrico
 Citrobacter
 citrulina
 citrulinemia
@@ -7768,7 +7542,6 @@ Clapton
 clara
 claras
 clarificación
-clarificador
 clarividencia
 Clark
 claro
@@ -7841,7 +7614,6 @@ climáticas
 climático-a
 climatización
 climatoloxía
-climatolóxico
 climatopatoloxía
 climatoterapia
 clímax
@@ -7926,7 +7698,6 @@ cloremia
 cloretilo
 clorhidrato
 clorhidria
-clorhídrico
 cloridemia
 cloridimetría
 cloridómetro
@@ -7999,13 +7770,10 @@ coa
 coA
 coador
 coadura
-coadxuvante
 coaglutinina
 coagula
-coagulable
 coagulación
 coagulada
-coagulante
 coagular
 coagulase
 coagulativo-a
@@ -8070,7 +7838,6 @@ cochinilla
 cociente
 Cociente
 cóclea
-coclear
 cocleíte
 coclite
 coco
@@ -8110,7 +7877,6 @@ cofose
 cognición
 cognoscitiva
 cohabitación
-coherente
 cohesión
 cohibi-la
 cohorte
@@ -8154,7 +7920,6 @@ colapsoterapia
 colar
 colasco
 colaterais
-colateral
 colato
 coláxena
 coláxenas
@@ -8255,7 +8020,6 @@ cole-Prefixo
 cólera
 colerese
 colérico-a
-coleriforme
 colerinas
 coleríxeno-a
 colerofobia
@@ -8350,7 +8114,6 @@ colodispepsia
 coloenterite
 colohepatopexia
 coloidais
-coloidal
 coloide
 coloides
 coloidoclase
@@ -8519,14 +8282,11 @@ compartir
 compás
 compatibilidade
 compatibilización
-compatible
 compensación
 compénsase
-competente
 competitiva
 competitivamente
 complementado-a
-complementario
 complementarios
 complemento
 complemento
@@ -8538,7 +8298,6 @@ complementos
 completa
 completamente
 complétase
-completo
 complexa
 complexas
 complexión
@@ -8626,7 +8385,6 @@ concatenado-a
 cóncava
 concavidade
 Concavidade
-cóncavo
 cóncavo-a
 concavocóncavo-a
 concavoconvexa
@@ -8650,7 +8408,6 @@ concilia-lo
 concirnen
 conclinación
 concocción
-concomitante
 concomitantes
 concordan
 concordancia
@@ -8660,7 +8417,6 @@ concreción
 Concreción
 concreta
 concretismo
-concreto
 concuasantes
 concusión
 condensación
@@ -8781,7 +8537,6 @@ conectado
 conectan
 conectando
 conectiva
-conectivo
 conectivo:
 conectivo-a
 conexión
@@ -8797,7 +8552,6 @@ conflicto
 conflictos
 confluencia
 Confluencia
-confluente
 conformación
 conforman
 conforme
@@ -8844,23 +8598,19 @@ conos
 consanguíneo-a
 consanguinidade
 consciencia
-consciente
 conscientes
 consecuencia
 consecuencias
 consecuente
 consecutiva
 consecutiva/
-consecutivo
 consecutivo-a
 consecutivos
 conséguese
 consegui-la
 consegui-lo
 conseguindo
-conseguinte
 conseguir
-consensual
 consentimento
 conserva
 conservación
@@ -8883,7 +8633,6 @@ consigo
 consiste
 Consiste
 consistencia
-consistente
 consistentes
 consistía
 consistían
@@ -8892,20 +8641,17 @@ consoante
 consoantes
 consolidación
 consolidadas
-consolidante
 Consómese
 consta
 Consta
 constan
 Constan
-constante
 constantemente
 constantes
 constelación
 constipación
 constipado-a
 constitución
-constitucional
 constitúe
 Constitúe
 constitúea
@@ -8919,7 +8665,6 @@ Constituído
 constituídos
 Constituídos
 constituíndo
-constituínte
 constituíntes
 constituír
 constituíron
@@ -8957,7 +8702,6 @@ Contamina
 contaminación
 contaminado
 contaminados
-contaminante
 contan
 contar
 contaxio
@@ -8965,7 +8709,6 @@ Contaxio
 contaxiosa
 contaxiosas
 contaxiosidade
-contaxioso
 contaxioso-a
 contén
 Contén
@@ -8996,7 +8739,6 @@ continuamente
 continuando
 continuas
 continuidade
-continuo
 continuo-a
 continuos
 contornado
@@ -9013,10 +8755,8 @@ Contracción
 contraccións
 Contraccións
 contracepción
-contraceptivo
 contraceptivo-a
 contracoloración
-contráctil
 contráctiles
 contractilidade
 contractura
@@ -9066,7 +8806,6 @@ controlado
 controla-la
 controla-lo
 controlan
-contundente
 contusión
 convalecencia
 convección
@@ -9074,7 +8813,6 @@ convence-lo
 Convencemento
 convencido
 convención
-convencional
 convenientes
 convenio
 conversión
@@ -9087,11 +8825,9 @@ converter
 converteu
 converxen
 converxencia
-converxente
 converxentes
 convexa
 convexas
-convexo
 convexo-a
 convexobasia
 convexocóncavo-a
@@ -9108,13 +8844,11 @@ convulsiterapia
 convulsiva
 convulsivante
 convulsivas
-convulsivo
 convulsivo-a
 conxelación
 conxélase
 conxénita
 conxénitas
-conxénito
 conxénito-a
 conxestión
 Conxestión
@@ -9135,7 +8869,6 @@ conxuntivas
 conxuntivite
 Conxuntivite
 conxuntivites
-conxuntivo
 conxuntivo-a
 conxuntivoma
 conxuntivo-muscular
@@ -9195,7 +8928,6 @@ coracoacromial
 coracobraquial
 coracoclavicular
 coraco-clavicular
-coracoide
 coracoidite
 coracopectoral
 coracorradial
@@ -9210,7 +8942,6 @@ cordal
 cordas
 cordectomía
 cordial
-cordiforme
 cordite
 Cordite
 cordoma
@@ -9280,7 +9011,6 @@ corneais
 corneal
 córneas
 corneíte
-córneo
 córneo-a
 corneobléfaro
 corneosclera
@@ -9309,14 +9039,12 @@ coroidociclite
 coroidoirite
 coroidorretinite
 coroliforme
-coronal
 coronaria
 coronarias
 coronario-a
 Coronaviridae
 Coronavirus
 coronión
-coronoide
 coro-Prefixo
 coroscopia
 corpiño
@@ -9330,7 +9058,6 @@ corporis
 corpos
 Corpos
 corpulencia
-corpuscular
 corpúsculo
 Corpúsculo
 corpúsculos
@@ -9338,7 +9065,6 @@ corrección
 Corrección
 correcta
 correctivo-a
-correcto
 corredía
 correlación
 corrente
@@ -9366,13 +9092,11 @@ corroe-las
 corrosión
 corrosiva
 corrosivas
-corrosivo
 corrosivo-a
 corrupción
 cortadura
 corta-la
 cortando
-cortante
 cortantes
 cortar
 corte
@@ -9380,7 +9104,6 @@ cortes
 córtex
 cortexo
 Corti
-cortical
 corticalización
 corticífugo-a
 corticípeto-a
@@ -9465,7 +9188,6 @@ Costro
 costrorrea
 cota
 cotarnina
-cotián
 cotiledón
 cótilo
 cotiloide
@@ -9484,7 +9206,6 @@ Cowper
 coxa
 coxagra
 coxais
-coxal
 Coxal
 coxalxia
 coxartria
@@ -9511,7 +9232,6 @@ Cr
 crack
 Craigia
 craniais
-cranial
 craniana
 craniectomía
 cranio
@@ -9622,7 +9342,6 @@ creosotal
 creotoxina
 crepitación
 crepnofobia
-crepuscular
 cresilol
 cresol
 cresomanía
@@ -9736,7 +9455,6 @@ cristalino
 cristalino-a
 cristalinos
 cristalite
-cristalizable
 cristalización
 cristalizado
 cristalizar
@@ -9812,7 +9530,6 @@ cromaturia
 cromestesia
 cromhidrose
 Cromhidrose
-crómico
 cromidio
 cromidiose
 cromidrose
@@ -9870,7 +9587,6 @@ cromoscopio
 cromosoma
 cromosomas
 cromosómica
-cromosómico
 cromosómicos
 cromososmas
 cromospermia
@@ -9887,7 +9603,6 @@ cronaxias
 cronaxímetro
 crónica
 crónicas
-crónico
 crónico
 crónico-a
 crónicos
@@ -9917,10 +9632,7 @@ Croton
 crotonalina
 crotoncloral
 crotonol
-cru
 crúa
-crucial
-cruciforme
 cruenta
 cruentación
 cruentas
@@ -9930,7 +9642,6 @@ crup
 crupal
 cruposa
 crurais
-crural
 cruropelvímetro
 cruroxenital
 crustáceo-a
@@ -9972,7 +9683,6 @@ cuadrixémina
 cuadrixémino
 cuadrixéminos
 cuadrúpleto-a
-cualificativo
 cualímetro
 cualitativa
 cualitativos
@@ -9994,8 +9704,6 @@ cubertas
 cuberto
 cubeta
 cúbica
-cúbico
-cubital
 Cubital
 cúbito
 Cúbito
@@ -10046,18 +9754,15 @@ cuncha
 cunchas
 cunchite
 cunehisterectomía
-cuneiforme
 cuneiformes
 cunha
 cunnilingus
 cunnus
 cunohisterectomía
-cúprico
 cuprismo
 cuproterapia
 cúpula
 cura
-curable
 curación
 curadas
 curado
@@ -10085,7 +9790,6 @@ curta
 curtas
 curtida
 curtidade
-curto
 Curto
 curto-a
 curtocircuítos
@@ -10107,7 +9811,6 @@ cúspide
 cutánea
 cutánea
 cutáneas
-cutáneo
 cutáneo-a
 cutaneomucosa
 cutáneo-mucosa
@@ -10225,7 +9928,6 @@ Daltonismo
 dan
 danada
 danadas
-danado
 danado-a
 danamento
 danar
@@ -10291,12 +9993,10 @@ debidas
 debido
 Debido
 debidos
-débil
 débiles
 debilidade
 debilitable
 debilitación
-debilitante
 debilitantes
 debilitar
 Débove
@@ -10325,7 +10025,6 @@ deciduación
 deciduado-a
 decidual
 deciduite
-deciduo
 deciduo-a
 deciduocelular
 deciduoma
@@ -10349,7 +10048,6 @@ declives
 decocción
 decocto
 decolina
-decorrente
 decorticación
 decrebamento
 Decrebamento
@@ -10387,14 +10085,12 @@ Defecto
 defectos
 defectuosa
 defectuosamente
-defectuoso
 defectuoso-a
 defeminación
 defensa
 defensas
 defensivos
 deferencial
-deferente
 deferentectomía
 deferentes
 deferentite
@@ -10421,7 +10117,6 @@ deformación
 deformadas
 deformante
 deformarse
-deforme
 Deforme
 deformidade
 Deformidade
@@ -10469,7 +10164,6 @@ deleterio-a
 delgada
 delgadas
 delgadeza
-delgado
 Delgado
 delgadoflexible
 delgados
@@ -10511,7 +10205,6 @@ demonolatría
 demonomanía
 demopatía
 demorado
-demostrable
 demostración
 demostra-la
 demostrativa
@@ -10558,18 +10251,15 @@ Densovirus
 dent-
 denta-
 dentadas
-dentado
 dentado-a
 dentadura
 dentagra
 dentais
-dental
 dentalxia
 dentame
 dentar
 dentaria
 dentarias
-dentario
 dentario-a
 dentarios
 dente
@@ -10690,7 +10380,6 @@ dereita
 dereita:
 dereita-esquerda
 dereitas
-dereito
 dereito
 derencefalia
 derencéfalo-a
@@ -10826,7 +10515,6 @@ dermelcose
 dermenquise
 dermepéntese
 dérmica
-dérmico
 dérmico-a
 dermicoepidérmica
 dérmicos
@@ -10877,7 +10565,6 @@ deronco
 derospasmo
 derotomía
 der-Prefixo
-derradeiro
 derradeiros
 derramar
 derramo
@@ -10892,7 +10579,6 @@ desactivación
 desacuación
 desadaptación
 desaferentación
-desagradable
 desagradables
 desalcoholización
 desalerxización
@@ -10911,7 +10597,6 @@ desaparece-la
 desaparecen
 desaparecendo
 desaparecer
-desaparecido
 desaparición
 Desaparición
 desarranxo
@@ -11011,7 +10696,6 @@ descubri-la
 descubrir
 desde
 Desde
-desdentado
 desdentado-a
 desdiferenciación
 desdobra
@@ -11070,7 +10754,6 @@ desexualización
 desexualizar
 desfalecemento
 desfaunación
-desfavorable
 desferroxamina
 desfibración
 desfibrilación
@@ -11106,7 +10789,6 @@ designa
 Designación
 designan
 desiguais
-desigual
 desigualdade
 desimbibición
 desimpacción
@@ -11191,12 +10873,10 @@ desodorizar
 desollado-a
 desollar
 desopilación
-desopilante
 desopilar
 desorber
 desorde
 desordenada
-desordenado
 desordes
 desorellado-a
 desorganización
@@ -11248,7 +10928,6 @@ desprendida
 desprendidos
 desprezo
 desproporción
-desproporcionado
 desprotexidas
 desprovista
 desprovistas
@@ -11335,14 +11014,12 @@ determinación
 Determinación
 determinada
 determinadas
-determinado
 determinados
 determina-la
 determina-las
 determina-lo
 determinan
 determinando
-determinante
 determinantes
 determinar
 determinismo
@@ -11387,7 +11064,6 @@ deutoscólex
 deutospermatoblasto
 devandita
 devanditas
-devandito
 devanditos
 Deventer
 devezo
@@ -11397,11 +11073,9 @@ devolver
 dexametasona
 dexección
 dexeneración
-dexenerado
 dexenerado-a
 dexenerados
 dexenerativa
-dexenerativo
 dexenerativos
 dexenerou
 dexiocardia
@@ -11439,7 +11113,6 @@ dextrotorsión
 dextrotrópico-a
 dextroversión
 dextroxiración
-dextroxiro
 dextróxiros
 dez
 dezaoito
@@ -11500,12 +11173,10 @@ diáfises
 diafisite
 diaforese
 diaforéticas
-diaforético
 diafragma
 diafragma
 diafragmalxia
 diafragmática
-diafragmático
 diafragmatite
 diafragmatocele
 diafragmite
@@ -11601,7 +11272,6 @@ diastereoisómero
 diástole
 diástoles
 diastólica
-diastólico
 diastomielia
 diastrofia
 diataxia
@@ -11610,7 +11280,6 @@ diaterma
 diatermancia
 diatérmano-a
 diatermia
-diatérmico
 diatérmico-a
 diátese
 Diátese
@@ -11690,7 +11359,6 @@ didelfo-a
 didimalxia
 didímico-a
 didimite
-dídimo
 didimodinia
 didimofimia
 diducción
@@ -11737,9 +11405,7 @@ diferenciándose
 Diferéncianse
 diferenciar
 diferencias
-diferente
 diferentes
-difícil
 dificulta
 dificultade
 Dificultade
@@ -11748,14 +11414,12 @@ dificulta-la
 dificultan
 difiodonte
 difiren
-difluente
 difonía
 difosfato-reductase
 difracción
 difteria
 Difteria
 diftérica
-diftérico
 difterina
 difterinorreacción
 difteriolisina
@@ -11772,7 +11436,6 @@ difusas
 difusible
 difusiómetro
 difusión
-difuso
 difuso-a
 digástrico
 digástrico-a
@@ -11799,7 +11462,6 @@ dilatación
 Dilatación
 dilatacións
 dilatada
-dilatado
 dilatador
 dilatadores
 dilatados
@@ -11940,7 +11602,6 @@ Dirección
 direccións
 directa
 directamente
-directo
 directoscopio
 dirigación
 dirigomotor
@@ -11990,7 +11651,6 @@ disco
 Disco
 discoblástula
 discogástrula
-discoide
 discolia
 discondroplasia
 discondrosteose
@@ -11999,7 +11659,6 @@ discopatía
 discoplacenta
 disco-Prefixo
 discordancia
-discordante
 discoria
 discorre
 discorren
@@ -12009,7 +11668,6 @@ discoxénico-a
 disc-Prefixo
 discrania
 discrasia
-discreto
 discreto-a
 discriminación
 discrinia
@@ -12019,7 +11677,6 @@ discromodermia
 discronismo
 discronometría
 discurso
-discutible
 discutido
 disdacria
 disdemorrise
@@ -12154,7 +11811,6 @@ Disostose
 disostoxénese
 disovaria
 disovarismo
-dispar
 dispareunia
 dispensación
 dispensan
@@ -12206,7 +11862,6 @@ distal
 distancia
 Distancia
 distancias
-distante
 distantes
 distasia
 distaxia
@@ -12238,7 +11893,6 @@ distinguimos
 distinguir
 distinta
 distintas
-distinto
 distintos
 distiquia
 distiquíase
@@ -12251,7 +11905,6 @@ distobucooclusal
 distobucopolpar
 distocervical
 distocia
-distócico
 distoclusión
 distoma
 Distoma
@@ -12301,7 +11954,6 @@ diureido
 diurese
 diurética
 diuréticas
-diurético
 diurético
 diurético-a
 diuréticos
@@ -12312,7 +11964,6 @@ divaricación
 DIVAS
 diversa
 diversas
-diverso
 diversos
 diverticular
 diverticulectomía
@@ -12346,14 +11997,12 @@ divulsor
 dixénese
 dixenético-a
 dixenéticos
-dixerible
 dixeridos
 dixerir
 dixestibilidade
 dixestión
 dixestiva
 dixestivas
-dixestivo
 dixestivo-a
 dixestivos
 dixestólogo-a
@@ -12427,7 +12076,6 @@ dolorido-a
 dolorífico-a
 dolorosa
 dolorosas
-doloroso
 dolorosos
 domestica
 domésticos
@@ -12450,7 +12098,6 @@ dorme
 dornase
 doromanía
 dorsais
-dorsal
 dorsalización
 dorsalxia
 dorsartria
@@ -12549,7 +12196,6 @@ Duchenne
 Duchenne-Erb
 duci-la
 Ducrey
-dúctil
 ductus
 Dührsenn
 dumping
@@ -12562,7 +12208,6 @@ Dunha
 dunhas
 duns
 duodenais
-duodenal
 duodenale
 duodenectase
 duodenectomía
@@ -12588,7 +12233,6 @@ Dupuytren
 dura
 duración
 duradeira
-duradeiro
 dural
 duraluminio
 duramáter
@@ -12631,7 +12275,6 @@ eccemátide
 eccematización
 eccematoide
 eccematose
-eccematoso
 eccematosos
 eccemóxeno
 eccemóxeno-a
@@ -12752,7 +12395,6 @@ ectrótico-a
 ectroxenia
 ecuación
 ecuador
-ecuatorial
 edatamil
 edea
 edeagra
@@ -12823,12 +12465,9 @@ Efémero
 efémero-a
 efeminamento
 eferencias
-eferente
 eferentes
 efervescencia
 eficaces
-eficaz
-eficiente
 efidrofobia
 efidrose
 eflorescencia
@@ -12898,7 +12537,6 @@ eléctricas
 electricidade
 Electricidade
 electricismo
-eléctrico
 eléctrico-a
 eléctricos
 electrificación
@@ -12945,10 +12583,8 @@ electromiografía
 electromiograma
 electrón
 electronarcose
-electronegativo
 electronegativo-a
 electrónica
-electrónico
 electrónico-a
 electronistagmografía
 electronistagmometría
@@ -12956,7 +12592,6 @@ electróns
 electrooculografía
 electropirexia
 electropiroterapia
-electropositivo
 electroquímica
 electroquímico-a
 electrorradioloxía
@@ -12972,7 +12607,6 @@ electuario
 electuarios
 elefante
 elementais
-elemental
 elemento
 Elemento
 elementos
@@ -13037,7 +12671,6 @@ embriolóxica
 embrioma
 embrión
 embrionaria
-embrionario
 embrionarios
 embrións
 embriopatía
@@ -13072,9 +12705,7 @@ emitila
 emitir
 emoción
 emocionais
-emocional
 emocións
-emoliente
 emolientes
 emotivos
 empacho
@@ -13316,7 +12947,6 @@ endovenoso-a
 endóxena
 endóxenas
 endoxénese
-endóxeno
 endóxeno-a
 endóxenos
 enduofobia
@@ -13329,11 +12959,9 @@ enequético-a
 energómetro
 enervación
 enerxética
-enerxético
 enerxía
 Enerxía
 enerxicamente
-enérxico
 enérxida
 enferma
 enfermar
@@ -13410,7 +13038,6 @@ ensanchada
 Ensanchamento
 ensánchase
 enseladura
-ensiforme
 ensimesmarse
 ensina
 ensinarlle
@@ -13437,7 +13064,6 @@ enterectasia
 enterectomía
 enteremia
 entéricas
-entérico
 entéricos
 enterite
 enterítico-a
@@ -13649,7 +13275,6 @@ epidemias
 epidémica
 epidémicas
 epidemicidade
-epidémico
 epidemiografía
 epidemioloxía
 epidemiolóxico-a
@@ -13657,7 +13282,6 @@ epiderme
 epiderme
 epidérmica
 epidérmicas
-epidérmico
 epidérmico-a
 epidermización
 epidermizado-a
@@ -13693,7 +13317,6 @@ epífises
 epifisiolise
 epifisiopatía
 epifisite
-epífito
 epifoliculite
 epífora
 epifrenal
@@ -13701,7 +13324,6 @@ epifrénico-a
 epigastralxia
 epigástrica
 epigástricas
-epigástrico
 epigástrico-a
 epigastrio
 Epigastrio
@@ -13719,7 +13341,6 @@ epilepsia
 Epilepsia
 epiléptica
 epilépticas
-epiléptico
 epilépticos
 epileptiforme
 epileptoide
@@ -13789,7 +13410,6 @@ epistrófeo
 epitálamo
 epitarso
 epiteliais
-epitelial
 epitelio
 Epitelio
 epitelioblastoma
@@ -13872,7 +13492,6 @@ equivale
 Equivale
 Equivalencia
 Equivalent
-equivalente
 Equivalente
 equivalente-gramo
 equivalentes
@@ -13887,8 +13506,6 @@ erbio
 erección
 ereccións
 erecta
-eréctil
-erector
 erectora
 erector-a
 erectores
@@ -13944,7 +13561,6 @@ Eritema
 eritemámetro
 eritematosa
 eritematosas
-eritematoso
 eritematosos
 eritemoide
 eritemóxeno-a
@@ -14035,7 +13651,6 @@ erotoxénico-a
 eróxenas
 eroxénico-a
 erradicación
-errante
 errática
 erro
 errónea
@@ -14076,7 +13691,6 @@ escalariforme
 escaldadura
 escaldazo
 escalenectomía
-escaleno
 Escalenos
 escalenotomía
 escalpelo
@@ -14102,7 +13716,6 @@ escapismo
 escápula
 Escápula
 escapulalxia
-escapular
 escapulectomía
 escapuloclavicular
 escapulodinia
@@ -14120,11 +13733,9 @@ escarlatiniforme
 escarlatinoide
 escarlatinosa
 escarlatinoso
-escarótico
 escasa
 escasamente
 escaseza
-escaso
 escato-
 escatofaxia
 escatofilia
@@ -14137,7 +13748,6 @@ escatoscopia
 escavación
 Escavación
 escavado
-escavador
 Escavador
 escelalxia
 escelastenia
@@ -14200,7 +13810,6 @@ esclerosante
 esclerosantes
 esclerose
 Esclerose
-escleroso
 esclerostomía
 escleroterapia
 esclerótica
@@ -14279,14 +13888,11 @@ escumosos
 escura
 escurecemento
 escuridade
-escuro
 escuti-
-escutiforme
 escútula
 ese
 esencia
 esenciais
-esencial
 esencialmente
 eseridina
 eserina
@@ -14302,7 +13908,6 @@ esfenocigomático-a
 esfenoescamuda
 esfenoetmoidal
 esfenofrontal
-esfenoidal
 esfenoide
 Esfenoide
 esfenoides
@@ -14330,7 +13935,6 @@ esfero-
 esferocito
 esferocitose
 esferoestesia
-esferoidal
 esferoide
 esferólito
 esferómetro
@@ -14421,7 +14025,6 @@ esofaxia
 esofáxica
 esofáxica-gástrica
 esofáxicas
-esofáxico
 esofaxismo
 esofaxite
 Esofaxite
@@ -14432,7 +14035,6 @@ esóxena/
 Esóxeno
 esóxeno-a
 esóxenos
-espacial
 espacio
 Espacio
 espacios
@@ -14448,7 +14050,6 @@ espasmo
 Espasmo
 espasmodermia
 espasmódica
-espasmódico
 espasmodinia
 espasmodismo
 espasmofilia
@@ -14466,7 +14067,6 @@ espátula
 especia
 especiais
 especiais:
-especial
 especialidade
 Especialidade
 especialista
@@ -14481,7 +14081,6 @@ especificamente
 específicas
 específicas
 especificidade
-específico
 específico-a
 específicos
 espécime
@@ -14499,7 +14098,6 @@ espectroscopia
 espectroscópicas
 espectroscópico
 espectroscopio
-especular
 espéculo
 Espéculo
 espellismo
@@ -14514,7 +14112,6 @@ espermatenfraxe
 espermática
 espermáticas
 espermaticida
-espermático
 espermático-a
 espermatidio
 espermatite
@@ -14560,7 +14157,6 @@ esperta-las
 espertando
 espertar
 espesa
-espeso
 espesos
 espesura
 espículo
@@ -14570,14 +14166,11 @@ espiña
 Espiña
 espinacas
 espiñais
-espinal
-espiñal
 espiñas
 espiñazo
 espiñela
 espiñenta
 espiñentas
-espiñento
 espiñentos
 espiniforme
 espiñobulbar
@@ -14588,7 +14181,6 @@ espiñocostal
 espiñoolivar
 espiñosa
 espiñosas
-espiñoso
 espira
 espiradenoma
 espiral
@@ -14631,7 +14223,6 @@ esplancnectopía
 esplancnenfraxe
 espláncnica
 esplancnicectomía
-espláncnico
 espláncnico-a
 esplancnicotomía
 esplancnoapófise
@@ -14657,7 +14248,6 @@ esplenectopía
 esplenemia
 esplenhepatite
 esplénica
-esplénico
 esplénico-a
 espleniforme
 esplenio
@@ -14723,21 +14313,17 @@ espondilotomía
 espontánea
 espontaneamente
 espontáneas
-espontáneo
 esponxa
 esponxas
 esponxiarios
-esponxiforme
 esponxioblasto
 esponxioblastoma
 esponxiocito
 esponxiose
 esponxiosite
-esponxoso
 esponxoso-a
 espora
 esporádicas
-esporádico
 esporádico-a
 esporanxio
 esporas
@@ -14771,12 +14357,10 @@ Esprú
 espulla
 espundia
 espuria
-espurio
 esputo
 esputos
 esquelética
 esqueléticas
-esquelético
 esquelético-a
 esqueléticos
 esqueletización
@@ -14820,7 +14404,6 @@ esquizofasia
 esquizofrenia
 esquizofrénica
 esquizogonia
-esquizoide
 esquizomicetos
 esquizoniquia
 esquizonte
@@ -14836,16 +14419,13 @@ estaba
 estabilidade
 estabiliza
 estabilizado
-estable
 establece
 establece-lo
 Establecemento
 establecer
 establecida
 estación
-estacional
 estacionaria
-estacionario
 estacionario-a
 estadio
 Estadio
@@ -14908,7 +14488,6 @@ estasibasifobia
 estasifobia
 estática
 estatística
-estatístico
 estatoacústico-a
 estatoconia
 estatofobia
@@ -14920,7 +14499,6 @@ este
 Este
 estea
 estearato
-esteárico
 estearina
 estearo-Prefixo
 esteatite
@@ -14987,7 +14565,6 @@ estereotipia
 estereotropismo
 ésteres
 esterificado
-estéril
 estériles
 esterilidade
 esterilización
@@ -15003,7 +14580,6 @@ esternoclavicular
 esternocleidohioide
 esternocleidomastoideo
 Esternocleidomastoideo
-esternocostal
 esternodimia
 esternodinia
 esternohioide
@@ -15082,7 +14658,6 @@ Estlander-Abbe
 estola
 estolato
 estoma
-estomacal
 estómago
 estomáquico-a
 estomatite
@@ -15174,7 +14749,6 @@ estricnina
 estricninomanía
 estrictas
 estrictos
-estridente
 estridor
 estridulosa
 estriduloso-a
@@ -15246,10 +14820,8 @@ eterolado-a
 eteromanía
 eterómano-a
 éticas
-ético
 etilendiaminotetraacético
 etileno
-etílico
 etílico-a
 etilideno
 etilismo
@@ -15257,7 +14829,6 @@ etilo
 etinilestradiol
 etinodiol
 etioloxía
-etiolóxico
 etiolóxicos
 etionamida
 etiopatoxenia
@@ -15265,7 +14836,6 @@ etmocardite
 etmocéfalo
 etmofrontal
 etmoidais
-etmoidal
 etmoide
 Etmoide
 etmoidectomía
@@ -15352,7 +14922,6 @@ euxeria
 evacuación
 evacua-lo
 evacuar
-evanescente
 Evans
 evaporación
 evaporando
@@ -15380,13 +14949,11 @@ evolucionan
 evolucionando
 evolucionaría
 evolutivas
-evolutivo
 evulsión
 Ewart
 Ewing
 exacerbación
 exacta
-exacto
 exaculación
 exaculada
 exaculado
@@ -15404,20 +14971,16 @@ examina-la
 examina-lo
 examina-los
 examinar
-exánime
 exantema
 Exantema
 exantemática
-exantemático
 exantemático-a
-exantematoso
 exantematoso-a
 exa-Prefixo
 exarterite
 exarticulación
 excavatum
 excede
-excéntrico
 excéntrico-a
 excepto
 exceptuando
@@ -15425,7 +14988,6 @@ excerebración
 excesiva
 excesivamente
 excesivas
-excesivo
 excesivos
 exceso
 excicloforia
@@ -15461,7 +15023,6 @@ excretada
 excretado
 excretados
 excretas
-excretor
 excretoras
 excretores
 excursión
@@ -15502,7 +15063,6 @@ Existen
 existencia
 Existencia
 existencialistas
-existente
 existentes
 existindo
 exitus
@@ -15520,7 +15080,6 @@ exodoncia
 exoenzima
 exoflebite
 exoftalmía
-exoftálmico
 exoftalmo
 exoftalmómetro
 exoftalmos
@@ -15546,7 +15105,6 @@ expandido
 expandi-los
 expansión
 Expansión
-expansivo
 expansor
 expectoración
 expectorante
@@ -15559,7 +15117,6 @@ experimentación
 experimentado
 experimentados
 experimentais
-experimental
 experimentalmente
 experimentan
 experimentar
@@ -15617,7 +15174,6 @@ expulsados
 expulsión
 expulsiva
 exquisito-a
-exsangüe
 exsanguinotransfusión
 exsudación
 exsudado
@@ -15631,13 +15187,10 @@ extensa
 extensas
 extensión
 Extensión
-extenso
-extensor
 extensora
 extensores
 extenuación
 extenuado-a
-extenuante
 exterior
 exteriores
 exteriorización
@@ -15696,7 +15249,6 @@ extramucosa
 extramural
 extranuclear
 extraordinariamente
-extraordinario
 extraparenquimatoso-a
 extrapelviano-a
 extrapélvico-a
@@ -15716,7 +15268,6 @@ Extrasístole
 extrasistolia
 extrasomático-a
 extratimpánico-a
-extrauterino
 extrauterino-a
 extravagantes
 extravasación
@@ -15724,7 +15275,6 @@ extravasada
 extravascular
 extravaxinal
 extraventricular
-extravertido
 extraxenitais
 extraxenital
 extrema
@@ -15738,7 +15288,6 @@ extremo
 extremo:
 Extremo
 extremos
-extrínseco
 extrínseco-a
 extrínsecos
 extrofia
@@ -15768,10 +15317,8 @@ Faceta
 facetectomía
 faciais
 facial
-facial
 faciana
 facies
-fácil
 facilita
 facilita-la
 facilita-lo
@@ -15814,7 +15361,6 @@ fago
 fagocitado
 fagocitaria
 fagocitarias
-fagocitario
 fagocitario-a
 fagocitarios
 fagocíticas
@@ -15846,7 +15392,6 @@ falanxite
 falar
 fálase
 Fálase
-falciforme
 falciparum
 falciporum
 falcografía
@@ -15867,7 +15412,6 @@ falsas
 falsete
 falsidades
 falso
-FALSO
 falso-a
 falta
 Falta
@@ -15931,7 +15475,6 @@ farínxea
 farínxeas
 farinxectasia
 farinxectomía
-farínxeo
 farinxismo
 farinxite
 Farinxite
@@ -15953,7 +15496,6 @@ farmacoloxía
 farmacolóxica
 farmacoloxicamente
 farmacolóxicas
-farmacolóxico
 farmacolóxicos
 farmacopea
 fármacos
@@ -16019,10 +15561,8 @@ Febrícula
 febrifacente
 febrífugo
 febrífugo-a
-febril
 febrís
 febrón
-fecal
 fecálito
 fecaloide
 fecaloma
@@ -16038,7 +15578,6 @@ fecundados
 fecundidade
 fecundo-a
 fedor
-fedorento
 feita
 feito
 feitos
@@ -16053,12 +15592,10 @@ femia
 femias
 feminina
 femininas
-feminino
 femininos
 feminismo
 feminización
 femorais
-femoral
 femorocalcáneo-a
 femorocele
 femorocutáneo-a
@@ -16086,7 +15623,6 @@ fenetol
 fenfluramina
 fenformina
 fenicado-a
-fénico
 fenilacético
 fenilalanina
 fenilamina
@@ -16130,7 +15666,6 @@ fenoxibenzamina
 fento
 fentolamina
 fentos
-feo
 feocroma
 feocromo
 feocromo-a
@@ -16146,7 +15681,6 @@ fermentadas
 fermentados
 fermentan
 Fermentan
-fermentativo
 fermentemia
 fermento
 Fermento
@@ -16164,13 +15698,11 @@ ferropenia
 ferropénicas
 ferropénico-a
 ferroporfirina
-ferroso
 ferroso-a
 ferrosos
 ferroterapia
 ferruxe
 ferruxinoso-a
-fértil
 fertilidade
 fertilización
 fertilizado
@@ -16185,7 +15717,6 @@ festón
 festonados
 fetación
 fetais
-fetal
 fetalización
 fetichismo
 feticidio
@@ -16221,7 +15752,6 @@ fibrinopenia
 fibrinopéptido
 fibrinopurulento-a
 fibrinosa
-fibrinoso
 fibrinosos
 fibrinoxenemia
 fibrinoxénico-a
@@ -16290,7 +15820,6 @@ Fibrose
 fibroserosa
 fibroseroso-a
 fibrosite
-fibroso
 fibrosos
 fibrotórax
 fibrovascular
@@ -16324,7 +15853,6 @@ filete
 filetes
 filia
 filial
-filiforme
 fillo
 fillos
 filoneísmo
@@ -16336,7 +15864,6 @@ filovaricose
 filoxénese
 filoxeneticamente
 filoxénica
-filtrable
 filtración
 filtrado
 filtro
@@ -16385,7 +15912,6 @@ fisioloxía
 fisiolóxica
 fisioloxicamente
 fisiolóxicas
-fisiolóxico
 fisiolóxicos
 fisioloxista
 fisión
@@ -16447,7 +15973,6 @@ fixador
 fixa-los
 fixan
 fixar
-fixo
 fixos
 flabelado-a
 flabelo
@@ -16466,7 +15991,6 @@ Flavobacterium
 flavoenzima
 flavoproteína
 flaxelación
-flaxelado
 flaxelado-a
 flaxelados
 flaxelar
@@ -16516,7 +16040,6 @@ flegmón
 flegmonosa
 flegmorraxia
 flexibilidade
-flexible
 flexímetro
 flexión
 Flexión
@@ -16539,7 +16062,6 @@ florece
 flores
 florida
 flotación
-flotante
 flotantes
 floxuridina
 fluctuación
@@ -16556,8 +16078,6 @@ fluorado
 fluoresceína
 fluoresceínica
 fluorescencia
-fluorescente
-fluorhídrico
 fluorometría
 fluorómetro
 fluoroscopio
@@ -16574,7 +16094,6 @@ fóbicas
 fobíxeno
 fobofobia
 focais
-focal
 fociño
 foco
 focomelia
@@ -16586,9 +16105,7 @@ fogares
 foi
 Foi
 folato
-foliáceo
 fólico
-folicular
 foliculares
 foliculite
 folículo
@@ -16668,11 +16185,9 @@ formas
 formas:
 fórmase
 Fórmase
-formativo
 formiato
 formicación
 formicíase
-fórmico
 formigas
 formigo
 formigos
@@ -16730,7 +16245,6 @@ fosfoproteína
 fosforado
 fosforado-a
 fosforescencia
-fosfórico
 fosforilación
 fosforilado
 fosforilase
@@ -16764,7 +16278,6 @@ fotofobia
 fotófobo
 fotoftalmía
 fotográficas
-fotográfico
 fotohemotacómetro
 fotólise
 fotoluminescencia
@@ -16786,10 +16299,8 @@ fotoquímica
 fotoquimioterapia
 fotorradiómetro
 fotorreacción
-fotorreceptor
 fotorretinite
 fotosensibilización
-fotosensible
 fotosíntese
 fototactismo
 fototerapia
@@ -16829,11 +16340,9 @@ franxa
 frase
 frases
 frástica
-fráxil
 fraxilidade
 frecuencia
 frecuencias
-frecuente
 frecuentemente
 frecuentes
 frega
@@ -16843,7 +16352,6 @@ frenalxia
 frenastenia
 frenectomía
 frenesí
-frénico
 frénico-a
 frenicotomía
 frenite
@@ -16874,7 +16382,6 @@ fretar
 Freud
 freudiano-a
 fría
-friable
 frialdade
 friaxe
 fricción
@@ -16919,13 +16426,11 @@ fructósidos
 fructosuria
 frustración
 ftaleína
-ftálico
 fucosa
 fucosidase
 fucsina
 fucsinófilo-a
 fuga
-fugaz
 Fugaz
 fulguración
 Fuller-Albright
@@ -16944,7 +16449,6 @@ fumigatus
 función
 funciona
 funcionais
-funcional
 funcionalismo
 funcionamento
 funcionantes
@@ -16954,7 +16458,6 @@ funda
 fundado
 fundamentais
 fundamentais:
-fundamental
 fundamentalmente
 fundamento
 funde
@@ -16967,7 +16470,6 @@ fundoplicatura
 fundoscopia
 fundoscopio
 fundus
-funesto
 fungo
 Fungo
 fungoides
@@ -16975,7 +16477,6 @@ fungos
 fungosa
 fungosidade
 fungosidades
-fungoso
 funiculite
 funículo
 funiculocentese
@@ -16983,7 +16484,6 @@ funiculoepididimite
 funiculopexia
 fúnxica
 funxicida
-funxiforme
 funxistáticas
 funxistático-a
 furadas
@@ -17002,7 +16502,6 @@ furúnculos
 furunculose
 fuscina
 fusídico
-fusiforme
 fusiformes
 fusión
 fusionadas
@@ -17059,7 +16558,6 @@ galiña
 galio
 gallinaginis
 galo
-galopante
 galope
 galvánica
 galvánicas
@@ -17101,7 +16599,6 @@ gamsodactilia
 gaña
 gancho
 ganchos
-ganchudo
 Ganchudo
 ganciclovir
 gando
@@ -17115,7 +16612,6 @@ ganglioide
 ganglioma
 ganglión
 Ganglión
-ganglionar
 ganglionares
 ganglionectomía
 ganglioneuroblastoma
@@ -17158,7 +16654,6 @@ gases
 gasometría
 gasosa
 gasoso
-gasoso
 gasoso-a
 gasosos
 Gasser
@@ -17170,7 +16665,6 @@ gastrectasia
 gastrectomía
 gástrica
 gástricas
-gástrico
 gástricos
 gastrina
 gastrinoma
@@ -17221,7 +16715,6 @@ gastrohisterectomía
 gastroileíte
 gastroilíaco
 gastrointestinais
-gastrointestinal
 gastrólise
 gastrólito
 gastromalacía
@@ -17302,7 +16795,6 @@ glande
 glandilema
 glándula
 Glándula
-glandular
 glandulares
 glándulas
 Glándulas
@@ -17315,7 +16807,6 @@ glaucose
 glena
 Glénard
 glenoidal
-glenoide
 glenoumeral
 glía
 gliacito
@@ -17324,7 +16815,6 @@ glial
 glicagón
 glicemia
 glicerato
-glicérico
 glicérido
 glicerilfosfatido
 glicerilo
@@ -17407,12 +16897,10 @@ gliose
 glioxílico
 glisonite
 Glisson
-global
 globina
 globo
 globoides
 globos
-globular
 globulina
 Globulina
 globulinas
@@ -17443,7 +16931,6 @@ glosodinia
 glosoepiglótico-a
 glosofarinxe
 glosofarínxea
-glosofarínxeo
 glosofarínxeo-a
 glosógrafo
 glosohioide
@@ -17552,7 +17039,6 @@ gonorreica
 gonorrhoeae
 gonosoma
 gonotoxemia
-gordo
 Gordon
 gorxa
 GOT
@@ -17569,13 +17055,11 @@ Gracias
 gradiente
 graduadas
 graduado
-gradual
 gradualmente
 grafémica
 grafestesia
 grafía
 gráfica
-gráfico
 gráfico-a
 Grafito
 grafoanálise
@@ -17599,7 +17083,6 @@ grampa
 grampas
 grampositivas
 grampositivos
-gran
 Gran
 Grancher
 grande
@@ -17632,13 +17115,11 @@ granuloplástico-a
 gránulos
 granulosa
 granulosas
-granuloso
 granulosus
 grao
 graos
 Graser
 gratus
-grave
 gravemente
 graves
 Graves
@@ -17653,9 +17134,7 @@ gravitación
 Grawitz
 graxa
 graxas
-graxento
 graxentos
-graxo
 graxos
 gray
 Greenfield
@@ -17716,7 +17195,6 @@ gustatoria
 gusto
 gustometría
 gutapercha
-gutural
 guturotetania
 gy
 Gymnema
@@ -17734,7 +17212,6 @@ hábito
 Hábito
 habituación
 habituais
-habitual
 habitualmente
 Habitualmente
 habromanía
@@ -17786,7 +17263,6 @@ Hand-Christian-Schüller
 Hand-Schüller
 Hand-Schüller-Christian
 Hansen
-haploide
 haploides
 haploidía
 haplopatía
@@ -17840,7 +17316,6 @@ hefestiorrafia
 Heineke-Mikuliecz
 helcópodo-a
 hélice
-helicoidal
 helicoide
 helicópodo-a
 hélico-Prefixo
@@ -18108,7 +17583,6 @@ hemolisina
 hemolítica
 hemolítica
 hemolíticas
-hemolítico
 hemolítico-a
 hemolíticos
 hemólito
@@ -18135,9 +17609,7 @@ Hemorraxia
 hemorraxias
 Hemorraxias
 hemorráxica
-hemorráxico
 hemorráxicos
-hemorroidal
 hemorroide
 hemorroidectomía
 hemosiderina
@@ -18177,7 +17649,6 @@ hepática
 hepática
 hepáticao-a
 hepáticas
-hepático
 hepático-a
 hepaticocolanxiocolecistenterostomía
 hepaticoduodenostomía
@@ -18254,7 +17725,6 @@ Hérdase
 herdopatía
 hereditaria
 hereditarias
-hereditario
 hereditarios
 hermafrodita
 hermafroditas
@@ -18270,7 +17740,6 @@ Herniación
 herniado
 herniado-a
 herniaria
-herniario
 herniario-a
 hernias
 hernioplastia
@@ -18324,7 +17793,6 @@ heterohemolisina
 heteroinmunidade
 heterólise
 heteróloga
-heterólogo
 heterólogo-a
 heterólogos
 heterometaplasia
@@ -18336,7 +17804,6 @@ Heterophytes
 heteropicnótico
 heteroplasia
 heteroplastia
-heteroplástico
 heteroploide
 heteroploidía
 heteropodia
@@ -18345,7 +17812,6 @@ heteroproteido
 heteroproteína
 heteropsia
 heteroscopio
-heterosexual
 heterosexualidade
 heterosmia
 heterosomía
@@ -18396,7 +17862,6 @@ hialite
 hialoencondroma
 hialofaxia
 hialofobia
-hialoide
 hialoides
 hialoidite
 hialoidomalacía
@@ -18421,7 +17886,6 @@ híbridos
 hidantoína
 hidátide
 hidatídica
-hidatídico
 hidatídicos
 hidatidiforme
 hidatidoma
@@ -18453,7 +17917,6 @@ hidrato
 hidratos
 hidráulica
 hídrica
-hídrico
 hídrico-a
 hidrión
 hidroa
@@ -18486,7 +17949,6 @@ hidrodinámica
 hidroeléctrico-a
 hidroencefalocele
 hidrofalo
-hidrófilo
 hidrófilo-a
 hidrófilos
 hidrofimose
@@ -18613,10 +18075,8 @@ higrometría
 higrómetro
 higro-Prefixo
 higroscopía
-higroscópico
 higroscópico-a
 higroscopio
-hilarante
 Hildebrand
 hiliares
 hilite
@@ -18987,7 +18447,6 @@ hipocloremia
 hipoclorémica
 hipoclorhidria
 hipoclorito
-hipocloroso
 hipocloruria
 hipocolesterolemia
 hipocolia
@@ -18997,7 +18456,6 @@ hipocondría
 hipocondrio
 hipocrática
 hipocráticas
-hipocrático
 hipocrático-a
 hipocraticus
 hipocratismo
@@ -19025,7 +18483,6 @@ hipofarinxe
 hipofibrinoxenemia
 hipofisaria
 hipofisarias
-hipofisario
 hipófise
 hipofisectomía
 hipofisectomías
@@ -19039,8 +18496,6 @@ hipofosfatemia
 hipofosfato
 hipofosfaturia
 hipofosfito
-hipofosfórico
-hipofosforoso
 hipofrenia
 hipofrénico-a
 hipofunción
@@ -19048,7 +18503,6 @@ hipogalactia
 hipogamia
 hipogammaglobulinemia
 hipogástrica
-hipogástrico
 hipogastrio
 hipogastrocele
 hipogastrodídimo
@@ -19157,7 +18611,6 @@ hipsofobia
 hipsofonía
 hipuria
 hipuricase
-hipúrico
 hipuropatía
 hircismo
 Hirsch
@@ -19254,7 +18707,6 @@ histolóxica
 histoloxicamente
 Histoloxicamente
 histolóxicas
-histolóxico
 histolóxicos
 histoma
 histona
@@ -19351,7 +18803,6 @@ homohemoterapia
 homohioide
 homolateral
 homóloga
-homólogo
 homólogo-a
 homólogos
 homoloxía
@@ -19383,13 +18834,11 @@ homoxentisinuria
 Hopman
 horas
 horizontais
-horizontal
 horizonte
 hormión
 hormona
 Hormona
 hormonais
-hormonal
 hormonas
 hormonopexia
 hormonopoese
@@ -19404,7 +18853,6 @@ hóspede
 hóspedes
 hospital
 hospitalaria
-hospitalario
 hospitalización
 hotentotes
 Hovius
@@ -19423,7 +18871,6 @@ humectante
 húmida
 humidade
 húmidas
-húmido
 húmido-a
 húmidos
 humor
@@ -19532,7 +18979,6 @@ ilaqueación
 ilectomía
 ileíte
 íleo
-ileocecal
 ileocecostomía
 ileocleise
 ileocólico-a
@@ -19548,7 +18994,6 @@ ileotransversostomía
 ileso-a
 ilíaca
 ilíacas
-ilíaco
 Ilíaco
 ilíaco-a
 ilíacos
@@ -19582,7 +19027,6 @@ iluminación
 iluminando
 ilusión
 ilusións
-ilusorio
 imago
 imán
 imáns
@@ -19595,9 +19039,7 @@ imaxinación
 imaxinan
 imaxinaria
 imaxinarias
-imaxinario
 imaxinario-a
-imbécil
 imbecilidade
 imbricación
 imbricado-a
@@ -19611,8 +19053,6 @@ imitar
 impactada
 impactado-a
 impacto
-impalpable
-impar
 Impar
 impasibilidade
 impedancia
@@ -19647,7 +19087,6 @@ implicados
 impo
 impoñer
 importancia
-importante
 Importante
 importantes
 imposibilidade
@@ -19658,7 +19097,6 @@ imprecisamente
 imprecisos
 impregnado
 impregnan
-imprescindible
 impresión
 impresionado
 impresións
@@ -19672,21 +19110,17 @@ impulsivo-a
 impulso
 Impulso
 impulsos
-impuro
 imputa-lo
 in
 In
 inacción
-inaceptable
 inaceptables
 inactiva
 inactivación
-inactivo
 inactivo-a
 inactivos
 inadaptado
 inadecuada
-inadvertido
 inaglutinable
 inanición
 inanimado-a
@@ -19695,13 +19129,11 @@ inapetencia
 inapropiada
 inarticulado-a
 inarticulados
-inasimilable
 incapacidade
 Incapacidade
 incapaz
 incenso
 incertas
-incerto
 incesto
 inchazo
 inchazón
@@ -19709,22 +19141,17 @@ incicloforia
 inciclotropía
 incide
 incidencia
-incidental
 incidindo
 inciforme
 incineración
-incipiente
 incisión
 incisivo-a
 incisura
 inclinación
 inclinada
-incoercible
 incoherencia
 incoloro-a
-incombustible
 incompatibilidade
-incompatible
 inconexos
 incongruencia
 inconsciencia
@@ -19733,11 +19160,9 @@ inconsciente
 inconscientes
 Inconstancia
 inconstante
-inconstante
 incontinencia
 incontinentes
 incontinentia
-incontrolado
 incoordinación
 incoordinado
 incorporación
@@ -19745,7 +19170,6 @@ incorporados
 incorporalos
 incorrecta
 incorrectamente
-incorrixible
 incrementa
 incremento
 incruenta
@@ -19760,14 +19184,11 @@ incudectomía
 incudomáleo-a
 incudostapedio-a
 incumprimento
-incurable
 incus
 indaga-la
 indagar
 indefinida
 indelebles
-indemne
-independente
 independentemente
 independentes
 indesexables
@@ -19801,15 +19222,12 @@ indigotina
 indiguria
 indio
 indirecta
-indirecto
 indirectos
 indirrubina
-indispensable
 indispensables
 indisporse
 indisposición
 individuais
-individual
 individual
 individualidade
 individuo
@@ -19823,7 +19241,6 @@ Indochina
 indofenol
 indofenoloxidase
 indol
-indolente
 indolora
 indoloro-a
 indoluria
@@ -19850,19 +19267,15 @@ industriais
 industrial
 industrialmente
 inercia
-inerte
 inertes
 inespecífica
 inespecíficas
 inespecífico-a
 inesperada
 inestabilidade
-inestable
 inestables
 inexcitabilidade
-inexistente
 infancia
-infantil
 infantilismo
 infantís
 infantiséptica
@@ -19875,14 +19288,12 @@ infeccións
 infecciosa
 infecciosas
 infecciosidade
-infeccioso
 infecciosos
 infectado-a
 infectados
 infectante
 infectividade
 infectivos
-infecto
 infecto-a
 infectopatía
 infecundidade
@@ -19910,7 +19321,6 @@ infiltrado-a
 infiltran
 inflable
 inflación
-inflamable
 inflamables
 inflamación
 Inflamación
@@ -19919,7 +19329,6 @@ inflamadas
 inflamado
 inflamatoria
 inflamatorias
-inflamatorio
 inflamatorio-a
 inflamatorios
 inflata
@@ -19983,11 +19392,9 @@ infratroclear
 infratubárico-a
 infraumbilical
 infrecuentes
-infundibuliforme
 infundíbulo
 infundibulopélvico
 infundíbulos
-infusible
 infusión
 infusorios
 inglés
@@ -20001,7 +19408,6 @@ ingreso
 ingua
 inguas
 inguinais
-inguinal
 inguinoabdominal
 inguinocrural
 inguinodinia
@@ -20013,7 +19419,6 @@ inhalación
 inhalador
 inhalatoria
 inhalatorio
-inherente
 inhibe
 inhibición
 inhibidor
@@ -20021,7 +19426,6 @@ inhibidora
 inhibi-la
 inhibina
 inhibindo
-inhibitorio
 inhumación
 inicia
 inicial
@@ -20037,14 +19441,11 @@ inmaturo-a
 inmediata
 inmediatamente
 inmediatas
-inmediato
 inmersión
-inmóbil
 inmóbiles
 Inmobilidade
 inmobiliza
 inmobilización
-inmune
 inmunes
 inmunidade
 Inmunidade
@@ -20077,7 +19478,6 @@ inmunólogo-a
 inmunoloxía
 inmunolóxica
 inmunolóxicas
-inmunolóxico
 inmunolóxicos
 inmunoproteína
 inmunoquímica
@@ -20089,7 +19489,6 @@ inmunotransfusión
 inmunoxenética
 inmunoxenicidade
 inmunóxeno-a
-innato
 innato-a
 innerva
 innervación
@@ -20101,14 +19500,12 @@ innominado-a
 innumerables
 inocondrite
 inocuidade
-inoculable
 inoculación
 Inoculación
 inoculada
 inoculan
 inocular
 inóculo
-inocuo
 inocuo-a
 inodora
 inodoro
@@ -20122,7 +19519,6 @@ inoperable
 ino-Prefixo
 inorgánica
 inorgánicas
-inorgánico
 inorgánico-a
 inorgánicos
 inosclerose
@@ -20141,9 +19537,7 @@ in-Prefixo
 inquietude
 inquilino
 insalivación
-insalubre
 insalubres
-insán
 inscrición
 inscrita
 insecticida
@@ -20153,7 +19547,6 @@ insectos
 inseminación
 insensibilidade
 insensibilización
-insensible
 inserción
 Inserción
 Insercións
@@ -20167,7 +19560,6 @@ insiren
 insírense
 Insolación
 insolubilidade
-insoluble
 insolubles
 insomnio
 Insomnio
@@ -20217,7 +19609,6 @@ insulinorresistencia
 insulinoterapia
 insulinoxénese
 insulite
-insulso
 insulso-a
 intacta
 intactas
@@ -20232,15 +19623,12 @@ intelectual
 intelectualización
 intelixencia
 intención
-intencionado
-intencional
 intensa
 intensamente
 intensas
 intensidade
 intensidades
 intensímetro
-intenso
 intensos:
 intenta
 interacción
@@ -20263,7 +19651,6 @@ intercarotídeo-a
 intercarpiano-a
 intercartilaxinoso-a
 intercavernoso-a
-intercelular
 intercelulares
 intercervical
 interciliar
@@ -20274,19 +19661,16 @@ intercoccíxeo-a
 intercolumnar
 intercondíleo-a
 intercondral
-intercorrente
 intercostais
 intercostal
 intercostoumeral
 intercrural
 intercutaneomucoso-a
 interdeferencial
-interdental
 interdependencia
 interdisciplinario-a
 interdixitación
 interdixitais
-interdixital
 interepitelial
 interesa
 interesados
@@ -20329,7 +19713,6 @@ intermaleolar
 intermamario-a
 intermamilar
 intermarxinal
-intermaxilar
 intermedia
 intermediaria
 intermediario
@@ -20347,10 +19730,8 @@ intermetacarpiano-a
 intermetamérico-a
 intermetatarsiano-
 intermitente
-intermuscular
 interna
 interna
-internacional
 Internacional
 internamento
 internas
@@ -20369,20 +19750,16 @@ interoinferior
 interolivar
 interorbitario-a
 interósea
-interóseo
 interóseo-a
 interóseos
 interpalpebral
 interpapilar
-interparietal
 interpedicular
 interpeduncular
 interpersoais
 interpial
-interplanetario
 interpleural
 interpolación
-interpolar
 interpón
 interposición
 inter-Prefixo
@@ -20399,10 +19776,8 @@ Interrupción
 interruptus
 intersección
 intersegmentario-a
-intersexual
 intersexualidade
 intersticiais
-intersticial
 intersticio
 intersticios
 intertransverso
@@ -20424,11 +19799,8 @@ intervencións
 interveñen
 interventricular
 intervertebrais
-intervertebral
 intestinais
-intestinal
 intestinalis
-intestino
 intestinos
 íntima
 intimamente
@@ -20454,7 +19826,6 @@ intracardíaco-a
 intracartilaxinoso-a
 intracavitario-a
 intracellularis
-intracelular
 intracelulares
 intracerebeloso-a
 intracerebrais
@@ -20464,12 +19835,10 @@ intracolónico-a
 intracorpuscular
 intracostal
 intracraniais
-intracranial
 intracutáneo-a
 intradermerreacción
 intradérmica
 intradermicamente
-intradérmico
 intradérmico-a
 intradural
 intraepidérmica
@@ -20495,7 +19864,6 @@ intramedular
 intramembranoso-a
 intramiocárdico-a
 intramural
-intramuscular
 intranasal
 intraneural
 intranuclear
@@ -20545,7 +19913,6 @@ intravesicular
 intravítreo-a
 intre
 intrínseca
-intrínseco
 intrínsecos
 introducción
 Introducción
@@ -20592,7 +19959,6 @@ invaxinan
 invaxinante
 inversa
 inversión
-inverso
 invertebrado-a
 invertebrados
 invertelo
@@ -20602,19 +19968,16 @@ investiga
 investigación
 investiga-lo
 inveterado-a
-invisible
 involución
 invólucro
 involuntaria
 involuntarias
-involuntario
 involuntario-a
 involuntarios
 inxección
 Inxección
 inxeccións
 inxecta
-inxectable
 inxectada
 inxectado
 inxectado-a
@@ -20634,7 +19997,6 @@ iodoformo
 iodoiodurada
 ión
 iónica
-iónico
 ionio
 ionización
 ionizan
@@ -20654,7 +20016,6 @@ iproniacida
 ipsolateral
 ir
 Ir
-irascible
 iridalxia
 iridauxese
 iridectomía
@@ -20666,7 +20027,6 @@ iridemia
 iridencleise
 iridentropión
 irideremia
-iridiado
 iridiano-a
 iridio
 iridiscente
@@ -20709,19 +20069,13 @@ irite
 irmán
 irmáns
 irracionais
-irracional
 irracionalidade
 irradiación
 irradiada
 irreductible
-irregular
 irregulares
 Irregularidade
 irregularmente
-irreparable
-irresistible
-irrespirable
-irreversible
 irreversibles
 irriga
 irrigación
@@ -20730,11 +20084,9 @@ irrigador
 irrigan
 irrigar
 irritabilidade
-irritable
 irritación
 irritacións
 irritados
-irritante
 irritantes
 iscoblenia
 iscocolia
@@ -20822,7 +20174,6 @@ isoxazólicas
 isoxénese
 isquemia
 isquémica
-isquémico
 isquialxia
 isquiáticas
 isquiatite
@@ -20939,8 +20290,6 @@ la
 La
 labiadas
 labiado-a
-labial
-lábil
 labilidade
 labio
 labioalveolar
@@ -20964,14 +20313,12 @@ lación
 lacorrinostomía
 lacra
 lacrimais
-lacrimal
 lácrimo-
 lacrimolabial
 lacrimonasal
 lácrimo-Prefixo
 lacrimotomía
 lacrimótomo
-lacrimóxeno
 lacrimóxeno-a
 lactacidemia
 lactaciduria
@@ -20989,7 +20336,6 @@ lactatos
 lácteo-a
 lácteos
 láctica
-láctico
 lactífugo-a
 lactívoro-a
 Lactobacillus
@@ -21041,12 +20387,10 @@ lambdoide
 Lambert
 lamblia
 lamblíase
-lamelar
 lameliforme
 lámina
 Lámina
 laminado-a
-laminar
 láminas
 laminectomía
 laminocostal
@@ -21062,7 +20406,6 @@ lanata
 lanatósido
 lanceolado-a
 lanceta
-lancinante
 Landry
 Landsteiner
 Langerhans
@@ -21144,7 +20487,6 @@ larinxe
 larínxea
 larinxectomía
 Larinxectomía
-larínxeo
 larínxeo-a
 larinxismo
 Larinxismo
@@ -21162,13 +20504,11 @@ Lasègue
 láser
 láseres
 lasitude
-laso
 laso-a
 Lassar
 Lassavirus
 lata
 latencia
-latente
 latentes
 laterais
 lateral
@@ -21220,7 +20560,6 @@ lectularia
 lectura
 Leede
 legais
-legal
 legalis
 legalmente
 Léger
@@ -21243,7 +20582,6 @@ leite
 leite
 Leite
 leito
-leitoso
 Lembert
 lembrados
 lembran
@@ -21258,7 +20596,6 @@ Lenegre
 lenitivo-a
 leñosa
 leñosas
-leñoso
 Lens
 lense
 lenta
@@ -21269,7 +20606,6 @@ Lente
 lentella
 lentes
 lenticono
-lenticular
 lentigo
 lentímetro
 Lentinivirus
@@ -21279,7 +20615,6 @@ Lentitude
 lentivirus
 lentixinose
 Lentixinose
-lento
 lento-a
 lentos
 leonina
@@ -21346,7 +20681,6 @@ lesionada
 lesional
 lesións
 Lesións
-letal
 letalidade
 letargo
 letarxia
@@ -21434,7 +20768,6 @@ levantamentos
 levar
 levarterenol
 lévase
-leve
 levedeforme
 lévedo
 lévedos
@@ -21477,7 +20810,6 @@ liberomotor-a
 libídine
 libido
 Libmann
-libre
 libres
 Libro
 libros
@@ -21544,7 +20876,6 @@ limitante
 limítase
 límite
 límites
-limítrofe
 limitrófico-a
 Limnaea
 limnoloxía
@@ -21569,7 +20900,6 @@ Liñas
 lincomicina
 linda
 Lindau
-lineal
 linfa
 linfadenctomía
 linfadenectasia
@@ -21629,7 +20959,6 @@ linfografía
 linfogranuloma
 linfogranulomatose
 linfohematoma
-linfoide
 linfoidectomía
 linfoides
 linfoidotoxemia
@@ -21664,14 +20993,12 @@ linfuria
 lingua
 Lingua
 linguais
-lingual
 Linguatula
 linguatulíase
 linguaxe
 Linguaxe
 língula
 lingulectomía
-linguodental
 linguopapilite
 linimento
 linina
@@ -21748,7 +21075,6 @@ lipoproteín-lipase
 lipopsiquia
 liposarcoma
 liposixenase
-liposoluble
 liposolubles
 liposoma
 lipostomía
@@ -21782,7 +21108,6 @@ lisas
 lise
 lisemia
 lisencefalia
-lisérxico
 liserxida
 lisexenia
 Lisfranc
@@ -21791,7 +21116,6 @@ lisina
 lisinose
 lisinoxénese
 lisinóxeno-a
-liso
 liso
 liso-a
 lisosoma
@@ -21814,7 +21138,6 @@ litectomía
 litemia
 litíase
 Litíase
-lítico
 lítico-a
 líticos
 liticose
@@ -21866,7 +21189,6 @@ lívido-a
 lixeira
 lixeiramente
 lixeiras
-lixeiro
 lixeiros
 lixivia
 lixiviación
@@ -21889,7 +21211,6 @@ lobópodo
 lobos
 lobotomía
 Lobstein
-lobular
 lobulares
 lobulite
 lóbulo
@@ -21918,10 +21239,8 @@ loci
 loción
 locións
 locomoción
-locomotor
 locomotriz
 locuacidade
-locuaz
 locus
 Loeb
 Loeffer
@@ -21967,7 +21286,6 @@ lonxevidade
 lonxevo-a
 lonxitude
 lonxitudinais
-lonxitudinal
 Lophophora
 loquiocito
 loquiocolpos
@@ -22012,22 +21330,18 @@ ludo
 ludoterapia
 Ludwig
 lúes
-luético
 luetina
 lugar
 Lugar
 lugares
 lumbago
 lumbalxia
-lumbar
 lumbares
 lumbartria
 lumboaórtico
 lumbosacra
 lumbricais
-lumbrical
 lumbricida
-lumbricoide
 lumbricose
 Lumbricus
 lume
@@ -22035,15 +21349,12 @@ lumen
 lumes
 luminal
 luminescencia
-luminescente
 luminosa
 luminosas
 luminosidade
-luminoso
 luminoso-a
 luminosos
 lumisterol
-lunar
 lunático-a
 lúnula
 lupa
@@ -22112,7 +21423,6 @@ macrodact
 macrodactilia
 macrodontia
 macroencefalia
-macrófago
 macrófagos
 macrofalo
 macrofisocefalia
@@ -22151,7 +21461,6 @@ macroqueria
 macrorrinia
 macroscelia
 macroscopia
-macroscópico
 macroscópico-a
 macrosigma
 macrosmia
@@ -22190,7 +21499,6 @@ madurativo
 madurativo-a
 Madurella
 madurez
-maduro
 maduro-a
 maduromicose
 maduros
@@ -22204,7 +21512,6 @@ magnesio
 magnesita
 magnética
 magnéticas
-magnético
 magnetismo
 magnetita
 magnetización
@@ -22228,7 +21535,6 @@ máis
 Máis
 Maisonneuve
 major-justo
-mal
 mala
 malabsorción
 malacía
@@ -22248,11 +21554,9 @@ Malassezia
 malatería
 malato
 maleabilidade
-maleable
 maleficios
 maleína
 maleinización
-maleolar
 maléolo
 maléolos
 maleotomía
@@ -22267,7 +21571,6 @@ malignidade
 maligniza
 malignización
 malignizarse
-maligno
 maligno-a
 malignos
 mallei
@@ -22280,7 +21583,6 @@ malonilurea
 maloplastia
 malparto
 Malpighi
-malsán
 Malta
 maltase
 malte
@@ -22323,7 +21625,6 @@ manco-a
 mándana
 mandélico
 mandíbula
-mandibular
 mandibulares
 mandíbulas
 mandioca
@@ -22352,7 +21653,6 @@ manifestan
 maniféstase
 Maniféstase
 manifeste
-manifesto
 manifestos
 manihot
 maniluvio
@@ -22409,7 +21709,6 @@ marchar
 Marchiafara-Micheli
 Marchiafava-Bignami
 Marchiafava-Micheli
-marcial
 marco
 mareo
 mareos
@@ -22443,7 +21742,6 @@ marxes
 marxinación
 marxinada
 marxinado
-marxinal
 marxinoplastia
 masa
 Masa
@@ -22458,13 +21756,11 @@ máscara
 masculina
 masculinas
 masculinismo
-masculino
 masculinos
 mascuzamento
 máser
 maseter
 masiva
-masivo
 masivo-a
 masol
 masoquismo
@@ -22515,7 +21811,6 @@ masturbación
 Masturbación
 mata
 matar
-mate
 materia
 materiais
 material
@@ -22524,7 +21819,6 @@ materias
 materna
 maternas
 maternidade
-materno
 materno-a
 maternoloxía
 maternos
@@ -22539,7 +21833,6 @@ matrices
 matriz
 matrona
 matutina
-matutino
 Mauz
 maxilar
 Maxilar
@@ -22559,7 +21852,6 @@ máxima
 máximo
 máximo-a
 maxistrais
-maxistral
 maza
 mazá
 mazadura
@@ -22600,7 +21892,6 @@ meconiorrea
 media
 mediada
 mediador
-medial
 medialis
 mediana
 medianas
@@ -22615,7 +21906,6 @@ Mediastino
 mediastinopericardite
 mediastinotomía
 mediata
-mediato
 mediato-a
 médica
 medicación
@@ -22624,19 +21914,15 @@ Medicamento
 medicamentos
 medicamentosa
 medicamentosas
-medicamentoso
 medicamentoso-a
 medicamentosos
 medicina
 medicinais
-medicinal
 medición
 Medición
-médico
 médico-a
 medicofarmacéutica
 médico-legais
-medicolegal
 médico-legal
 médicos
 medida
@@ -22666,7 +21952,6 @@ medren
 medroxiproxesterona
 medula
 meduladas
-medular
 medulares
 meduloblasto
 meduloblastomas
@@ -22735,7 +22020,6 @@ meigo-a
 meiopraxia
 meiose
 meiótica
-meirande
 Meissner
 meixela
 meixelas
@@ -22745,7 +22029,6 @@ melagra
 melalxia
 melancolía
 melancólicas
-melancólico
 melanemese
 melanhidrose
 melánico
@@ -22829,7 +22112,6 @@ membranas
 membraniforme
 membrano-proliferativa
 membranosa
-membranoso
 membranoso-a
 membranosos
 membro
@@ -22877,7 +22159,6 @@ meninxe
 meninxe
 menínxea
 menínxeas
-menínxeo
 meninxeocortical
 meninxeorrafia
 menínxeos
@@ -22911,14 +22192,12 @@ menostaxe
 menotoxina
 menstruación
 menstruais
-menstrual
 menstruo
 menta
 mentados
 mentagnophytes
 mentagra
 mentais
-mental
 mentalidade
 mente
 mento
@@ -22935,7 +22214,6 @@ Meralxia
 mercaptano
 mercapto-Forma
 Mercier
-mercurial
 mercúrico-a
 mercurio
 mercurioso-a
@@ -22990,7 +22268,6 @@ mesenquimatosas
 mesenquimoma
 mesenterectomía
 mesentérica
-mesentérico
 mesenterio
 mesenteriopexia
 mesenteriorrafia
@@ -23012,7 +22289,6 @@ mesoapéndice
 mesoblasto
 mesocardia
 mesocardio
-mesocéfalo
 mesocego
 mesocisto
 mesocito
@@ -23023,7 +22299,6 @@ mesocortical
 mesocranio
 mesoderma
 mesodérmica
-mesodérmico
 mesodermopatía
 mesodiastólico
 mesodiastólico-a
@@ -23075,7 +22350,6 @@ metabionte
 metabiose
 metabólica
 metabólicas
-metabólico
 metabólico-a
 metabólicos
 metabolismo
@@ -23086,7 +22360,6 @@ metabolizado
 metabolopatía
 metaboloxía
 metacarpectomía
-metacarpiano
 metacarpiano-a
 metacarpianos
 Metacarpianos
@@ -23130,7 +22403,6 @@ metalose
 metámera
 metamería
 metamérico-a
-metámero
 metamielocito
 metamorfopsia
 metamorfose
@@ -23164,7 +22436,6 @@ metasterno
 metatálamo
 metatarsalxia
 metatarsectomía
-metatarsiano
 metatarsianos
 Metatarsianos
 metatarso
@@ -23197,7 +22468,6 @@ metilénica
 metileno
 metilfenidato
 metilglicocola
-metílico
 metílico-a
 metilmercaptano
 metilmorfina
@@ -23348,7 +22618,6 @@ microanxiopatía
 microbacteria
 Microbacterium
 microbiana
-microbiano
 microbianos
 microbicida
 micróbide
@@ -23443,7 +22712,6 @@ microscelia
 microscopia
 microscópica
 microscópicas
-microscópico
 microscópicos
 microscopio
 Microscopio
@@ -23491,7 +22759,6 @@ mídese
 Mídese
 midríase
 midriásico-a
-midriático
 miectomía
 miectopía
 mielalxia
@@ -23576,7 +22843,6 @@ milfollas
 milfose
 miliampere
 miliamperímetro
-miliar
 miliaria
 milibar
 milicurie
@@ -23589,7 +22855,6 @@ Millar
 Millard-Gubler
 Miller
 Millipore
-millo
 millón
 milofarínxeo-a
 milogloso-a
@@ -23804,9 +23069,7 @@ mitose
 Mitose
 mitótica
 mitoxénese
-mitral
 mitridatismo
-miúdo
 mixadenite
 mixadenoma
 mixastenia
@@ -23837,7 +23100,6 @@ mixosarcoma
 mixovirus
 mixta
 mixtas
-mixto
 mixto-a
 mixtos
 miza
@@ -23896,11 +23158,9 @@ moitas
 moito
 moitos
 Moitos
-mol
 mola
 Mola
 molalidade
-molar
 Molar
 molares
 molaridade
@@ -23910,11 +23170,9 @@ moldeable
 mole
 molécula
 Molécula
-molecular
 moleculares
 moléculas
 molestias
-molesto
 molibdeno
 molismofobia
 Moll
@@ -23953,10 +23211,8 @@ monoaminofosfátido
 monoaminooxidase
 monoartrite
 monoatómico-a
-monoaural
 monoavitaminose
 monobacilar
-monobásico
 monobásico-a
 monoblasto
 monoblepsia
@@ -23964,8 +23220,6 @@ monobraquia
 monobromofenol
 monocarboxílico
 monocatenarios
-monocéfalo
-monocelular
 monociese
 monocigótico-a
 monocito
@@ -23987,7 +23241,6 @@ monocromático-a
 monocromatismo
 monocromatores
 monocrotismo
-monocular
 monóculo
 monodactilia
 monodermoma
@@ -24018,7 +23271,6 @@ monomiosite
 mononéfrico-a
 mononeurite
 monónfalo
-mononuclear
 mononucleares
 mononucleose
 mononucleótido
@@ -24036,14 +23288,12 @@ monopsicose
 monorquidia
 monorrinia
 monos
-monosacárido
 monosexual
 monosifílide
 monosintomático-a
 monosomía
 monosómico-a
 monospasmo
-monospermo
 Monosporium
 monosquelia
 Monostoma
@@ -24052,7 +23302,6 @@ monostratificado-a
 monotermia
 monotocia
 monotrópico-a
-monovalente
 monovárico-a
 monoxerminal
 Monóxido
@@ -24082,7 +23331,6 @@ morbo
 morbosa
 morbosas
 morbosidade
-morboso
 morboso-a
 morbosos
 morcego
@@ -24111,7 +23359,6 @@ morfoloxía
 morfolóxica
 Morfoloxicamente
 morfolóxicas
-morfolóxico
 morfolóxicos
 morfometría
 morfo-Prefixo
@@ -24126,7 +23373,6 @@ moribundo-a
 moribundos
 morioplastia
 mormo
-morno
 Morquio
 morren
 morreron
@@ -24149,11 +23395,9 @@ mortis
 morto
 morto-a
 mortos
-mortuorio
 mórula
 morulación
 mosaicismo
-mosaico
 mosca
 moscas
 mosquito
@@ -24187,7 +23431,6 @@ moven
 mover
 movérense
 moverse
-movible
 moxiartria
 moxifasia
 moxigrafía
@@ -24251,13 +23494,11 @@ mucosidade
 Mucosidade
 mucosidades
 mucosite
-mucoso
 mucoso-a
 mucosos
 mucoviscidose
 muda
 mudez
-mudo
 muguet
 mulata
 mulato-a
@@ -24270,32 +23511,25 @@ multiarticular
 multiaxil
 multicapsular
 multicéfalo-a
-multicelular
 múlticeps
-multiforme
 multiforme
 multiganglionar
 multigrávida
 multiinfección
 multilobular
-multilocular
 multinucleadas
 multinuclear
 multípara
-múltiple
 múltiples
 multiplicación
 multiplicado
 multiplicarse
 multiplícase
 múltiplo
-multipolar
 multi-Prefixo
 multirradicular
 multisistémica
 Münchhausen
-mundial
-mundo
 Munk
 mural
 murámico
@@ -24310,7 +23544,6 @@ muscarina
 muscarínico-a
 muscarinismo
 múscidos
-muscular
 musculares
 muscularis
 musculatura
@@ -24334,17 +23567,13 @@ musgos
 musica
 música
 musicais
-musical
 musicomanía
 musicoterapia
 mutabilidade
-mutable
 mutación
 mutacións
-mutante
 mutase
 mutaxénico-a
-mutáxeno
 mutáxeno-a
 mutilación
 mutilante
@@ -24464,7 +23693,6 @@ Nariz
 nas
 Nas
 nasais
-nasal
 (nasal
 nasioiníaco-a
 nasión
@@ -24493,7 +23721,6 @@ nasoseptite
 nasosinusite
 nasoturbinal
 nata
-natal
 natalidade
 naticefalia
 natiforme
@@ -24519,7 +23746,6 @@ náusea
 nauseabundo-a
 náuseas
 nauseoso-a
-navicular
 Nb
 NCTC
 Nd
@@ -24533,7 +23759,6 @@ nebulizador
 Necator
 necatoríase
 necesaria
-necesario
 necesarios
 necesidade
 necesita
@@ -24779,7 +24004,6 @@ nerviosa
 nerviosas
 nerviosidade
 nerviosismo
-nervioso
 nervioso-a
 nerviosos
 nervotabe
@@ -24798,7 +24022,6 @@ nestiterapia
 nestoterapia
 netas
 neurais
-neural
 neuralxia
 Neuralxia
 neuralxias
@@ -24937,7 +24160,6 @@ neuroide
 neurolabirintite
 neurolema
 neurolépride
-neuroléptico
 neuroléptico-a
 neurolépticos
 neuroleptoanalxesia
@@ -24952,7 +24174,6 @@ neurólogo-a
 neuroloxía
 neurolóxica
 neurolóxicas
-neurolóxico
 neurolóxicos
 neurolúes
 neuroma
@@ -25045,7 +24266,6 @@ neuroterminal
 neurótica
 neuróticas
 neuroticismo
-neurótico
 neurótico-a
 neurotización
 neurotlipse
@@ -25087,11 +24307,9 @@ neutraliza
 neutralización
 neutralizar
 neutrino
-neutro
 neutro-a
 neutrocito
 neutrofilia
-neutrófilo
 neutrófilo-a
 neutrófilos
 neutrón
@@ -25123,7 +24341,6 @@ nicotianina
 nicotina
 nicotinadenindinucleótido
 nicotinamida
-nicotínico
 nicotínico-a
 nicotinismo
 nictafonía
@@ -25135,7 +24352,6 @@ nictemeral
 nictémero
 nicterino-a
 nictitación
-nictitante
 nictóbata
 nictofilia
 nictofobia
@@ -25196,7 +24412,6 @@ nitrato
 nitratos
 Nitratos
 nitremia
-nítrico
 nítrico-a
 nitrificación
 nitrificante
@@ -25222,7 +24437,6 @@ nitrómetro
 nitromuríatico
 nitro-Prefixo
 nitroprusiato
-nitroso
 nitroso-a
 nitrosobacteria
 nitrosococo
@@ -25256,7 +24470,6 @@ nociceptor-a
 nocifensor-a
 noci-Prefixo
 nocitosMSH
-nocivo
 nocivo-a
 nocivos
 nocrotoxina
@@ -25266,12 +24479,10 @@ noctifobia
 noctimelalxia
 nocturna
 nocturno
-nodal
 nodo
 nodosa
 nodosidade
 nodosidades
-nodoso
 nodular
 nodulares
 nódulo
@@ -25314,7 +24525,6 @@ noretindrona
 norma
 normais
 normais
-normal
 (normal
 normalidade
 normalización
@@ -25421,7 +24631,6 @@ nova
 Nova
 novas
 noveno
-novo
 novobiocina
 novos
 Novy
@@ -25437,11 +24646,9 @@ nubécula
 nucleada
 nucleadas
 nucleado-a
-nuclear
 nucleares
 nuclease
 nucleases
-nucleico
 nucleico-a
 nucleicos
 nucleido
@@ -25496,7 +24703,6 @@ Número
 números
 numerosas
 numerosos
-numular
 nun
 Nun
 nunación
@@ -25512,7 +24718,6 @@ nutriceptor
 nutricio-a
 nutrición
 nutricionais
-nutricional
 nutricios
 nutriente
 nutrientes
@@ -25522,7 +24727,6 @@ nutríndose
 nutrioloxía
 nutritiva
 nutritivas
-nutritivo
 nutritivo-a
 nutritivos
 o
@@ -25547,7 +24751,6 @@ oblea
 oblicua
 oblicuidade
 Oblicuidade
-oblicuo
 Oblicuo
 oblicuo-a
 oblicuos
@@ -25637,7 +24840,6 @@ ocasionada
 ocasionadas
 ocasionado
 ocasionais
-ocasional
 ocasionalmente
 Ocasionalmente
 ocasionan
@@ -25716,7 +24918,6 @@ oculto-a
 oculus
 ocupa
 ocupaba
-ocupacional
 ocupada
 ocupadas
 ocupado
@@ -25769,7 +24970,6 @@ odontóglifo
 odontografía
 odontógrafo
 odontograma
-odontoide
 odontólito
 odontólogo
 odontólogo-a
@@ -25818,7 +25018,6 @@ oficiais
 oficial
 oficina
 oficinais
-oficinal
 ofidíase
 ofidiofobia
 ofidismo
@@ -25937,7 +25136,6 @@ olecranartrite
 olecranartrocace
 olecraniano
 olécrano
-oleico
 olenite
 oleoartrose
 oleobalsámico-a
@@ -25949,7 +25147,6 @@ oleomargarina
 oleomienquise
 oleo-Prefixo
 oleorresina
-oleoso
 oleoso-a
 oleoterapia
 oleovitamina
@@ -25957,7 +25154,6 @@ oleum
 olfaccia
 olfacción
 olfactiva
-olfactivo
 olfactivos
 olfacto
 olfactoloxía
@@ -26033,7 +25229,6 @@ Olmer
 olofonía
 olor
 olores
-oloroso
 oloroso-a
 olos
 omacéfalo
@@ -26114,7 +25309,6 @@ ondina
 ondómetro
 ondulación
 ondulacións
-ondulante
 ondulatorias
 ondulatorio-a
 oneirismo
@@ -26239,16 +25433,13 @@ opacidade
 Opacidade
 opacidades
 opacificación
-opaco
 opaco-a
-opalescente
 opalino-a
 opalisina
 ópalo
 Opalski
 opeidoscopio
 operabilidade
-operable
 operación
 Operación
 operacións
@@ -26256,7 +25447,6 @@ operador-a
 operativo-a
 operatoria
 operatorias
-operatorio
 operatorio-a
 opérculo
 operón
@@ -26362,17 +25552,13 @@ opzima
 ora
 -ora
 orais
-oral
 oraloxía
 orangutáns
-orbicular
 orbiculare
 órbita
 Órbita
 orbitais
-orbital
 orbitaria
-orbitario
 órbitas
 orbitocele
 orbitomaxilolabial
@@ -26413,7 +25599,6 @@ organelas
 orgánica
 orgánicas
 organicismo
-orgánico
 orgánico-a
 orgánicos
 organismo
@@ -26490,7 +25675,6 @@ orixinan
 Orixinan
 orixinando
 orixinar
-orixinario
 orixinarse
 Orixínase
 orizó
@@ -26566,7 +25750,6 @@ ortocéntrico-a
 ortocitose
 ortocorea
 ortocrasia
-ortocromático
 ortocromático-a
 ortocromáticos
 ortocromía
@@ -26612,7 +25795,6 @@ ortorroentgenografía
 ortoscopia
 ortoscopio
 ortose
-ortosimpático
 ortostática
 ortostático-a
 ortostatismo
@@ -26658,7 +25840,6 @@ ose
 ósea
 óseas
 oseína
-óseo
 óseo-a
 oseomucina
 óseos
@@ -26695,7 +25876,6 @@ osmático-a
 osmazoma
 ósmese
 osmestesia
-ósmico
 osmidrose
 osmio
 osmoceptor
@@ -26893,7 +26073,6 @@ otalxia
 otemorrea
 otíatra
 otiatría
-ótico
 ótico-a
 oticodinia
 otite
@@ -26965,14 +26144,12 @@ Outra
 outras
 outro
 outros
-oval
 ovalbumina
 ovalocito
 ovalocitose
 ovarialxia
 ovárica
 ováricas
-ovárico
 ováricos
 ovariectomía
 ovario
@@ -27004,7 +26181,6 @@ ovicápsula
 oviducto
 ovífero-a
 ovificación
-oviforme
 ovíparo-a
 ovisaco
 ovísaco
@@ -27020,7 +26196,6 @@ ovoflavina
 ovoforite
 ovoglobulina
 ovogonio
-ovoide
 ovolecitina
 ovolisina
 ovoloxía
@@ -27048,7 +26223,6 @@ oxalatado-a
 oxalato
 oxalatos
 oxalemia
-oxálico
 oxalismo
 oxalose
 oxaluria
@@ -27184,12 +26358,10 @@ palabras
 paladio
 palanestesia
 palatabilidade
-palatal
 palatalizar
 palatiforme
 palatina
 palatinas
-palatino
 Palatino
 palatino-a
 palatinoide
@@ -27254,7 +26426,6 @@ pálida
 palidal
 pálidas
 palidez
-pálido
 pálido-a
 pálido-estriado-a
 palidotomía
@@ -27277,7 +26448,6 @@ pallor
 palma
 palmado-a
 palmanestesia
-palmar
 palmares
 palmas
 palmatura
@@ -27298,7 +26468,6 @@ palmus
 palógrafo
 Palomar-Petit
 palpabilidade
-palpable
 palpación
 Palpación
 palpar
@@ -27307,18 +26476,15 @@ palpatoria
 pálpebra
 palpebrado-a
 palpebrais
-palpebral
 pálpebras
 palpebrite
 palpebrooculares
 palpitación
 palpitacións
-palpitante
 palpitar
 palpite
 pálpito
 paludial
-palúdico
 palúdico-a
 palúdide
 paludismo
@@ -27326,7 +26492,6 @@ paludíxeno-a
 paludoloxía
 paludose
 paludoterapia
-palustre
 PAM
 pamaquina
 PAMBA
@@ -27361,7 +26526,6 @@ pancreatectomía
 pancreatelcose
 pancreatenfraxe
 pancreática
-pancreático
 pancreático-a
 pancreaticocolecistotomía
 pancreaticoduodenal
@@ -27510,7 +26674,6 @@ Papel
 papeleta
 papila
 Papila
-papilar
 papilares
 papilas
 papilectomía
@@ -27667,7 +26830,6 @@ paradiagnóstico
 paradídimo
 paradiftérico-a
 paradisentería
-paradoxal
 paradoxo
 paraecrise
 paraentérico-a
@@ -27728,7 +26890,6 @@ parahormona
 parainfección
 parainfeccioso-a
 parainfluenza
-paraláctico
 paralagma
 paralalia
 paralambdacismo
@@ -27760,7 +26921,6 @@ paralíticos
 paralizado
 paralizador-a
 paraliza-la
-paralizante
 paralizar
 paraloxía
 paraloxismo
@@ -27809,12 +26969,10 @@ paraneural
 paranfistomíase
 paranoia
 paranoica
-paranoico
 paranoico-a
 paranoide
 paranoides
 paranomia
-paranormal
 paranúcleo
 paranucléolo
 paranxina
@@ -27880,7 +27038,6 @@ parasifilose
 parasigmatismo
 parasigmoidite
 parasimpáticas
-parasimpático
 parasimpático-a
 parasimpaticolítico-a
 parasimpaticomanía
@@ -27900,7 +27057,6 @@ parasitan
 parasitándoos
 parasitaria
 parasitarias
-parasitario
 parasitarios
 parasitas
 parasitaxe
@@ -27993,10 +27149,8 @@ parazoo
 parcelas
 parche
 parciais
-parcial
 parcialmente
 parda
-pardo
 pardo-a
 pardos
 pardovermellas
@@ -28027,11 +27181,9 @@ parencefalocele
 parénquima
 parenquimatite
 parenquimatosa
-parenquimatoso
 parenquimatoso-a
 parenquímula
 parental
-parenteral
 parentesco
 parepicelio
 parepitimia
@@ -28124,7 +27276,6 @@ paroxísmico-a
 paroxismos
 paroxística
 paroxísticas
-paroxístico
 parrocha
 Parrot
 parrulos
@@ -28201,10 +27352,8 @@ pasivismo
 pasivo
 pasivo-a
 pasivos
-pasmado
 pasmar
 pasmo
-paso
 Paso
 pasos
 pass
@@ -28223,7 +27372,6 @@ pastilla
 pastómetro
 pastor
 pastosa
-pastoso
 pastoso-a
 pata
 pataca
@@ -28238,7 +27386,6 @@ pateño-a
 patergasia
 paternidade
 paterxia
-patético
 patetismo
 patoanatomía
 patobioloxía
@@ -28253,7 +27400,6 @@ patoforese
 patóforo-a
 patognomia
 patognómico-a
-patognomónico
 patognóstico
 patografía
 patólise
@@ -28265,7 +27411,6 @@ patoloxicamente
 Patoloxicamente
 patolóxicas
 patolóxicas:
-patolóxico
 patolóxicos
 patomaína
 patomanía
@@ -28291,11 +27436,9 @@ patóxena
 patóxenas
 patoxenia
 patoxenicidade
-patóxeno
 patóxeno-a
 patóxenos
 patria
-patrilineal
 patrimonio
 patrón
 Patton
@@ -28376,7 +27519,6 @@ pedíctero
 pediculación
 pediculado-a
 pediculados
-pedicular
 pediculicida
 pediculización
 pedículo
@@ -28484,7 +27626,6 @@ pelve
 Pelve
 pelvi-
 pelviana
-pelviano
 pelviano-a
 pelvianos
 pélvica
@@ -28528,7 +27669,6 @@ Penetración
 penetran
 penetrancia
 penetrans
-penetrante
 penetrantes
 penetrar
 penetrómetro
@@ -28551,7 +27691,6 @@ penico
 península
 penis
 penite
-penniforme
 penoscrotal
 Penrose
 pensa
@@ -28627,7 +27766,6 @@ percebella
 percepción
 Percepción
 perceptibilidade
-perceptible
 perceptibles
 perceptiva
 perceptual
@@ -28666,7 +27804,6 @@ perderon
 perdeu
 perdida
 perencefalia
-perenne
 perennes
 perfección
 perfeccionismo
@@ -28680,11 +27817,9 @@ perforación
 perforada
 perforado
 perforado-a
-perforador
 perforalos
 perfora-los
 perforamembranas
-perforante
 perforatorium
 perfricación
 perfringens
@@ -28699,7 +27834,6 @@ periadenoidite
 periadventicio-a
 perialienite
 periamigdalite
-perianal
 periantrite
 perianxiocolite
 perianxioma
@@ -28729,7 +27863,6 @@ pericardíaco
 pericardíacos
 pericárdica
 pericardicentese
-pericárdico
 pericardiectomía
 pericardio
 pericardiocentese
@@ -28797,7 +27930,6 @@ perifarínxeo-a
 periferia
 periférica
 periféricas
-periférico
 periféricos
 periflebite
 perifocal
@@ -28842,7 +27974,6 @@ perimisite
 perinatal
 perinatoloxía
 perineais
-perineal
 perineauxese
 perinefrite
 perineo
@@ -28952,7 +28083,6 @@ peritiflite
 peritiroidite
 peritomía
 peritomista
-peritoneal
 peritonealxia
 peritoneo
 peritoneocentese
@@ -28999,12 +28129,10 @@ permanecer
 permanecían
 permanencia
 Permanencia
-permanente
 permanentemente
 permanentes
 permanganato
 permeabilidade
-permeable
 permia
 permitan
 permite
@@ -29018,7 +28146,6 @@ perna
 pernas
 pernasal
 perniciosa
-pernicioso
 pernicioso-a
 pernio
 perniose
@@ -29054,7 +28181,6 @@ perosplacnia
 peroxidase
 peróxido
 peroxisomas
-perpendicular
 perpendicularmente
 perpleural
 perplexidade
@@ -29066,7 +28192,6 @@ perseveración
 persiste
 persistencia
 Persistencia
-persistente
 persistentes
 persoa
 Persoa
@@ -29083,7 +28208,6 @@ persuasión
 persulfato
 pertence
 pertencen
-pertencente
 Pertencente
 pertencentes
 pertenue
@@ -29103,7 +28227,6 @@ pesabebés
 pesada
 pesadas
 pesadelo
-pesado
 pesaleite
 pesario
 pescozo
@@ -29120,11 +28243,9 @@ Peste
 pesticemia
 pestífero-a
 pestilencia
-pestilente
 pestis
 petarelo
 petequia
-petequial
 (petequias
 petequíase
 petiscar
@@ -29196,7 +28317,6 @@ picodnavirus
 pico-Prefixo
 Picornaviridae
 picrámico
-pícrico
 picrocarmín
 picroformol
 picrol
@@ -29240,10 +28360,8 @@ pigmentación
 Pigmentación
 pigmentada
 pigmentadas
-pigmentado
 pigmentaria
 pigmentarias
-pigmentario
 pigmenti
 pigmento
 Pigmento
@@ -29280,7 +28398,6 @@ piloquisto
 piloralxia
 pilorectomía
 pilóricas
-pilórico
 pilorite
 píloro
 piloroduodenite
@@ -29297,7 +28414,6 @@ pilosa
 pilosebáceas
 pilosebáceo-a
 pilosidade
-piloso
 piloso-a
 pilosos
 pilosus
@@ -29311,7 +28427,6 @@ pimelortopnea
 pimelose
 pimeluria
 pincel
-pineal
 pinealectomía
 pinealismo
 pinealoma
@@ -29412,13 +28527,11 @@ pióxenas
 pioxénese
 pioxénico
 pioxenina
-pióxeno
 pióxenos
 pipemídico
 piperacina
 pipeta
 piramidais
-piramidal
 Piramidal
 pirámide
 pirámides
@@ -29448,7 +28561,6 @@ pirgocefalia
 piridoxal
 piridoxamina
 piridoxina
-piriforme
 pirimidina
 pirimidinas
 pirodoxal
@@ -29492,7 +28604,6 @@ pitresina
 pituicito
 pituíta
 pituitaria
-pituitario
 pituitarismo
 pituitectomía
 pituitoso-a
@@ -29509,7 +28620,6 @@ placenta
 placentación
 placentaria
 placentarias
-placentario
 placentario-a
 placentarios
 placentiforme
@@ -29530,7 +28640,6 @@ plániceps
 Planificación
 planifolia
 planímetro
-plano
 Plano
 planocelular
 planocito
@@ -29567,7 +28676,6 @@ plasmarrexe
 plasmase
 plasmática
 plasmáticas
-plasmático
 plasmatogamia
 plasmatose
 plasmaxene
@@ -29686,20 +28794,17 @@ pleto
 pletomelia
 plétora
 Plétora
-pletórico
 pleura
 Pleura
 pleuracentese
 pleuracotomía
 pleurais
-pleural
 pleuralxia
 pleurapófise
 pleurectomía
 pleuresía
 Pleuresía
 pleurite
-pleurítico
 pleuritóxeno-a
 pleurobronquite
 pleurocele
@@ -29760,7 +28865,6 @@ plumbismo
 Plummer
 Plummer-Vinson
 plúmula
-pluricelular
 pluricelulares
 pluriceptor
 pluricordonal
@@ -29846,7 +28950,6 @@ pneumofasciografía
 pneumofimia
 pneumoflebite
 pneumogalactocele
-pneumogástrico
 pneumogástrico-a
 pneumogastrografía
 pneumografía
@@ -29953,7 +29056,6 @@ poder
 Poder
 podería
 poderíanse
-poderoso
 pódese
 Pódese
 pódex
@@ -30000,7 +29102,6 @@ polaquicoprose
 polaquihipnia
 polaqui-Prefixo
 polaquiúria
-polar
 polaridade
 polarímetro
 polarizada
@@ -30120,7 +29221,6 @@ polimixina
 polimixinas
 polimorfa
 polimorfismo
-polimorfo
 polimorfo-a
 polimorfocelular
 polimorfocito
@@ -30138,7 +29238,6 @@ polineurorradiculite
 polinose
 polinucleado-a
 polinucleados
-polinuclear
 polinucleares
 polinucleolar
 polinucleose
@@ -30279,7 +29378,6 @@ pomposa
 pómulo
 pómulos
 pomum
-ponderal
 pondostatural
 poñe-la
 poñe-lo
@@ -30304,7 +29402,6 @@ pontino-a
 pontocerebeloso-a
 pool
 poplítea
-poplíteo
 poplíteo-a
 popularmente
 por
@@ -30315,7 +29412,6 @@ poradenia
 porcelana
 porcentaxe
 porcentaxes
-porcino
 porción
 Porción
 porcións
@@ -30347,7 +29443,6 @@ poroqueratose
 poros
 porosas
 porose
-poroso
 porotomía
 porque
 porráceo-a
@@ -30401,7 +29496,6 @@ posglenoide
 posgravídica
 posgripal
 posibilidade
-posible
 posiblemente
 Posiblemente
 posibles
@@ -30425,7 +29519,6 @@ posmesentérico-a
 posmolar
 posmortal
 posnasal
-posnatal
 posnecrótico-a
 posneurítico-a
 posnodular
@@ -30455,18 +29548,15 @@ postembrionario-a
 postencefálicas
 postencefálico-a
 postepiléptico-a
-posterior
 posteriores
 posterioridade
 posteriormente
 Posteriormente
 posteroanterior
-posteroinferior
 posterointerno-a
 posterolateral
 posteromediano-a
 posteroparietal
-posterosuperior
 postérula
 postescarlatinoso-a
 postesfígmico-a
@@ -30515,11 +29605,9 @@ posuí-lo
 posuíndo
 posuír
 potabilidade
-potable
 potamofobia
 potasa
 potasemia
-potásico
 potasio
 potasio
 potasismo
@@ -30531,7 +29619,6 @@ potencial
 potencialización
 potencialmente
 potenica
-potente
 potomanía
 potra
 Pott
@@ -30578,7 +29665,6 @@ praxis
 prazo
 preacción
 preadulto-a
-preagónico
 prealbuminúrico-a
 preanal
 preanestesia
@@ -30618,7 +29704,6 @@ precisa
 precisa-lo
 precisan
 precisar
-preciso
 precisos
 preclínico-a
 precocidade
@@ -30626,11 +29711,9 @@ precoma
 preconsciente
 precordal
 precordiais
-precordial
 precordialxia
 precordio
 precostal
-precoz
 precranial
 precrítico-a
 precursor
@@ -30656,17 +29739,14 @@ predomina
 predominan
 Predominan
 predominante
-predominante
 predominantemente
 predominio
 Predominio
-predorsal
 preeclampsia
 preedema
 preepiglótico-a
 preeruptivo-a
 preestablecidos
-preexistente
 preferentemente
 prefixa
 prefixo
@@ -30706,7 +29786,6 @@ prelácteo-a
 prelarínxeo-a
 preleucemia
 prelímbico-a
-preliminar
 prelum
 prelumbar
 premaligno-a
@@ -30717,11 +29796,9 @@ prematuros
 premaxilar
 premedicación
 premelas
-premenstrual
 premielocito
 premioblasto
 premolar
-premonitorio
 premonitorio-a
 premoriencia
 premortal
@@ -30730,13 +29807,11 @@ premunitivo-a
 preñada
 prenarcose
 prenasal
-prenatal
 prendas
 preneoplásico-a
 preñez
 prensa
 Prensa
-prénsil
 prensión
 preocupación
 preoperatoria
@@ -30804,7 +29879,6 @@ presentar
 presentarse
 preséntase
 Preséntase
-presente
 Presente
 presenten
 presentes
@@ -30840,7 +29914,6 @@ preve-lo
 prevelos
 prevén
 prevención
-preventivo
 preventorio
 preventriculose
 prevertebral
@@ -30851,13 +29924,11 @@ previas
 previ-la
 previos
 previr
-previsible
 previsto
 previtamina
 prexenital
 prexudica
 prexudican
-prexudicial
 prexuízo
 priapismo
 priapite
@@ -30868,12 +29939,10 @@ primaquina
 primaria
 primariamente
 primarias
-primario
 primario-a
 primarios
 primas
 primates
-primaveral
 primeira
 Primeira
 primeiras
@@ -30887,7 +29956,6 @@ primitivo
 primitivo-a
 primitivos
 primoinfección
-primordial
 primordio
 primovacinación
 primum
@@ -30913,7 +29981,6 @@ proamnio
 proatlas
 proba
 Proba
-probable
 probablemente
 probas
 probenecid
@@ -30932,7 +29999,6 @@ Procedemento
 procedementos
 proceden
 procedencia
-procedente
 procedentes
 proceder
 procefálico-a
@@ -30943,7 +30009,6 @@ Proceso
 procesos
 procesos:
 processus
-procesual
 procidencia
 procigose
 procole
@@ -31069,7 +30134,6 @@ profundar
 profundas
 profundidade
 Profundidade
-profundo
 profundos
 profusa
 profuso-a
@@ -31090,7 +30154,6 @@ Progresión
 progresiva
 progresivamente
 progresivas
-progresivo
 progresivo-a
 Prohibición
 proído
@@ -31134,7 +30197,6 @@ promielocito
 promina
 prominencia
 Prominencia
-prominente
 prominentes
 promitose
 promonocito
@@ -31187,7 +30249,6 @@ proplasmocito
 proporción
 Proporción
 proporciona
-proporcional
 proporciónalle
 proporcionalmente
 proporcionan
@@ -31240,7 +30301,6 @@ prostatauxa
 prostatectomía
 Prostatectomía
 prostática
-prostático
 prostático-a
 prostatismo
 prostatite
@@ -31255,7 +30315,6 @@ prostatotomía
 prostatovesiculite
 prostese
 prostesón
-prostético
 prostético-a
 prostodoncia
 prostoma
@@ -31277,19 +30336,16 @@ protector
 protectora
 proteica
 proteicas
-proteico
 proteico-a
 proteicos
 proteidemia
 proteido
-proteiforme
 proteína
 Proteína
 proteínas
 Proteínas
 proteinase
 proteinemia
-proteínico
 proteinívoro-a
 proteinocromóxeno
 proteinofobia
@@ -31354,7 +30410,6 @@ protoplasia
 protoplasma
 protoplasmática
 protoplasmáticas
-protoplasmático
 protoplasto
 protoporfirina
 proto-Prefixo
@@ -31385,10 +30440,8 @@ protrombótico
 protrusión
 protuberancia
 protuberancial
-protuberante
 provén
 proveñen
-proveniente
 provértebra
 provista
 provistas
@@ -31436,7 +30489,6 @@ proxestina
 proxestóxeno
 próxima
 proximais
-proximal
 próximas
 proximidade
 próximo
@@ -31453,7 +30505,6 @@ prurixinosa
 prurixinosas
 prurixinoso-a
 Prusia
-prúsico
 P-S
 psamocarcinoma
 psamoma
@@ -31661,10 +30712,8 @@ psicolepsia
 psicoloxía
 psicolóxica
 psicolóxicas
-psicolóxico
 psicolóxicos
 psicomotilidade
-psicomotor
 psicomotor-a
 psicomotrices
 psicomotricidade
@@ -31687,12 +30736,10 @@ psicosexual
 psicosocial
 psicosoma
 psicosomáticas
-psicosomático
 psicosomático-a
 psicotecnia
 psicoterapeuta
 psicoterapeutas
-psicoterapéutico
 psicoterapéuticos
 psicoterapia
 Psicoterapia
@@ -31721,7 +30768,6 @@ psiquiátrica
 psiquiátricas
 psíquica
 psíquicas
-psíquico
 psíquico-a
 psíquicos
 psiquismo
@@ -31780,13 +30826,10 @@ ptose
 PTT
 pubarquia
 pube
-púbere
 pubertade
 pubescencia
-pubescente
 pubetrotomía
 pubiana
-pubiano
 pública
 Públicas
 público
@@ -31799,16 +30842,13 @@ pucha
 pudendagra
 pudendas
 pudendi
-pudendo
 pudendo-a
 pudendum
 Puente
 puericia
 puericultura
-pueril
 puerilismo
 puérpera
-puerperal
 puerperilidade
 puerperio
 pugas
@@ -31826,7 +30866,6 @@ pulmólito
 pulmometría
 pulmómetro
 pulmón
-pulmonar
 pulmonares
 pulmonectomía
 pulmonía
@@ -31836,7 +30875,6 @@ pulsación
 Pulsación
 pulsacións
 Pulsacións
-pulsátil
 pulsión
 pulso
 Pulso
@@ -31867,14 +30905,11 @@ Punto
 puntos
 Puntos
 puntura
-punxente
 punxitiva
 punzada
-punzante
 pupa
 pupila
 Pupila
-pupilar
 pupilas
 pupilatonía
 pupilómetro
@@ -31918,7 +30953,6 @@ purpurinuria
 purpuróxeno-a
 purulenta
 purulentas
-purulento
 purulento-a
 puruloide
 purupuru
@@ -31932,7 +30966,6 @@ pustulocrustáceo-a
 pustulosa
 pustulosas
 pustulose
-pustuloso
 pustuloulcerativo-a
 putame
 putrefacción
@@ -32107,7 +31140,6 @@ quiasmatipia
 quiasmatodaquía
 quiastómetro
 Quielite
-quiescente
 quifose
 quilanxioma
 quilectasia
@@ -32282,7 +31314,6 @@ radiacións
 radiada
 radiadas
 radiais
-radial
 radián
 radiante
 radica
@@ -32290,7 +31321,6 @@ radicais
 radical
 radícula
 radiculalxia
-radicular
 radiculares
 radiculectomía
 radiculite
@@ -32308,7 +31338,6 @@ radioactiva
 radioactivas
 radioactividade
 Radioactividade
-radioactivo
 radioactivo-a
 radioactivos
 radioanafilaxe
@@ -32349,7 +31378,6 @@ radioloxía
 radiolóxica
 Radioloxicamente
 radiolóxicas
-radiolóxico
 radiolóxicos
 radiolúcido-a
 radioluminescencia
@@ -32430,7 +31458,6 @@ ránula
 Ránula
 Ranvier
 ranxios
-rapaz
 rápida
 rapidamente
 rápidas
@@ -32450,7 +31477,6 @@ raquicentese
 raquicifose
 raquídea
 raquídeas
-raquídeo
 raquídeo-a
 raquídeos
 raquidinia
@@ -32470,7 +31496,6 @@ raquisquise
 raquite
 raquítica
 raquíticas
-raquítico
 raquitismo
 raquitomía
 raquítomo
@@ -32480,7 +31505,6 @@ raramente
 raras
 rarefacción
 rarefecer
-raro
 rascado
 rascadura
 rascarse
@@ -32524,7 +31548,6 @@ reactividade
 reactivo
 reactivos
 reais
-real
 realidade
 realiza
 realizaban
@@ -32563,7 +31586,6 @@ recalcificante
 recambio
 receita
 receitas
-recente
 recentes
 recepción
 receptáculo
@@ -32575,7 +31597,6 @@ receptores
 Receptores
 recesión
 recesiva
-recesivo
 recesivo
 recesivo-a
 recessus
@@ -32622,19 +31643,15 @@ recorda-las
 recordos
 recorrencia
 Recorrencia
-recorrente
 recorrentes
 recorrentoterapia
 recremento
 recta
 rectais
-rectal
 rectalxia
 rectectomía
 rectificación
 rectilíneas
-rectilíneo
-recto
 recto-a
 rectocele
 rectocolite
@@ -32739,11 +31756,9 @@ refresca
 refrescamento
 refrescantes
 refrinxencia
-refrinxente
 refrinxentes
 refrixeración
 refrixerados
-refrixerante
 Refsum
 refugallos
 refugo
@@ -32763,7 +31778,6 @@ regulado
 regula-la
 regulamentación
 regulamentados
-regular
 regulares
 regurxitación
 Regurxitación
@@ -32829,7 +31843,6 @@ remisión
 remitente
 remotos
 renais
-renal
 renal:
 renal
 rencia
@@ -32860,7 +31873,6 @@ reobase
 reocardiograma
 reocordio
 reoencefalograma
-reóforo
 reograma
 reoloxía
 reómetro
@@ -32878,7 +31890,6 @@ reoxidación
 repara
 reparar
 repártense
-repelente
 repeler
 repente
 repentina
@@ -32931,7 +31942,6 @@ réptiles
 reptroperitoneo
 repudio
 repugnancia
-repugnante
 repulsión
 requeridas
 require
@@ -32958,7 +31968,6 @@ resgardar
 reside
 residente
 residuais
-residual
 residuo
 residuos
 resina
@@ -32974,8 +31983,6 @@ resistente
 resistentes
 Resistentes
 resisti-las
-resoador
-resoante
 resoltos
 resolución
 resolutivo-a
@@ -32993,7 +32000,6 @@ respectivamente
 respectivos
 respecto
 Respecto
-respirable
 respiración
 Respiración
 respirado
@@ -33003,7 +32009,6 @@ respiralo
 respirar
 respiratoria
 respiratorias
-respiratorio
 respiratorios
 respirómetro
 responde
@@ -33062,7 +32067,6 @@ retendo
 reter
 reteteste
 retetestis
-reticular
 reticulina
 retículo
 reticulocito
@@ -33106,15 +32110,12 @@ retintín
 retira
 retira-la
 retisolución
-retorcido
 retorna
 retorno
 retotelioma
 retoteliose
 retracción
 Retracción
-retráctil
-retractor
 retraemento
 retráese
 retransfundidos
@@ -33199,7 +32200,6 @@ revascularización
 revela
 revelan
 revelente
-reversible
 reversión
 revestidas
 revestidos
@@ -33224,7 +32224,6 @@ réximes
 rexión
 Rexión
 rexionais
-rexional
 rexións
 rexistra
 rexistradores
@@ -33253,7 +32252,6 @@ riba
 ribeiras
 riboflavina
 ribonuclease
-ribonucleico
 ribonucleico
 ribonucleodespolimerase
 ribonucleótido
@@ -33376,7 +32374,6 @@ ritidose
 rítmica
 ritmicamente
 rítmicas
-rítmico
 rítmico-a
 rítmicos
 ritmo
@@ -33391,7 +32388,6 @@ rixa
 ríxida
 rixidez
 Rixidez
-ríxido
 ríxido-a
 ríxidos
 rixo-a
@@ -33463,10 +32459,8 @@ rombencéfalo
 Romberg
 romboatloide
 rombocelio
-romboidal
 romboide
 romboides
-romo
 rompe
 rompen
 romper
@@ -33477,7 +32471,6 @@ rosácea
 rosáceas
 rosada
 rosadas
-rosado
 rosario
 rose
 roseína
@@ -33490,7 +32483,6 @@ rotación
 Rotación
 rotacismo
 rotatoria
-rotatorio
 rotatorio-a
 rotatorios
 Rotavirus
@@ -33520,7 +32512,6 @@ rubefaciente
 rubéola
 rubeose
 ruber
-rubescente
 rubicundo-a
 rubideiras
 rubidio
@@ -33533,7 +32524,6 @@ rubriblasto
 rúbrico-a
 rubrospinal
 rudimentaria
-rudimentario
 rudimentarios
 rudimento
 rugitus
@@ -33555,7 +32545,6 @@ Russell
 rusticación
 rutenio
 rutidose
-rutilante
 rutilismo
 rutina
 rutinismo
@@ -33586,7 +32575,6 @@ sacarinosa
 sacarobiosa
 sacarocoria
 sacarogalactorrea
-sacaroide
 sacarolado
 sacarometabolismo
 sacaromices
@@ -33599,7 +32587,6 @@ sacaroscopio
 sacarosuria
 sacaróxeno-a
 Saccharomyces
-sacciforme
 saceliforme
 saciedade
 saco
@@ -33672,11 +32659,9 @@ salicilato
 Salicilato
 salicilaxe
 salicilazosulfapiridina
-salicílico
 salicilismo
 salicilterapia
 salífero-a
-salificable
 salímetro
 salina
 salinas
@@ -33688,7 +32673,6 @@ Saliva
 salivación
 salivais
 salival
-salivar
 salivares
 salivarius
 salivatorio-a
@@ -33699,7 +32683,6 @@ Salmon
 Salmonela
 salmonelas
 salmonelose
-salobre
 salol
 salouco
 salpingocateterismo
@@ -33749,7 +32732,6 @@ salvaxes
 sambesuga
 sambesugas
 samesuga
-san
 sanatorio
 Sancho
 sandar
@@ -33772,11 +32754,9 @@ sanguifaciente
 sanguificación
 sanguínea
 sanguíneas
-sanguíneo
 sanguíneo-a
 sanguíneos
 sanguinolenta
-sanguinolento
 sanguinolento-a
 sanguinopoético-a
 sanguisucción
@@ -33796,7 +32776,6 @@ Santos
 sapo
 saponáceo-a
 saponado-a
-saponificable
 saponificación
 saponina
 saponuro
@@ -33891,10 +32870,8 @@ sativa
 saturación
 saturada
 saturados
-saturnino
 saturnismo
 saturnoterapia
-saudable
 saudación
 saudador-a
 saúde
@@ -33907,7 +32884,6 @@ sauroderma
 Sauter
 saxífrago-a
 saxina
-saxital
 Sb
 Sc
 scabiei
@@ -33938,7 +32914,6 @@ se
 Se
 sebácea
 sebáceas
-sebáceo
 sebáceo-a
 sebacina
 sebípero-a
@@ -33964,7 +32939,6 @@ seccións
 secernente
 seclusión
 seclusivo-a
-seco
 seco
 secobarbital
 secondoto-a
@@ -33995,7 +32969,6 @@ secundaria
 Secundaria
 secundariamente
 secundarias
-secundario
 secundario-a
 secundarios
 secundarios:
@@ -34069,19 +33042,16 @@ selección
 seleccionadas
 selectiva
 selectivas
-selectivo
 selenio
 selenose
 selo
 semana
-semanal
 semanas
 seme
 semelincidente
 semella
 semellan
 semellando
-semellante
 semellantes
 (semellantes
 semellanza
@@ -34095,7 +33065,6 @@ semianular
 semiarticulación
 semibaño
 semicartilaxinoso-a
-semicircular
 semicirculares
 Semicírculo
 semicoma
@@ -34104,14 +33073,12 @@ semiespinal
 semiespiñento
 semiflexión
 semifluída
-semilunar
 Semilunar
 semiluxación
 semimembranoso
 semimembranoso-a
 semimucosa
 seminais
-seminal
 seminarcose
 seminíferas
 seminífero-a
@@ -34124,7 +33091,6 @@ semioloxía
 semiorbicular
 semipechado
 semipeniforme
-semipermeable
 semiplexía
 semi-Prefixo
 semirrecumbente
@@ -34144,14 +33110,12 @@ Sen
 sendo
 senescencia
 senicultura
-senil
 senilidade
 senilismo
 senón
 senopía
 sensación
 Sensación
-sensacional
 sensacións
 sensibilidade
 Sensibilidade
@@ -34161,7 +33125,6 @@ sensibilizada
 sensibilizador-a
 sensibilizante
 sensibilizar
-sensible
 sensiblemente
 sensibles
 sensífero-a
@@ -34169,7 +33132,6 @@ sensímetro
 sensitinóxeno
 sensitiva
 sensitivas
-sensitivo
 sensitivo-a
 sensitivomotora
 sensitivomotor-a
@@ -34180,11 +33142,9 @@ sensomobilidade
 sensomotores
 sensoparálise
 sensoriais
-sensorial
 sensorimuscular
 sensorio
 sensorivascular
-sensual
 sensualismo
 sentada
 sentado
@@ -34193,7 +33153,6 @@ sente
 séntese
 sentido
 sentidos
-sentimental
 sentimento
 Sentimento
 sentimentos
@@ -34234,7 +33193,6 @@ Septicemia
 septicémica
 septicidade
 septicina
-séptico
 séptico-a
 septicopiohemia
 sépticos
@@ -34259,7 +33217,6 @@ sería
 serial
 sérica
 séricas
-sérico
 sérico-a
 serie
 Serie
@@ -34289,7 +33246,6 @@ seroenterite
 serofibrinoso-a
 seroloxía
 serolóxica
-serolóxico
 seropatía
 seroperitoneo
 seroplástico-a
@@ -34308,7 +33264,6 @@ serorreaccións
 serorresistente
 serosa
 serosas
-seroso
 serosos
 serotonina
 serpe
@@ -34323,7 +33278,6 @@ Serra
 serraduras
 serrata
 Serratia
-serrátil
 serrato
 serrato-a
 serratos
@@ -34337,7 +33291,6 @@ serviren
 servosistema
 sesamoide
 Sesamoide
-sésil
 setáceo-a
 sete
 setemesiño-a
@@ -34363,7 +33316,6 @@ sextillizo-a
 sextípara
 sexto
 sexuais
-sexual
 sexualidade
 sexualmente
 sexunción
@@ -34381,7 +33333,6 @@ siagonagra
 sialadenite
 sialadeno
 sialadenonco
-sialagogo
 sialagogo-a
 sialemese
 siálico-a
@@ -34534,10 +33485,8 @@ simetría
 simétrica
 simetricamente
 simétricas
-simétrico
 simétricos
 simetromanía
-similar
 similares
 similares:
 simillium
@@ -34575,7 +33524,6 @@ simpatose
 simpexe
 simplasma
 simplasmata
-simple
 simplemente
 simples
 simpodio
@@ -34588,7 +33536,6 @@ simultagnosia
 simultánea
 simultaneamente
 simultáneas
-simultáneo
 simultáneo-a
 sin-
 sinadelfo
@@ -34616,7 +33563,6 @@ sincéfalo
 sinceloma
 sincinese
 sincipicio
-sincipital
 sincitial
 sincitial
 sincitio
@@ -34665,7 +33611,6 @@ sinequenterotomía
 sinequia
 sinérese
 sinerxía
-sinérxico
 sinestesia
 sinestesialxia
 sinfalanxia
@@ -34718,7 +33663,6 @@ sinovectomía
 sinovia
 sinoviais
 sinovial
-sinovial
 sinovialoma
 sinovíparo-a
 sinovite
@@ -34735,7 +33679,6 @@ síntese
 sintética
 sinteticamente
 sintéticas
-sintético
 sintéticos
 sintetiza
 Sintetiza
@@ -34746,7 +33689,6 @@ Síntoma
 síntomas
 sintomática
 sintomáticas
-sintomático
 sintomatloxía
 sintomatolítico-a
 sintomatoloxía
@@ -34767,13 +33709,11 @@ sinuscopia
 sinusectomía
 sinusite
 sinusohidrorrea
-sinusoidal
 sinusoide
 sinusoides
 sinusotomía
 sinuventricular
 sinxelas
-sinxelo
 sinxelos
 sinxenesioplastia
 sinxénico-a
@@ -34821,11 +33761,9 @@ sistematizado-a
 sistematoloxía
 sistémica
 sistémicas
-sistémico
 sistémico-a
 sistémicos
 sístole
-sistólico
 (sistólico
 sistolómetro
 sistrema
@@ -34838,7 +33776,6 @@ sitios
 sitioterapia
 sitiotoxismo
 sitiotropismo
-sito
 sitúa
 situación
 situacións
@@ -34860,13 +33797,11 @@ Smith
 smog
 Sn
 SNC
-só
 (só
 soa
 soamente
 sobaco
 sobe
-soberbio
 sobrazos
 sobre
 Sobre
@@ -34892,7 +33827,6 @@ sobresalto
 sobresaturación
 sobrevivente
 sociais
-social
 sociedade
 socioambientais
 socioloxía
@@ -34904,7 +33838,6 @@ socorrismo
 socorrista
 soda
 sodemia
-sódico
 sodio
 sodoku
 sodomía
@@ -34920,7 +33853,6 @@ sol
 solación
 solanáceas
 Solanum
-solar
 solares
 solario
 solarización
@@ -34951,7 +33883,6 @@ sólidos
 solipsismo
 solitaria
 solubilidade
-soluble
 solubles
 solucion
 solución
@@ -34960,7 +33891,6 @@ solucións
 soluto
 solutos
 solvato
-solvente
 solventes
 solvólise
 soma
@@ -34973,7 +33903,6 @@ somatalxia
 somatestesia
 somática
 somáticas
-somático
 somático-a
 somáticos
 somaticosplácnico-a
@@ -35116,7 +34045,6 @@ Sturge-Weber
 súa
 suar
 súas
-suave
 suaves
 suavizar
 subabdominal
@@ -35149,7 +34077,6 @@ subcerebeloso-a
 subcerebral
 subclavia
 subclavicular
-subclavio
 subclavio-a
 subclínica
 subclínico-a
@@ -35167,7 +34094,6 @@ subcrural
 subcutánea
 subcutaneamente
 subcutáneas
-subcutáneo
 subcutáneo-a
 subcutáneos
 subcute
@@ -35193,7 +34119,6 @@ subesternal
 subexcitación
 subfalcial
 subfamilia
-subfebril
 subfilo
 subfrénico
 subfrénico-a
@@ -35212,15 +34137,12 @@ subintrante
 subinvolución
 súbita
 subitamente
-súbito
 sublaio
 subletal
 sublimación
 sublimado
 sublimado-a
-subliminar
 sublinguais
-sublingual
 Sublingual
 sublingüite
 sublumbar
@@ -35230,7 +34152,6 @@ submandibular
 submanía
 submarxinal
 submatidez
-submaxilar
 submaxilite
 submaxilofacial
 submembranoso-a
@@ -35244,7 +34165,6 @@ subneural
 subnormal
 subnotocordal
 subnutrición
-suboccipital
 subopérculo
 suborbitario-a
 subordinados
@@ -35272,7 +34192,6 @@ Substancias
 substitución
 Substitución
 substitúe
-substituíble
 substituíbles
 substituída
 substituído
@@ -35301,10 +34220,8 @@ subvertebral
 subviril
 subvitaminose
 subvola
-subxacente
 subxacentes
 subxectiva
-subxectivo
 subxectivo-a
 subxectivos
 Subxénero
@@ -35326,7 +34243,6 @@ sucederen
 sucesión
 sucesivamente
 sucesivas
-sucesivo
 sucesivos
 suceso
 sucesos
@@ -35352,7 +34268,6 @@ sudanofilia
 sudatorio-a
 Sudeck
 sudoqueratose
-sudoral
 sudorese
 sudorífero-a
 sudorífica
@@ -35368,7 +34283,6 @@ suficiencia
 suficiente
 sufixo
 sufocación
-sufocante
 sufocantes
 Sufocar
 sufri-la
@@ -35400,7 +34314,6 @@ sulfatiazol
 sulfátido
 sulfato
 sulfentanil
-sulfhídrico
 sulfhidrilo
 sulfhidrismo
 sulfhidrometría
@@ -35427,12 +34340,10 @@ sulf-Prefixo
 sulfur
 sulfurado-a
 sulfuraria
-sulfúrico
 sulfurilo
 sulfuro
 sulfuros
 sulfurosa
-sulfuroso
 sulfurosos
 suma
 Suma
@@ -35453,14 +34364,12 @@ superalbuminose
 superalcalinidade
 superalimentación
 supercarbonato
-superciliar
 supercilium
 superdistensión
 superego
 superfecundación
 superfetación
 superficiais
-superficial
 (superficial
 superficialmente
 superficie
@@ -35478,7 +34387,6 @@ supermicroscopio
 supermobilidade
 supernumeraria
 supernumerarias
-supernumerario
 supernumerario-a
 supernumerarios
 supernutrición
@@ -35565,7 +34473,6 @@ suprapelviano-a
 supra-Prefixo
 suprapubiano-a
 suprarrenais
-suprarrenal
 suprarrenalectomía
 suprarrenalemia
 suprarrenalina
@@ -35604,7 +34511,6 @@ supuradas
 supurado
 supuran
 supurando
-supurante
 supurativa
 supurativo
 supurativo-a
@@ -35622,7 +34528,6 @@ sursunversión
 sursunverxencia
 susceptibilidade
 Susceptibilidade
-susceptible
 susceptibles
 suscitación
 suspende
@@ -35637,7 +34542,6 @@ suspensorio-a
 sustentación
 susurrus
 sutho
-sutil
 Sutil
 sutura
 Sutura
@@ -35705,7 +34609,6 @@ tacograma
 tacómetro
 tacose
 tactación
-táctil
 táctiles
 tactismo
 tacto
@@ -35790,13 +34693,11 @@ tancia
 tando
 tangaraño
 Tangier
-tánico
 taníxeno
 tántalo
 tante
 tanto
 tantrum
-tanxencial
 tapa
 tapetum
 Tapia
@@ -35839,7 +34740,6 @@ taraxe
 tarda
 tardan
 tardía
-tardío
 tardío-a
 tarefas
 taria
@@ -35871,7 +34771,6 @@ tarsotomía
 tartamudeo
 tartamudez
 tartarato
-tartárico
 tártaro
 tase
 Tashkent
@@ -35906,7 +34805,6 @@ Tc
 Te
 té
 tea
-teatral
 tebaico-a
 tebaína
 tebaísmo
@@ -35978,7 +34876,6 @@ telefase
 teléfico-a
 telegammaterapia
 telegonía
-telegráfico
 telencéfalo
 telenxiectasia
 teleoloxía
@@ -36034,7 +34931,6 @@ tempas
 temperado-a
 temperados
 temperamento
-temperante
 temperatura
 temperatura:
 Temperatura
@@ -36073,18 +34969,15 @@ Tenaciñas
 tenáculo
 tenalxia
 ténar
-tenaz
 tenda
 tende
 tendencia
 Tendencia
 tendencias
-tendente
 tendinite
 tendinoplastia
 tendinosa
 tendinosas
-tendinoso
 tendinosos
 tendinosutura
 tendinum
@@ -36150,7 +35043,6 @@ tenosuspensión
 tenotomía
 tenótomo
 Tenótomo
-tenro
 tense
 tensioactivo-a
 tensiófono
@@ -36160,7 +35052,6 @@ tensión
 Tensión
 tensións
 tensivo-a
-tenso
 tenso-a
 tensor
 tenta
@@ -36173,7 +35064,6 @@ tento
 tentorial
 tentorium
 tentum
-tenue
 teobromina
 teofilina
 teofobia
@@ -36193,7 +35083,6 @@ terapéutica
 Terapéutica
 terapeuticamente
 terapéuticas
-terapéutico
 terapéuticos
 terapéuticos:
 terapia
@@ -36227,7 +35116,6 @@ tercípara
 terebinteno
 terebintinismo
 terebración
-terebrante
 terebraquese
 teren
 tergolateral
@@ -36238,7 +35126,6 @@ teriatría
 terioterapia
 termacoxénese
 termaeroterapia
-termal
 termalismo
 termalxesia
 termalxia
@@ -36249,7 +35136,6 @@ termestesia
 termestesiómetro
 termiatría
 térmica
-térmico
 térmico-a
 térmicos
 termina
@@ -36257,7 +35143,6 @@ terminación
 terminacións
 Terminacións
 terminais
-terminal
 terminale
 terminolateral
 terminolateralmente
@@ -36297,7 +35182,6 @@ termohiperestesia
 termohipestesia
 termoinhibidor-a
 termoionización
-termolábil
 termolámpada
 termolaringoscopio
 termólise
@@ -36343,7 +35227,6 @@ Terra
 terramicina
 terras
 terreo
-terrestre
 terrestres
 terrícola
 territoriais
@@ -36370,7 +35253,6 @@ testemuña
 testes
 testicondia
 testicondio-a
-testicular
 testiculares
 testículo
 (testículo
@@ -36389,7 +35271,6 @@ teta
 tetani
 tetania
 tetánica
-tetánico
 tetaniforme
 tetanila
 tetanismo
@@ -36436,7 +35317,6 @@ tetranopsia
 Tetranychus
 tetraoto
 tetraplexía
-tetraploide
 tetraploidía
 tetrapódise
 tetrápodo-a
@@ -36449,7 +35329,6 @@ tetrastiquíase
 Tetrastoma
 tetratómico-a
 tetravacina
-tetravalente
 tetráxeno-a
 tetrilo
 tetroftalmo
@@ -36459,7 +35338,6 @@ teutlosa
 tevetina
 texe
 textiforme
-téxtil
 téxtiles
 textoblástico-a
 textoma
@@ -36490,7 +35368,6 @@ tialdina
 tiamina
 tibia
 Tibia
-tibial
 Tibial
 tibialxia
 tibiarum
@@ -36523,7 +35400,6 @@ tifase
 tifemia
 tífica
 tíficas
-tífico
 tífico-a
 tíficos
 tiflatonía
@@ -36559,7 +35435,6 @@ tifobacilose
 tifódico-a
 tifóforo-a
 tifohemia
-tifoide
 tifóidico-a
 tifolisina
 tifomalárico-a
@@ -36617,7 +35492,6 @@ timpanal
 timpanectomía
 timpánica
 timpánicas
-timpánico
 timpánico-a
 timpanicolingual
 timpanicordio
@@ -36697,7 +35571,6 @@ típica
 Típica
 tipicamente
 típicas
-típico
 típico-a
 típicos
 tipificación
@@ -36856,7 +35729,6 @@ toilette
 tolbutamida
 tolemia
 tolerancia
-tolerante
 tolerar
 toleraren
 tolledura
@@ -36917,7 +35789,6 @@ tonoscilógrafo
 tonoscopia
 tons
 tonsila
-tonsilar
 tonsilectomía
 tonsiléctomo
 tonsilite
@@ -36956,7 +35827,6 @@ toracentese
 toraceptomía
 torácica
 torácicas
-torácico
 toracicoabdominal
 toracicoacromial
 torácicos
@@ -37004,7 +35874,6 @@ torniquete
 torno
 torón
 torpente
-tórpido
 tórpido-a
 torpor
 torrada
@@ -37163,7 +36032,6 @@ transacción
 transaminación
 transaminase
 transaudente
-transcendental
 transcetolase
 transcondíleo-a
 transcorre
@@ -37213,7 +36081,6 @@ transitivismo
 tránsito
 transitoria
 transitorias
-transitorio
 transitorio-a
 translación
 translocación
@@ -37224,7 +36091,6 @@ transmetilación
 transmigración
 transmineralización
 transmisibilidade
-transmisible
 transmisibles
 transmisión
 Transmisión
@@ -37290,7 +36156,6 @@ transversais
 transversal
 transversas
 transversectomía
-transverso
 (transverso
 transverso-a
 transversoanal
@@ -37306,7 +36171,6 @@ trapeciometacarpiano-a
 trapezoide
 Trapezoide
 traquea
-traqueal
 traquealxia
 traquectasia
 traqueíte
@@ -37407,7 +36271,6 @@ traumas
 traumaterapia
 traumática
 traumáticas
-traumático
 traumáticos
 traumatismo
 traumatismos
@@ -37448,7 +36311,6 @@ trematoloxía
 Trémaunay
 tremeloide
 tremens
-tremente
 trementina
 trementinismo
 tremofilia
@@ -37467,7 +36329,6 @@ trepanación
 Trepanación
 trépano
 trepidación
-trepidante
 treponema
 Treponema
 treponematose
@@ -37485,7 +36346,6 @@ Tríade
 triamcinolona
 triamina
 triamtereno
-triangular
 triángulo
 Triángulo
 Triatoma
@@ -37506,7 +36366,6 @@ tricalxiectasia
 tricaprina
 tricarboxílicos
 tricatrofia
-tricéfalo
 tricelular
 tríceps
 triceptor
@@ -37611,12 +36470,10 @@ tricromatopsia
 tricromía
 tricroto-a
 tricuríase
-tricúspide
 tricuspídea
 tridente
 tridérmico-a
 tridermoma
-tridimensional
 trídimo
 tridiona
 triestearina
@@ -37634,9 +36491,7 @@ Trifosfopiridín
 trifosfopiridin-nucleótido
 triftemia
 trigástrico-a
-trigo
 trigocéfalo-a
-trigonal
 trigonite
 trígono
 Trígono
@@ -37651,7 +36506,6 @@ trilátero-a
 trilene
 trilobectomía
 trilobulado-a
-trilocular
 triloxía
 trimastia
 trimastigoso-a
@@ -37699,7 +36553,6 @@ tripleto
 triplexía
 triploblástico-a
 triplocoria
-triploide
 triploidía
 triplopía
 trípode
@@ -37738,7 +36591,6 @@ trismo
 trisomía
 (trisomía
 trisómico-a
-triste
 tristearina
 Tristeza
 tristiquia
@@ -37756,9 +36608,7 @@ tritoxina
 trituración
 triturado
 triturante
-trivalente
 trivalvo-a
-trixémino
 trixémino-a
 trizonal
 trocante
@@ -37781,7 +36631,6 @@ trofese
 trófica
 tróficas
 troficidade
-trófico
 trófico-a
 tróficos
 trofismo
@@ -37886,7 +36735,6 @@ tronculares
 tropeolina
 tropese
 tropicais
-tropical
 tropidina
 tropina
 tropismo
@@ -37947,7 +36795,6 @@ tuberculose
 Tuberculose
 tuberculosilicose
 tuberculosis
-tuberculoso
 tuberculosos
 tuberculostático-a
 tuberculotoxina
@@ -37957,7 +36804,6 @@ tuberosa
 tuberosidade
 Tuberosidade
 tuberositas
-tuberoso
 tuberoso-a
 tuberosum
 tubo
@@ -37974,7 +36820,6 @@ tubotimpánico-a
 tubouterino-a
 tubovaxinal
 tubulado-a
-tubular
 tubulares
 tubulina
 túbulo
@@ -38001,14 +36846,12 @@ tumefaciente
 tumefacta
 tumefacto-a
 tumescencia
-tumescente
 túmido-a
 tumor
 (tumor
 Tumor
 tumoración
 tumorais
-tumoral
 tumores
 tumultus
 túnel
@@ -38028,7 +36871,6 @@ turba
 turbidímetro
 turbinal
 turbinectomía
-turbio
 turbio-a
 turca
 turgor
@@ -38042,7 +36884,6 @@ turnover
 Turnover
 turricefalia
 turxescencia
-turxescente
 tusícula
 tusiculación
 tusíxeno-a
@@ -38089,7 +36930,6 @@ ulceromembranosa
 ulceromembranoso-a
 ulceromutilante
 ulcerosa
-ulceroso
 ulceroso-a
 ulcerosos
 ulcoide
@@ -38106,7 +36946,6 @@ ulido
 ulite
 ulixinoso-a
 ulna
-ulnar
 ulocace
 ulocarcinoma
 ulodermatite
@@ -38124,7 +36963,6 @@ ulotripse
 última
 últimas
 ultimisternal
-último
 últimos
 ultracentrifugación
 ultracurtas
@@ -38151,10 +36989,8 @@ umbilectomía
 umbilicación
 umbilicais
 umbilical
-umbilical
 umbo
 umerais
-umeral
 úmero
 Úmero
 un
@@ -38163,7 +36999,6 @@ una
 uña
 uñas
 uncia
-unciforme
 Uncinaria
 uncinaríase
 uncinatum
@@ -38198,21 +37033,17 @@ Unha
 unhas
 uni
 uniarticulado-a
-uniaxial
 unibásico-a
 única
 unicamente
 únicas
-unicelular
 unicelulares
 unicentral
 úniceps
 uniceptor
 unicidade
-único
 único-a
 unicollis
-unicorne
 unicúspide
 unida
 unidade
@@ -38229,7 +37060,6 @@ uniformemente
 uniglandular
 unigrávida
 uni-las
-unilateral
 unilobador-a
 unilobular
 uníndose
@@ -38242,17 +37072,14 @@ Unións
 uniovular
 unípara
 uniparental
-unipolar
 unipolaridade
 uni-Prefixo
 unir
 unirían
 unirse
-unisexual
 unispérmico-a
 unitario-a
 unitivo-a
-univalente
 univalvo-a
 univalvular
 universal
@@ -38316,7 +37143,6 @@ uratoma
 uratos
 uratose
 uraturia
-urbano
 urceiforme
 urea
 ureal
@@ -38346,7 +37172,6 @@ urese
 uresiestesia
 uréter
 ureterais
-ureteral
 ureteralxia
 ureterectasia
 ureterectomía
@@ -38401,7 +37226,6 @@ ureterovesicostomía
 urético-a
 uretra
 uretrais
-uretral
 uretralxia
 uretratresia
 uretrectomía
@@ -38448,7 +37272,6 @@ uricacidemia
 uricaciduria
 uricase
 uricemia
-úrico
 úrico-a
 uricolia
 uricolise
@@ -38580,16 +37403,13 @@ urotoxicidade
 urotóxico-a
 urotropin
 urouréter
-uroxenital
 uróxeno-a
 uroxina
 urtica
 urticación
-urticante
 urticaria
 urticariformes
 urticarismo
-urxente
 usa
 usada
 usadas
@@ -38616,7 +37436,6 @@ uterectomía
 uteri
 uterina
 uterinas
-uterino
 uterino-a
 uterinos
 uterismo
@@ -38657,7 +37476,6 @@ uterovaxinal
 uterovesical
 uteroxestación
 uterus
-útil
 utilidade
 utiliza
 Utilizábase
@@ -38678,7 +37496,6 @@ utilizar
 utilízase
 Utilízase
 utilizou
-utricular
 utriculite
 utrículo
 utriculosacular
@@ -38697,7 +37514,6 @@ uviorresistente
 uviosensible
 uvoloptose
 úvula
-uvular
 uvulectomía
 uvuliforme
 uvulite
@@ -38727,7 +37543,6 @@ vacinoprofilaxe
 vacinostilo
 vacinoterapia
 vacinóxeno-a
-vacún
 vacuoextractor
 Vacuoextractor
 vacuolar
@@ -38770,7 +37585,6 @@ valencia
 valeriana
 valerianáceas
 valetudinario-a
-valgo
 valgo-a
 valgoide
 valguismo
@@ -38791,7 +37605,6 @@ valviforme
 valvotomía
 válvula
 Válvula
-valvular
 valvular
 valvulares
 válvulas
@@ -38826,7 +37639,6 @@ Variación
 variacións
 variada
 variadas
-variado
 varían
 variando
 variante
@@ -38850,7 +37662,6 @@ varicorraxias
 varicosas
 varicosclerosación
 varicosidade
-varicoso
 varicotomía
 varícula
 variedade
@@ -38873,7 +37684,6 @@ Varios
 variotina
 varismo
 variz
-varo
 varo-a
 Varolio
 varrido
@@ -38883,12 +37693,10 @@ vasa
 vasal
 vasalxia
 vasca
-vascular
 vasculares
 vascularidade
 vascularización
 vascularizadas
-vascularizado
 vascularizados
 vasculífero-a
 vasculite
@@ -38926,7 +37734,6 @@ vasoinhibidor-a
 vasoira
 vasoligadura
 vasomotilidade
-vasomotor
 vasomotora
 vasomotor-a
 vasomotores
@@ -38952,14 +37759,12 @@ vasotrófico-a
 vasovagal
 vasovasostomía
 vasovesiculectomía
-vasto
 vasto-a
 vastos
 Vater
 vaxina
 vaxinado-a
 vaxinais
-vaxinal
 vaxinalectomía
 vaxinalite
 vaxinas
@@ -39006,17 +37811,14 @@ vecordia
 vector
 Vector
 vectorcardiograma
-vectorial
 vecu
 vedoiro-a
-vehemente
 vehículo
 Vehículo
 vehículos
 Veillonella
 velamen
 velamentoso-a
-velar
 velenífero-a
 velenífico-a
 veleno
@@ -39024,7 +37826,6 @@ velenos
 velenosa
 velenosalivar
 velenosas
-velenoso
 velenoso-a
 veliforme
 vellas
@@ -39054,7 +37855,6 @@ venenosum
 venepunción
 venérea
 venéreas
-venéreo
 venéreo-a
 venereofobia
 venereoloxía
@@ -39074,7 +37874,6 @@ venosa
 venosas
 venosclerose
 venosidade
-venoso
 venosos
 venostase
 venovenostomía
@@ -39088,11 +37887,9 @@ vento
 ventosa
 ventosas
 ventosidade
-ventral
 ventralmente
 ventre
 ventricosus
-ventricular
 ventriculares
 ventriculite
 ventrículo
@@ -39126,7 +37923,6 @@ Venus
 veo
 ver
 vera
-verbal
 verbixeración
 verbomanía
 verborrea
@@ -39152,11 +37948,9 @@ vermellos
 vermes
 vermiano-a
 vermicida
-vermicular
 vermicularis
 vermiculoso-a
 vermifobia
-vermiforme
 vermífugo
 vermífugo-a
 verminación
@@ -39191,7 +37985,6 @@ Vértebra
 vertebrado-a
 vertebrados
 vertebrais
-vertebral
 vertebral:
 vertebralite
 vértebras
@@ -39228,7 +38021,6 @@ vesgo-a
 vesica
 vesicación
 vesicais
-vesical
 vesicante
 vesicantes
 vesicatorio-a
@@ -39255,7 +38047,6 @@ vesicovaxinorrectal
 vesícula
 Vesícula
 vesiculación
-vesicular
 vesiculares
 vesículas
 Vesículas
@@ -39271,13 +38062,11 @@ vesiculopapuloso-a
 vesiculopustuloso-a
 vesiculosa
 vesiculosas
-vesiculoso
 vesiculoso-a
 vesiculotimpánico-a
 vesiculotomía
 vesiculotubárico-a
 Vesiculovirus
-vestibular
 vestibulares
 vestíbulo
 vestibulococlear
@@ -39291,7 +38080,6 @@ veta
 vetas
 veterinaria
 veterinario-a
-vetusto
 vexetación
 vexetacións
 vexetais
@@ -39304,7 +38092,6 @@ vexetariano
 vexetariano-a
 vexetativa
 vexetativas
-vexetativo
 vexetativo-a
 vexetativos
 vexetoanimal
@@ -39316,7 +38103,6 @@ vez
 vía
 Vía
 viabilidade
-viable
 vial
 vías
 viaxar
@@ -39326,13 +38112,10 @@ vibración
 Vibración
 vibracións
 vibrador
-vibrante
-vibrátil
 vibrátiles
 vibrátodo
 vibratoria
 vibratorias
-vibratorio
 vibratorio-a
 Vibrio
 vibrión
@@ -39344,7 +38127,6 @@ vibromasaxe
 vibrómetro
 vibrosensibilidade
 vibroterapia
-vicariante
 Vicia
 viciación
 viciado-a
@@ -39380,7 +38162,6 @@ Vincent
 vincha
 vincristina
 vinculado
-vincular
 viñesen
 vinilo
 vinilpirrolidona
@@ -39391,7 +38172,6 @@ vioformo
 viola
 violácea
 violáceas
-violáceo
 violación
 violada
 violado-a
@@ -39421,7 +38201,6 @@ vírico-a
 víricos
 viridans
 viridina
-viril
 virilescencia
 virilia
 virilidade
@@ -39438,7 +38217,6 @@ viroloxía
 viropexe
 virose
 viroso-a
-virtual
 virucida
 virulencia
 virulentos
@@ -39450,10 +38228,8 @@ VIRUS
 virusemia
 virxe
 virxes
-virxinal
 víscera
 viscerais
-visceral
 visceral
 visceralismo
 visceralxia
@@ -39474,7 +38250,6 @@ viscoso-a
 viscus
 visibilidade
 visibilizar
-visible
 visibles
 visión
 Visión
@@ -39493,7 +38268,6 @@ vita
 vitae
 vitais
 vitais:
-vital
 vitalidade
 Vitalidade
 vitalio
@@ -39503,7 +38277,6 @@ vitamina
 (vitamina
 Vitamina
 vitaminas
-vitamínico
 vitaminoide
 vitaminoloxía
 vitaminorresistente
@@ -39524,7 +38297,6 @@ vitilixinoso-a
 vitium
 vitodinámica
 vítrea
-vítreo
 vítreo-a
 vitreocapsulite
 vitreum
@@ -39565,7 +38337,6 @@ Voigt
 vola
 volante
 volar
-volátil
 volátiles
 volatilidade
 volatilización
@@ -39641,10 +38412,7 @@ VST
 VT
 vulcanita
 vulcanización
-vulgar
 vulnerabilidade
-vulnerable
-vulnerante
 vulnerario-a
 vulnus
 vulsela
@@ -39652,7 +38420,6 @@ vulto
 vultuoso-a
 vulva
 Vulva
-vulvar
 vulvares
 vulvectomía
 vulvismo
@@ -39832,11 +38599,9 @@ xelatina
 xelatinado-a
 xelatinase
 xelatinífero-a
-xelatiniforme
 xelatinolítico
 xelatinosa
 xelatinosas
-xelatinoso
 xelatinoso-a
 xelatinosos
 xelatosa
@@ -39896,7 +38661,6 @@ xenesistase
 xenética
 xeneticamente
 xenéticas
-xenético
 xenético-a
 xenetista
 xenexenesia
@@ -39906,7 +38670,6 @@ xeniano-a
 xeniantralxia
 xeniantrite
 xeniantro
-xeniculado
 xeniculado-a
 xenículo
 xenihioide
@@ -39929,7 +38692,6 @@ xenitocrural
 xenitor-a
 xenitospinal
 xenitourinaria
-xenitourinario
 xenitourinario-a
 xenitura
 xeno
@@ -39956,7 +38718,6 @@ xeno-Prefixo
 Xenopsylla
 xenoqueiloplastia
 xenotípica
-xenotípico
 xenotipo
 xenotipos
 xenoxenia
@@ -39999,7 +38760,6 @@ Xeración
 xeracións
 xerador-a
 xerais
-xeral
 xeralmente
 Xeralmente
 xeran
@@ -40023,10 +38783,8 @@ xermicultivo
 xermífugo-a
 xerminación
 xerminais
-xerminal
 xerminativa
 xerminativas
-xerminativo
 xerminativo-a
 xerminoblasto
 xerminocito
@@ -40076,7 +38834,6 @@ xeso
 xestación
 xestacións
 xestaltismo
-xestante
 xestatorio-a
 xestáxeno
 xesticulación
@@ -40172,7 +38929,6 @@ xirado
 xira-lo
 xiran
 xirar
-xiratorio
 xirencéfalo-a
 xiringa
 xiringar
@@ -40202,7 +38958,6 @@ xordomudez
 Xordomudez
 xordomudo-a
 xs
-xudicial
 xugal
 xugomaxilar
 xugulación
@@ -40223,7 +38978,6 @@ xustamural
 xustaposición
 xustaspinal
 xustiza
-xuvenil
 xuvenís
 xuventude
 Y
@@ -40234,7 +38988,6 @@ Yersinia
 Young
 Young-Helmholtz
 zada
-zambro
 zambro-a
 zampallón-ona
 zando
@@ -40272,7 +39025,6 @@ zirconium
 zoacantose
 zoamilina
 zoandria
-zoante
 zoantropía
 zoar
 zoescopio
@@ -40283,7 +39035,6 @@ Zollinger
 Zollinger-Ellison
 zomoterapia
 zona
-zonal
 zonas
 zonestesia
 zonífugo-a
@@ -40460,7 +39211,6 @@ accesible
 acceso
 accesoria
 accesorias
-accesorio
 accesorio-a
 accesos
 Accesos
@@ -40497,7 +39247,6 @@ aceites
 acelera
 aceleración
 acelerada
-acelerador
 aceleradoras
 acelerándoas
 acelerina
@@ -40856,7 +39605,6 @@ activas
 actividade
 Actividade
 actividades
-activo
 activos
 acto
 Acto
@@ -40895,7 +39643,6 @@ Acumulación
 acumulacións
 acumuladas
 acumulado
-acumulador
 acumulados
 acumulan
 acumular
@@ -41092,7 +39839,6 @@ adheridas
 adhesión
 adhesiotomía
 adhesiva
-adhesivo
 adhesivo-a
 adheso-a
 adhire
@@ -41150,7 +39896,6 @@ adipoxemia
 adipoxénico-a
 adipsia
 adisonismo
-aditivo
 aditivo-a
 aditus
 adiuretina
@@ -41281,7 +40026,6 @@ adx
 adxacencia
 adxacente
 adxacentes
-adxectivo
 adxuvante
 adxuvar
 Aedes
@@ -41598,7 +40342,6 @@ agravado-a
 agravamento
 agravando
 agravar
-agraz
 agrazo
 agre
 agregabilidade
@@ -42070,7 +40813,6 @@ alternativa
 alterno
 Althaea
 altitudes
-alto
 altura
 alturas
 alucinación
@@ -42114,7 +40856,6 @@ amarelado
 amarela-laranxa
 amarelamento
 amarelas
-amarelo
 amarelo-verdosa
 amarga
 amargas
@@ -42128,7 +40869,6 @@ amaurose
 ambas
 ambientais
 ambiental
-ambiente
 ambientes
 ambiguo
 ambivalencia
@@ -42138,7 +40878,6 @@ ambofaciens
 ambos
 ambulancia
 Ambulante
-ambulatorio
 ambulatorio-a
 AME
 ameazan
@@ -42228,7 +40967,6 @@ amolece-los
 amolecemento
 amolecentes
 amoniacal
-amoníaco
 amónico
 amónico-magnésico
 amonio
@@ -42313,7 +41051,6 @@ análogos
 analoxías
 analxesia
 analxésica
-analxésico
 analxésico-a
 analxésicos
 analxesina
@@ -42413,7 +41150,6 @@ aneurismorrafia
 anexas
 anexectomía
 anexite
-anexo
 anexos
 anexos:
 anfetamina
@@ -42458,7 +41194,6 @@ anilismo
 ánima
 animación
 animais
-animal
 Animal
 animalidade
 animismo
@@ -42716,7 +41451,6 @@ anteversión
 Anthemis
 Anthracis
 antiabortivo-a
-antiácido
 antiácido-a
 antiadrenérxico-a
 antiadrenéxico
@@ -42747,7 +41481,6 @@ antibacteriolítico-a
 antibéquico-a
 antibiograma
 antibiose
-antibiótico
 antibiótico-a
 antibioticograma
 antibióticos
@@ -42780,10 +41513,8 @@ anticipante
 anticitase
 anticitolisina
 anticitotoxina
-anticlinal
 anticlorótico-a
 anticnemio
-anticoagulante
 anticoagulantes
 anticoagulina
 anticodon
@@ -42799,7 +41530,6 @@ anticolinérxicos
 anticolinesterase
 anticomplemento
 anticoncepcional
-anticonceptivo
 anticonceptivo-a
 anticontaxioso-a
 anticonvulsionante
@@ -42844,7 +41574,6 @@ antiescorbútico-a
 antiescrofuloso-a
 antiespasmódica
 antiespasmódicas
-antiespasmódico
 antiespasmódico-a
 antiespástico-a
 antiestafilocócico-a
@@ -42885,7 +41614,6 @@ antihemofílico
 antihemolisina
 antihemolítico-a
 antihemorráxico-a
-antihemorroidal
 antiheparínico
 antihialuronidase
 Antihidrótico
@@ -42955,7 +41683,6 @@ antinefrítico-a
 antineoplásico
 antineoplásico-a
 antineoplaston
-antineurálxico
 antineurálxico-a
 antineurítico
 antineurítico-a
@@ -43043,7 +41770,6 @@ antisensibilizador
 antisepsia
 antiséptica
 antisépticas
-antiséptico
 Antiséptico
 antiséptico-a
 antisépticos
@@ -43224,7 +41950,6 @@ anucleado
 anucleado-a
 anuclear
 anulación
-anular
 anulares
 anuloplastia
 anulorrafia
@@ -44176,7 +42901,6 @@ atetoide
 atetose
 atiaminose
 aticite
-ático
 aticoantrotomía
 aticotomía
 atimia
@@ -44360,7 +43084,6 @@ auréola
 aureomicina
 aureus
 aurícula
-auricular
 auriculograma
 auriculopalpebral
 auriculotemporal
@@ -44653,7 +43376,6 @@ AZT
 azucre
 azucres
 azuis
-azul
 azulada
 azulina
 azur
@@ -44703,7 +43425,6 @@ bacteriano-a
 bacterianos
 bacterias
 Bacterias
-bactericida
 Bactericida
 bactericidas
 bactericidina
@@ -44799,12 +43520,10 @@ balbucir
 baldado-a
 baldar
 baldeirado
-baldeiro
 balea
 baleirado
 baleira-las
 baléiranse
-baleiro
 baleiros
 Balin
 Balint
@@ -44858,7 +43577,6 @@ barbadela
 barbeiros
 barbela
 barbital
-barbitúrico
 barbitúricos
 Barbitúricos
 barbiturismo
@@ -45155,7 +43873,6 @@ bico
 bicóncavo-a
 biconvexas
 biconvexo-a
-bicorne
 bicórneo
 bicúspide
 bid
@@ -45352,7 +44069,6 @@ bíparo-a
 bipartición
 bipartido-a
 bipartir
-bípede
 bipedestación
 bipennado
 bipennado-a
@@ -45757,7 +44473,6 @@ Brener
 Brenner
 Breschet
 bretilio
-breve
 brevemente
 breves
 brevicollis
@@ -45765,7 +44480,6 @@ brevilíneo
 brevilíneo-a
 bricomanía
 brida
-brillante
 brillo
 briocito
 Brodie
@@ -45909,7 +44623,6 @@ bucalis
 buccula
 bucelación
 Buchner
-bucinador
 bucinoso
 Buckley
 bucnemia
@@ -46202,7 +44915,6 @@ calleiro
 callo
 callón
 calma-la
-calmante
 calmetización
 Calmette
 calo
@@ -46328,7 +45040,6 @@ canela
 canibalismo
 canicie
 canina
-canino
 canino-a
 caninos
 canis
@@ -46372,7 +45083,6 @@ capas
 capas:
 capaz
 capelina
-capilar
 capilarectasia
 capilares
 capilaridade
@@ -46702,7 +45412,6 @@ cariozoico-a
 cariozoo-a
 carmín
 carminativas
-carminativo
 carminativo-a
 carminófilo-a
 carne
@@ -46867,7 +45576,6 @@ catástato
 catatase
 catatimia
 catatonía
-catatónico
 catatónico-a
 catatónicos
 catatricrotismo
@@ -47396,7 +46104,6 @@ chamados
 chámanse
 chamar
 chámase
-chan
 Chan
 chancrela
 chancriforme
@@ -47488,7 +46195,6 @@ cicatrización
 cicatrizais
 cicatrizal
 cicatrizan
-cicatrizante
 cicerismo
 cicl-
 ciclamato
@@ -48121,7 +46827,6 @@ clarificación
 clarificador
 clarividencia
 Clark
-claro
 clase
 clases
 clásica
@@ -48478,7 +47183,6 @@ coito
 coitofobia
 col
 cola
-colagogo
 colagoxia
 colaluria
 colalxia
@@ -48560,7 +47264,6 @@ colecrínico-a
 colecromerese
 colecromo
 colecromopoese
-colectivo
 colectomía
 coledocectomía
 coledociano-a
@@ -48636,7 +47339,6 @@ colexénico-a
 colgallo
 colgallos
 colgando
-colgante
 colgantes
 coli
 Coli
@@ -48647,7 +47349,6 @@ colibacilose
 colibaciluria
 cólica
 cólicas
-cólico
 Cólico
 cólico-a
 colicodinia
@@ -48701,7 +47402,6 @@ coloenterite
 colohepatopexia
 coloidais
 coloidal
-coloide
 coloides
 coloidoclase
 coloidoclasia
@@ -48734,7 +47434,6 @@ colopuntura
 coloración
 Coloración
 coloracións
-colorante
 Colorante
 colorantes
 coloreada
@@ -48836,7 +47535,6 @@ comedón
 comedóns
 comensalismo
 comer
-comestible
 comestibles
 cometida
 comeza
@@ -48892,7 +47590,6 @@ completo
 complexa
 complexas
 complexión
-complexo
 complexo-a
 complexos
 compliancia
@@ -48914,7 +47611,6 @@ composición
 composta
 Composta
 compostas
-composto
 Composto
 composto-a
 compostor
@@ -48950,7 +47646,6 @@ compulsión
 compulsiva
 compulsivos
 computada
-común
 comunica
 comunicación
 Comunicación
@@ -49015,7 +47710,6 @@ concuasantes
 concusión
 condensación
 condensado
-condensador
 condensante
 Condición
 condiciona
@@ -49198,7 +47892,6 @@ consciente
 conscientes
 consecuencia
 consecuencias
-consecuente
 consecutiva
 consecutiva/
 consecutivo
@@ -49217,7 +47910,6 @@ conservación
 conservados
 conservando
 conservándose
-conservante
 conservar
 considera
 considerada
@@ -49324,7 +48016,6 @@ conteñan
 contención
 contendo
 conteñen
-contento
 conter
 contexto
 contida
@@ -49335,7 +48026,6 @@ contidos
 contiguas
 contigüidade
 continencia
-continente
 continua
 continúa
 continuación
@@ -49490,7 +48180,6 @@ conxuntivo-a
 conxuntivoma
 conxuntivo-muscular
 conxuntivoplastia
-conxunto
 Conxunto
 conxuro
 Coombs
@@ -49559,7 +48248,6 @@ cordais
 cordal
 cordas
 cordectomía
-cordial
 cordiforme
 cordite
 Cordite
@@ -49674,7 +48362,6 @@ corpo
 Corpo
 corporais
 corporal
-corporal
 corpórea
 corporis
 corpos
@@ -49775,7 +48462,6 @@ costa
 costado
 costados
 costais
-costal
 costalxia
 costas
 costecervical
@@ -49943,7 +48629,6 @@ creatorrea
 creatotoxismo
 crece
 crecemento
-crecente
 crecentes
 crecer
 crema
@@ -49951,7 +48636,6 @@ cremación
 cremáster
 cremastérica
 crematofobia
-crematorio
 cremento
 cremnofobia
 cremómetro
@@ -50082,7 +48766,6 @@ cristais
 cristal
 cristalbumina
 cristalina
-cristalino
 cristalino-a
 cristalinos
 cristalite
@@ -50091,7 +48774,6 @@ cristalización
 cristalizado
 cristalizar
 cristalofobia
-cristaloide
 cristaloides
 cristaloidite
 cristalosa
@@ -50310,7 +48992,6 @@ cuadriceptor
 cuadricúspide
 cuadridíxito
 cuadrilátera
-cuadrilátero
 cuadrilátero-a
 cuadrillizo-a
 cuadrilocular
@@ -50353,7 +49034,6 @@ cubitocarpiano-a
 cubitofalanxiano-a
 cubitopalmar
 cubitorradial
-cuboide
 Cuboide
 cuboides
 cubomanía
@@ -50685,7 +49365,6 @@ decigramo
 decilitro
 decima
 décima
-decimal
 décimas
 decímetro
 décimo
@@ -50840,7 +49519,6 @@ delomórfico-a
 delomorfo-a
 delta
 deltacismo
-deltoide
 Deltoide
 deltoides
 deltoidite
@@ -50888,7 +49566,6 @@ denominacións
 denominada
 denominadas
 denominado
-denominador
 denominados
 denominándose
 denomínanse
@@ -51050,7 +49727,6 @@ Deriva
 derivación
 derivada
 derivadas
-derivado
 derivado-a
 derivados
 derivados:
@@ -51461,7 +50137,6 @@ desigualdade
 desimbibición
 desimpacción
 desinfección
-desinfectante
 desinfectantes
 desinfectar
 desinfestación
@@ -51675,7 +50350,6 @@ detecta-la
 detecta-los
 detectar
 detectarse
-detector
 dete-las
 dete-lo
 detención
@@ -51866,7 +50540,6 @@ diagnosticada
 diagnostica-la
 diagnósticas
 Diagnostícase
-diagnóstico
 Diagnóstico
 diagnósticos
 diágrafo
@@ -52079,7 +50752,6 @@ diferenciables
 diferenciación
 diferenciadas
 diferenciado
-diferencial
 diferencia-las
 diferencia-lo
 diferencian
@@ -52485,7 +51157,6 @@ disoltos
 disolución
 disolucións
 disolve-lo
-disolvente
 disolventes
 disolver
 disólvese
@@ -52535,7 +51206,6 @@ dispoñen
 disponotocia
 disposición
 Disposición
-dispositivo
 Dispositivo
 disposta
 dispostas
@@ -52737,7 +51407,6 @@ dóbrase
 dobre
 dobres
 DOCA
-doce
 doces
 docimasia
 docimasioloxía
@@ -52952,7 +51621,6 @@ dureza
 durite
 durmancia
 durmideira
-duro
 duro-a
 duroaracnite
 duros
@@ -53145,7 +51813,6 @@ educar
 educto
 edulcoración
 edulcorada
-edulcorante
 Edwarsiella
 EEG
 efébico-a
@@ -53235,7 +51902,6 @@ elas
 elástica
 elásticas
 elasticidade
-elástico
 elástico-a
 elásticos
 elastina
@@ -54227,7 +52893,6 @@ Equivalente
 equivalente-gramo
 equivalentes
 equivocadamente
-equívoco
 Er
 era
 Erb-Charcot
@@ -54653,7 +53318,6 @@ esfenoescamuda
 esfenoetmoidal
 esfenofrontal
 esfenoidal
-esfenoide
 Esfenoide
 esfenoides
 esfenoidite
@@ -55351,7 +54015,6 @@ esterno
 Esterno
 esternoclavicular
 esternocleidohioide
-esternocleidomastoideo
 Esternocleidomastoideo
 esternocostal
 esternodimia
@@ -55414,7 +54077,6 @@ estimula-la
 estimula-lo
 estimula-los
 estimulan
-estimulante
 estimulantes
 estimulantes:
 estimulará
@@ -55487,7 +54149,6 @@ estreitan
 estreitas
 estreiteza
 estreitezas
-estreito
 estreito-a
 estreitura
 estrela
@@ -55564,7 +54225,6 @@ estudio
 Estudio
 estudios
 estufa
-estupefaciente
 estupefacientes
 estupidez
 estupor
@@ -55788,10 +54448,8 @@ excitación
 Excitación
 excitada
 excitado
-excitador
 excitados
 excitan
-excitante
 excitoconducción
 Excitomotor
 exclúe
@@ -55899,7 +54557,6 @@ Expansión
 expansivo
 expansor
 expectoración
-expectorante
 expelen
 expelido
 expensas
@@ -55988,7 +54645,6 @@ extensores
 extenuación
 extenuado-a
 extenuante
-exterior
 exteriores
 exteriorización
 exteriormente
@@ -56084,7 +54740,6 @@ extremas
 extremidade
 Extremidade
 extremidades
-extremo
 extremo:
 Extremo
 extremos
@@ -56204,7 +54859,6 @@ faleceu
 falectomía
 fálico-
 falla
-fallo
 fallos
 Fallot
 falo
@@ -56226,7 +54880,6 @@ falx
 fame
 familia
 Familia
-familiar
 familiar
 familiares
 familias
@@ -56367,7 +55020,6 @@ febricida
 febricitante
 Febrícula
 febrifacente
-febrífugo
 febrífugo-a
 febril
 febrís
@@ -56715,7 +55367,6 @@ finos
 fins
 fío
 fíos
-firme
 firmes
 fisaliforme
 física
@@ -56793,7 +55444,6 @@ fixa
 fixación
 Fixación
 fixado
-fixador
 fixa-los
 fixan
 fixar
@@ -56875,7 +55525,6 @@ flexionar
 flexiónase
 flexión-extensión
 Flexner
-flexor
 flexor-a
 flexores
 flexura
@@ -56897,7 +55546,6 @@ fludrocortisona
 fluente
 flufenacina
 fluída
-fluído
 fluídos
 fluocinolona
 fluocinonida
@@ -56959,7 +55607,6 @@ fomite
 fomites
 fonación
 fonastenia
-fondo
 fondos
 fonendoscopio
 foniatría
@@ -57239,7 +55886,6 @@ frigorismo
 frigoterapia
 frinoderma
 Frinoderma
-frío
 fríos
 fritado
 frite
@@ -57249,7 +55895,6 @@ froito
 froitos
 Frölich
 frontais
-frontal
 Frontal
 fronte
 frontoetmoidal
@@ -57279,7 +55924,6 @@ fugaz
 Fugaz
 fulguración
 Fuller-Albright
-fulminante
 fumadores
 fumar
 fumarase
@@ -57332,7 +55976,6 @@ funiculocentese
 funiculoepididimite
 funiculopexia
 fúnxica
-funxicida
 funxiforme
 funxistáticas
 funxistático-a
@@ -57379,7 +56022,6 @@ galactocimase
 galactocinase
 galactófago-a
 galactoforite
-galactóforo
 galactóforo-a
 galactogogo
 galactogogo-a
@@ -57397,7 +56039,6 @@ galactósido
 galactósidos
 galactostase
 galactosuria
-galactóxeno
 galactóxeno-a
 galact-Prefixo
 galacturia
@@ -57824,7 +56465,6 @@ glutatión
 glute
 glútea
 glutear
-glúteo
 Glúteo
 glúteo-a
 gluteofemoral
@@ -57952,7 +56592,6 @@ grampositivos
 gran
 Gran
 Grancher
-grande
 Grande
 grandes
 granescescens
@@ -58021,7 +56660,6 @@ grifa
 Griffith
 gripe
 gripose
-gris
 griseofulvina
 grises
 griseus
@@ -58116,7 +56754,6 @@ hallux
 halmatoxénese
 halo
 halófilo-a
-haloide
 halomegalia
 halómetro
 haloperidol
@@ -58191,7 +56828,6 @@ Heineke-Mikuliecz
 helcópodo-a
 hélice
 helicoidal
-helicoide
 helicópodo-a
 hélico-Prefixo
 helicoproteína
@@ -58606,7 +57242,6 @@ hereditaria
 hereditarias
 hereditario
 hereditarios
-hermafrodita
 hermafroditas
 hermafroditismo
 Hermafroditismo
@@ -58765,7 +57400,6 @@ hibernación
 hibernoma
 hibernoterapia
 hibridación
-híbrido
 híbrido-a
 híbridos
 hidantoína
@@ -58988,7 +57622,6 @@ himen-Prefixo
 hioepiglótico-a
 hiofarínxeo-a
 hiogloso-a
-hioide
 Hioide
 hiosciamina
 hioscina
@@ -59298,7 +57931,6 @@ hipnose
 hipnosedante
 hipnoterapia
 hipnóticas
-hipnótico
 hipnótico-a
 hipnóticos
 hipnotismo
@@ -59411,7 +58043,6 @@ hipoglicoxenólise
 hipoglobulia
 hipoglose
 hipoglosite
-hipogloso
 hipognato-a
 hipogonadismo
 hipogranulocitose
@@ -59710,7 +58341,6 @@ homomorfismo
 homomorfo-a
 homónima
 homónimas
-homónimo
 homónimo-a
 homoplastia
 homo-Prefixo
@@ -59725,7 +58355,6 @@ homotransplante
 homotropismo
 homoxénea
 homoxeneidade
-homoxeneizador
 homoxéneo-a
 homoxénese
 homoxentísico
@@ -59769,7 +58398,6 @@ humanas
 humano
 humanoide
 humanos
-humectante
 húmida
 humidade
 húmidas
@@ -59823,7 +58451,6 @@ idea
 Idea
 ideación
 ideada
-ideal
 idealización
 ideas
 idénticos
@@ -59979,7 +58606,6 @@ imperfectos
 imperforación
 Imperforación
 imperforado
-impermeable
 impetixe
 Impetixe
 impetixinización
@@ -60002,7 +58628,6 @@ Importante
 importantes
 imposibilidade
 Imposibilidade
-imposible
 impotencia
 imprecisamente
 imprecisos
@@ -60012,7 +58637,6 @@ imprescindible
 impresión
 impresionado
 impresións
-imprevisto
 impropios
 impúbere
 impulsa
@@ -60138,7 +58762,6 @@ indicanhidrose
 indicanuria
 indicar
 indícase
-indicativo
 índice
 Índice
 indicio
@@ -60197,7 +58820,6 @@ induracións
 indurado-a
 industria
 industriais
-industrial
 industrialmente
 inercia
 inerte
@@ -60366,7 +58988,6 @@ inhalatorio
 inherente
 inhibe
 inhibición
-inhibidor
 inhibidora
 inhibi-la
 inhibina
@@ -60461,7 +59082,6 @@ inóculo
 inocuo
 inocuo-a
 inodora
-inodoro
 inodoro-a
 inohimenite
 inoleiomioma
@@ -60496,7 +59116,6 @@ insalubres
 insán
 inscrición
 inscrita
-insecticida
 insectífugo-a
 insecto
 insectos
@@ -60543,14 +59162,12 @@ Institución
 instrucción
 instruccións
 instrumentación
-instrumental
 instrumentista
 instrumento
 Instrumento
 instrumentos
 insuficiencia
 Insuficiencia
-insuficiente
 insuflación
 insuflada
 insuflar
@@ -60626,7 +59243,6 @@ intercondíleo-a
 intercondral
 intercorrente
 intercostais
-intercostal
 intercostoumeral
 intercrural
 intercutaneomucoso-a
@@ -60663,7 +59279,6 @@ interhemisféricas
 interhemisférico-a
 interhemisféricos
 interictal
-interior
 interisquiático-a
 interlabial
 interlaminar
@@ -60685,7 +59300,6 @@ intermediaria
 intermediario
 intermediario-a
 intermedias
-intermedio
 intermedio:
 intermedio-a
 intermedios
@@ -60696,7 +59310,6 @@ intermenstrual
 intermetacarpiano-a
 intermetamérico-a
 intermetatarsiano-
-intermitente
 intermuscular
 interna
 interna
@@ -61136,7 +59749,6 @@ isoleucocitose
 isomerase
 isomería
 isoméricas
-isómero
 isométrico-a
 isometropía
 isomorfo-a
@@ -61505,7 +60117,6 @@ larva
 larvado-a
 larvaria
 larvas
-larvicida
 las
 Laségue
 Lasègue
@@ -61548,7 +60159,6 @@ lavado
 lavados
 lavativa
 Laveran
-laxante
 laxantes
 laxe
 lazareto
@@ -61786,7 +60396,6 @@ levarterenol
 lévase
 leve
 levedeforme
-lévedo
 lévedos
 Levental
 leves
@@ -62074,7 +60683,6 @@ lipofuscina
 lipofuscinose
 lipogranuloma
 lipogranulomatose
-lipoide
 lipoidemia
 lipoides
 lipoidose
@@ -62120,7 +60728,6 @@ liqueoide
 liques
 líquida
 líquidas
-líquido
 Líquido
 líquido-a
 líquidos
@@ -62245,7 +60852,6 @@ lobulite
 lóbulo
 lóbulos
 locais
-local
 localiza
 localización
 Localización
@@ -62255,7 +60861,6 @@ localizadas
 localizado
 Localizado
 localizado-a
-localizador
 localizados
 localizan
 localízanse
@@ -62440,7 +61045,6 @@ Macaca
 maceración
 macerado-a
 macfadieni
-macho
 Mackenrodt
 macrobiótico-a
 macroblasto
@@ -62568,8 +61172,6 @@ mahometana
 maicina
 maila
 mailo
-maimiño
-maior
 maiores
 maioría
 maioritariamente
@@ -62737,7 +61339,6 @@ mantido
 mantidos
 manto
 Mantoux
-manual
 manualmente
 manubrio
 MAO
@@ -62868,7 +61469,6 @@ matar
 mate
 materia
 materiais
-material
 Material
 materias
 materna
@@ -62891,7 +61491,6 @@ matrona
 matutina
 matutino
 Mauz
-maxilar
 Maxilar
 maxilares
 maxilodental
@@ -62906,7 +61505,6 @@ maxilosclerótico-a
 maxilotomía
 maxiloxugal
 máxima
-máximo
 máximo-a
 maxistrais
 maxistral
@@ -63470,7 +62068,6 @@ metais
 metal
 metálica
 metálicas
-metálico
 metálicos
 metalización
 metalofobia
@@ -63957,7 +62554,6 @@ minal
 Minamata
 mineiros
 minerais
-mineral
 mineralcorticoide
 mineralización
 mineralocorticoide
@@ -63965,14 +62561,12 @@ mineralocorticoides
 minero-medicinais
 minerva
 mínima
-mínimo
 mínimo-a
 minio
 miñoca
 minociclina
 minor
 minoración
-minorativo
 minoxidilo
 minus
 minusválido-a
@@ -64200,7 +62794,6 @@ mnémico-a
 mnemotecnia
 Mo
 moa
-móbil
 móbiles
 mobilidade
 Mobilidade
@@ -64215,7 +62808,6 @@ modelo
 moderación
 moderada
 moderadas
-moderado
 moderador-a
 moderadores
 modifica
@@ -64250,7 +62842,6 @@ mol
 mola
 Mola
 molalidade
-molar
 Molar
 molares
 molaridade
@@ -64638,7 +63229,6 @@ multiplicación
 multiplicado
 multiplicarse
 multiplícase
-múltiplo
 multipolar
 multi-Prefixo
 multirradicular
@@ -64647,7 +63237,6 @@ Münchhausen
 mundial
 mundo
 Munk
-mural
 murámico
 murexina
 murino
@@ -64732,9 +63321,7 @@ nacementos
 nacen
 nacer
 N-acetilmurámico
-nacido
 Nacido
-nacional
 NAD
 (NAD
 nada
@@ -64802,7 +63389,6 @@ narcosuxestión
 narcoterapia
 narcótica
 narcóticas
-narcótico
 narcótico-a
 narcóticos
 narcotina
@@ -64859,7 +63445,6 @@ natropenia
 natrurese
 natura
 naturais
-natural
 naturalismo
 naturalista
 natureza
@@ -65615,7 +64200,6 @@ noctambulismo
 noctifobia
 noctimelalxia
 nocturna
-nocturno
 nodal
 nodo
 nodosa
@@ -65782,7 +64366,6 @@ Np
 NPH
 NSD
 Nt
-nu
 nubécula
 nucleada
 nucleadas
@@ -65864,7 +64447,6 @@ nutrición
 nutricionais
 nutricional
 nutricios
-nutriente
 nutrientes
 nutrilo
 nutrimento
@@ -65892,7 +64474,6 @@ Obesidade
 obesidade-hipoventilación
 obeso-a
 óbito
-obituario
 oblea
 oblicua
 oblicuidade
@@ -65963,14 +64544,12 @@ obtido
 obtidos
 obtundente
 obturación
-obturador
 obturador-a
 obturadores
 obturar
 obtusión
 obtuso-a
 obxectiva
-obxectivo
 Obxectivo
 obxectivo-a
 obxectivos
@@ -65999,7 +64578,6 @@ Occidental
 occipicio
 occipicio
 occipitais
-occipital
 Occipital
 occipitalización
 occipitoanterior
@@ -66028,7 +64606,6 @@ oclusión
 Oclusión
 oclusionadas
 oclusivo-a
-oco
 Oco
 ocorre
 Ocorre
@@ -66042,7 +64619,6 @@ ocrópira
 octana
 octano
 octovalente
-ocular
 oculares
 oculi
 oculista
@@ -66742,7 +65318,6 @@ Orde
 ordena
 ordenada
 ordenadas
-ordenador
 ordenados
 ordenar
 ordenativa
@@ -66834,7 +65409,6 @@ orixinadas
 orixinado
 orixinados
 orixinais
-orixinal
 orixina-las
 orixinan
 Orixinan
@@ -67423,7 +65997,6 @@ oxicromatina
 oxidación
 oxidación-reducción
 oxidado-a
-oxidante
 oxidantes
 oxidase
 oxidativo
@@ -67597,7 +66170,6 @@ paleta
 paliación
 palial
 paliar
-paliativo
 paliativo-a
 palicinesia
 pálida
@@ -67943,7 +66515,6 @@ paquisinovite
 paquitriquia
 paquivaxinalite
 paquivaxinite
-par
 Par
 para
 Para
@@ -68258,7 +66829,6 @@ parasitemia
 parasiticida
 parasitífero-a
 parasitismo
-parasito
 Parasito
 parasito-a
 parasitofobia
@@ -68356,7 +66926,6 @@ parece
 Parece
 parecen
 parecida
-parecido
 parecidos
 parectasia
 parectropía
@@ -68406,7 +66975,6 @@ paridensidade
 paridrose
 paries
 parietais
-parietal
 parietal
 Parietal
 parietario
@@ -68548,7 +67116,6 @@ pasible
 pasiva
 pasivamente
 pasivismo
-pasivo
 pasivo-a
 pasivos
 pasmado
@@ -68702,7 +67269,6 @@ pectinóxeno
 pectización
 pectolítico-a
 pectorais
-pectoral
 pectoralxia
 pectoriloquia
 pectorofonía
@@ -69000,7 +67566,6 @@ percorre
 percorrido
 percusión
 Percusión
-percusor
 percutáneo-a
 percute
 percutir
@@ -69209,7 +67774,6 @@ perineuro
 periódica
 periodicamente
 periodicidade
-periódico
 periódicos
 periodismo
 período
@@ -69421,7 +67985,6 @@ persistentes
 persoa
 Persoa
 persoais
-persoal
 Persoal
 persoas
 persodina
@@ -70536,7 +69099,6 @@ poliplasto-a
 poliplastocitose
 polipleurodiafragmotomía
 poliplexía
-poliploide
 poliploidia
 polipnea
 pólipo
@@ -70762,7 +69324,6 @@ posiomanía
 positiva
 positivamente
 positivas
-positivo
 positivos
 positrón
 positróns
@@ -70877,7 +69438,6 @@ potasuria
 potencia
 potenciación
 potenciais
-potencial
 potencialización
 potencialmente
 potenica
@@ -70955,11 +69515,9 @@ precimóxeno
 precinese
 precipita
 precipitación
-precipitado
 Precipitado
 precipitador
 precipitando
-precipitante
 precipitina
 precipitinas
 precipitodiagnóstico
@@ -71070,7 +69628,6 @@ premelas
 premenstrual
 premielocito
 premioblasto
-premolar
 premonitorio
 premonitorio-a
 premoriencia
@@ -71101,7 +69658,6 @@ Preparación
 preparacións
 preparada
 preparadas
-preparado
 Preparado
 preparador-a
 preparados
@@ -71257,7 +69813,6 @@ prismoide
 prismoptómetro
 privación
 Privación
-privado
 privar
 proamnio
 proatlas
@@ -71272,7 +69827,6 @@ problemas
 procaína
 (procaína-aluminium-monosterate
 procainamida
-procariota
 procariotas
 procatártico-a
 procede
@@ -71496,7 +70050,6 @@ promotor
 promove
 promovida
 pronación
-pronador
 pronador-a
 pronatoflexor-a
 pronefros
@@ -71524,7 +70077,6 @@ propias
 propiedade
 Propiedade
 propiedades
-propio
 Propio
 propio-a
 propiocepción
@@ -71553,7 +70105,6 @@ proptise
 proptómetro
 proptose
 propulsión
-propulsor
 proqueratóxeno
 prorrafia
 prorrenina
@@ -71789,7 +70340,6 @@ proximais
 proximal
 próximas
 proximidade
-próximo
 próximo-a
 proximoataxia
 próximos
@@ -72091,7 +70641,6 @@ psoriasiforme
 ptármico-a
 pterigium
 pterigofarínxeo-a
-pterigoide
 pterigoides
 pterigoma
 pterigomaxilar
@@ -72139,7 +70688,6 @@ pubiana
 pubiano
 pública
 Públicas
-público
 pubofemoral
 puboplastia
 pubotomía
@@ -72171,7 +70719,6 @@ pulicaria
 pulicida
 pulícidos
 pulicose
-pulidor
 pulmólito
 pulmometría
 pulmómetro
@@ -72197,7 +70744,6 @@ pultáceo-a
 pululación
 pulverización
 pulverizada
-pulverizador
 pulvinar
 puna
 punción
@@ -72237,7 +70783,6 @@ puramente
 pureza
 purga
 purgación
-purgante
 Purgante
 purgantes
 purgativo-a
@@ -72252,7 +70797,6 @@ purinemia
 purínica
 purinómetro
 Purkinje
-puro
 puromucoso-a
 puros
 púrpura
@@ -72361,7 +70905,6 @@ quenofobia
 quentado
 quentados
 quentamento
-quente
 quentes
 quentura
 queracele
@@ -72618,7 +71161,6 @@ rachado
 rachadura
 rachis
 ración
-racional
 racoma
 Rad
 RAD
@@ -72634,7 +71176,6 @@ radiadas
 radiais
 radial
 radián
-radiante
 radica
 radicais
 radical
@@ -72772,7 +71313,6 @@ Ramsay-Hunt
 raña
 raña-la
 rancia
-rancio
 rancios
 rancor
 ranino-a
@@ -72785,7 +71325,6 @@ rápida
 rapidamente
 rápidas
 rapidez
-rápido
 rápidos
 Rappaport
 rapto
@@ -72845,7 +71384,6 @@ raspado
 rasquizo
 rata
 ratas
-raticida
 ratímetro
 rato
 raucedo
@@ -72871,10 +71409,8 @@ reactancia
 reactiva
 reactivación
 reactividade
-reactivo
 reactivos
 reais
-real
 realidade
 realiza
 realizaban
@@ -72965,7 +71501,6 @@ recoñecer
 recoñecerse
 recoñecido
 reconstitución
-reconstituínte
 reconstructora
 reconto
 recorda-las
@@ -73046,7 +71581,6 @@ Reed
 reeducación
 reeducacional
 referencia
-referente
 referida
 referidas
 referido
@@ -73060,11 +71594,9 @@ reflectida
 reflectidas
 reflectidos
 reflecti-la
-reflector
 reflexa
 reflexas
 reflexión
-reflexo
 Reflexo
 reflexófilo-a
 reflexógrafo
@@ -73149,7 +71681,6 @@ relacións
 relapso
 relativa
 relativamente
-relativo
 (relativo
 Relativo
 relativos
@@ -73157,7 +71688,6 @@ relatos
 relaxación
 relaxacións
 relaxado
-relaxante
 relaxina
 relixión
 relixiosa
@@ -73558,7 +72088,6 @@ reviste
 revitalización
 revulsión
 revulsivas
-revulsivo
 revulsivo-a
 rexe
 rexeita
@@ -73866,7 +72395,6 @@ Rp
 Ru
 rubedo
 rubefacción
-rubefaciente
 rubéola
 rubeose
 ruber
@@ -73961,7 +72489,6 @@ sacrartróxeno-a
 sacras
 sacras
 sacrectomía
-sacro
 Sacro
 sacrociática
 sacrociático
@@ -74004,7 +72531,6 @@ Sahli-Nencki
 saia
 saída
 Saída
-saínte
 saíntes
 saír
 sal
@@ -74139,7 +72665,6 @@ sanitario-a
 sanitas
 sanoformo
 sans
-santónico
 Santorini
 santos
 Santos
@@ -74355,7 +72880,6 @@ secundípara
 secura
 seda
 sedación
-sedante
 sedantes
 sedativo-a
 sede
@@ -74532,7 +73056,6 @@ sensoparálise
 sensoriais
 sensorial
 sensorimuscular
-sensorio
 sensorivascular
 sensual
 sensualismo
@@ -74541,7 +73064,6 @@ sentado
 sentar
 sente
 séntese
-sentido
 sentidos
 sentimental
 sentimento
@@ -74560,7 +73082,6 @@ separada
 separadamente
 separadas
 separado
-separador
 Separador
 separados
 separalas
@@ -74606,7 +73127,6 @@ seren
 seres
 Sergent
 sería
-serial
 sérica
 séricas
 sérico
@@ -74685,7 +73205,6 @@ serven
 servindo
 serviren
 servosistema
-sesamoide
 Sesamoide
 sésil
 setáceo-a
@@ -74901,7 +73420,6 @@ simpática
 simpaticalxia
 simpáticas
 simpaticismo
-simpático
 simpático-a
 simpaticoblasto
 simpaticolítico-a
@@ -75237,7 +73755,6 @@ sobreparto
 sobreproducción
 sobrequentado
 sobresae
-sobresaínte
 sobresalto
 sobresaturación
 sobrevivente
@@ -75293,7 +73810,6 @@ solidificación
 solidificada
 solidificado
 solidificou
-sólido
 Sólido
 sólido-a
 sólido-líquido
@@ -75370,7 +73886,6 @@ somite
 somnambulismo
 somnámbulo-a
 somnifaciente
-somnífero
 somnífero-a
 somniferum
 somniloquia
@@ -75506,7 +74021,6 @@ subclínico-a
 subcloruro
 subcondral
 subconsciencia
-subconsciente
 subconxuntival
 subcorneais
 subcortical
@@ -75566,7 +74080,6 @@ súbito
 sublaio
 subletal
 sublimación
-sublimado
 sublimado-a
 subliminar
 sublinguais
@@ -75706,7 +74219,6 @@ sudoral
 sudorese
 sudorífero-a
 sudorífica
-sudorífico
 sudorífico-a
 sudorípara
 sudoríparas
@@ -75715,7 +74227,6 @@ sudoríparos
 sudorrea
 sueca
 suficiencia
-suficiente
 sufixo
 sufocación
 sufocante
@@ -75820,7 +74331,6 @@ superflexión
 superimpregnación
 superinfección
 superinvolución
-superior
 superiores
 superlactación
 superletal
@@ -75854,8 +74364,6 @@ supervivencia
 súpeto
 supina
 supinación
-supinador
-supino
 supino-a
 suplagotoxina
 suplementario-a
@@ -75944,7 +74452,6 @@ supravaxinal
 supraxacente
 supresión
 Supresión
-supresor
 suprimidos
 supuración
 Supuración
@@ -75956,7 +74463,6 @@ supuran
 supurando
 supurante
 supurativa
-supurativo
 supurativo-a
 supurativos
 sur
@@ -76117,7 +74623,6 @@ taludo-a
 talus
 tama
 tamaño
-tamaño
 tamaños
 tambor
 tamén
@@ -76144,7 +74649,6 @@ tánico
 taníxeno
 tántalo
 tante
-tanto
 tantrum
 tanxencial
 tapa
@@ -76394,7 +74898,6 @@ tempo
 Tempo
 tempolábil
 temporais
-temporal
 temporal:
 Temporal
 temporalmente
@@ -76512,7 +75015,6 @@ tensións
 tensivo-a
 tenso
 tenso-a
-tensor
 tenta
 tentáculo
 tentativa
@@ -76692,7 +75194,6 @@ terra
 Terra
 terramicina
 terras
-terreo
 terrestre
 terrestres
 terrícola
@@ -77287,7 +75788,6 @@ topectomía
 topestesia
 tópica
 topicamente
-tópico
 topoalxia
 topoanestesia
 topodiagnóstico
@@ -77402,7 +75902,6 @@ toxicación
 tóxicas
 toxicida
 toxicidade
-tóxico
 Tóxico
 tóxico-a
 toxicodermia
@@ -77506,7 +76005,6 @@ trama
 tramo
 tramos
 trancazo
-tranquilizante
 tranquilizantes
 transabdominal
 transacción
@@ -77543,7 +76041,6 @@ transfórmaas
 transformación
 Transformación
 transformado
-transformador
 transforman
 transformando
 transformar
@@ -77578,7 +76075,6 @@ transmisible
 transmisibles
 transmisión
 Transmisión
-transmisor
 Transmisor
 transmisor-a
 transmisoras
@@ -77597,7 +76093,6 @@ transo
 transocular
 transonancia
 transpapilar
-transparente
 transperitoneal
 transpirable
 transpiración
@@ -77611,7 +76106,6 @@ transpleural
 transporta
 transportada
 transportado
-transportador
 transportadoras
 transporta-lo
 transporta-los
@@ -77653,7 +76147,6 @@ trapeciforme
 trapecio
 Trapecio
 trapeciometacarpiano-a
-trapezoide
 Trapezoide
 traquea
 traqueal
@@ -77780,7 +76273,6 @@ traxectoria
 traxectos
 trazada
 trazado
-trazador
 trazados
 trazo
 trazos
@@ -77933,7 +76425,6 @@ tricopoliose
 trico-Prefixo
 tricoptilose
 tricoquiste
-tricorne
 tricorrea
 tricorrexe
 tricorrexomanía
@@ -78492,7 +76983,6 @@ ultrasonoterapia
 ultrasóns
 ultratermo
 ultravermello-a
-ultravioleta
 ultravioletas
 ultravirus
 ultravisible
@@ -78574,7 +77064,6 @@ unido
 unidos
 uniflaxelado-a
 unifocal
-uniforme
 uniformemente
 uniglandular
 unigrávida
@@ -78605,7 +77094,6 @@ unitivo-a
 univalente
 univalvo-a
 univalvular
-universal
 universidade
 univitelino-a
 unixeminal
@@ -78819,7 +77307,6 @@ urinae
 urinar
 urinaria
 urinarias
-urinario
 urinario-a
 urinarios
 urinativo-a
@@ -79151,7 +77638,6 @@ valvuloplastia
 valvulotomía
 vampirismo
 vampiro
-van
 Van
 vanadio
 vanadismo
@@ -79164,7 +77650,6 @@ vapor
 vaporario
 vapores
 vaporización
-vaporizador
 vaporola
 varec
 varía
@@ -79207,7 +77692,6 @@ variedade
 Variedade
 variedades
 variedades:
-vario
 varíola
 Varíola
 varíola-zóster
@@ -79366,7 +77850,6 @@ vehículos
 Veillonella
 velamen
 velamentoso-a
-velar
 velenífero-a
 velenífico-a
 veleno
@@ -79669,7 +78152,6 @@ viabilidade
 viable
 vial
 vías
-viaxar
 víbice
 víbora
 vibración
@@ -79730,7 +78212,6 @@ Vincent
 vincha
 vincristina
 vinculado
-vincular
 viñesen
 vinilo
 vinilpirrolidona
@@ -79834,7 +78315,6 @@ visuais
 visual
 visualización
 Visualización
-visualizar
 visuauditivo-a
 visuopsíquico-a
 visuosensorial
@@ -79963,7 +78443,6 @@ vomerobasilar
 vómica
 vomicoso-a
 vomipurgante
-vomitar
 vomitivo-a
 vómito
 Vómito
@@ -80111,7 +78590,6 @@ xandra
 xanela
 xanicefalia
 xanicéfalo
-xantar
 xantato
 xanteína
 xantelasma
@@ -80165,7 +78643,6 @@ xaroposo-a
 xarrete
 xarretes
 xastre
-xaxuar
 xaxún
 Xe
 xeado-a
@@ -80354,7 +78831,6 @@ xeralmente
 Xeralmente
 xeran
 xerántico-a
-xerar
 xeraríanse
 xerasia
 xerga
@@ -80381,7 +78857,6 @@ xerminativo-a
 xerminoblasto
 xerminocito
 xermi-Prefixo
-xermolar
 xermolo
 xermóxeno
 xerocomía
@@ -80521,11 +78996,9 @@ xipsose
 xirado
 xira-lo
 xiran
-xirar
 xiratorio
 xirencéfalo-a
 xiringa
-xiringar
 xiro
 Xiro
 xirocroma
@@ -80557,12 +79030,10 @@ xugal
 xugomaxilar
 xugulación
 xugulante
-xugular
 xugulares
 xugulograma
 xuízo
 xulepe
-xulgar
 xuramento
 xurdan
 xurdindo
@@ -80624,7 +79095,6 @@ zoamilina
 zoandria
 zoante
 zoantropía
-zoar
 zoescopio
 zoético-a
 zoiatría
